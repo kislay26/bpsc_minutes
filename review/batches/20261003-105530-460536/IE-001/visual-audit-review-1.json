@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-review-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 2793,
+    "candidatesTokenCount": 46,
+    "totalTokenCount": 5305,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 635
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2158
+      }
+    ],
+    "thoughtsTokenCount": 2466,
+    "serviceTier": "standard"
+  },
+  "content": "{\"ok\":false,\"issues\":[\"The section kicker 'AMID ROW OVER OBJECTIONS BY ELECTION COMMISSIONERS TO SIR-RELATED DECISIONS AND GAPS IN PROCESSES' is missing from the top of the cutting.\"]}"
+}

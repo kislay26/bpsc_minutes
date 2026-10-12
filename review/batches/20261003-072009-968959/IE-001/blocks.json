@@ -1,0 +1,1159 @@
+[
+  {
+    "id": 0,
+    "kind": "image",
+    "bbox": [
+      0.0,
+      0.3427734375,
+      1500.0,
+      2383.3427734375
+    ],
+    "font_min": 0,
+    "font_max": 0,
+    "text": ""
+  },
+  {
+    "id": 1,
+    "kind": "text",
+    "bbox": [
+      25.16404151916504,
+      209.68057250976562,
+      91.74948120117188,
+      283.16851806640625
+    ],
+    "font_min": 11.190832138061523,
+    "font_max": 12.789523124694824,
+    "text": "LATE CITY 18+4 PAGES %7.00 (8 RAIPUR, 15 SRINAGAR)",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 2,
+    "kind": "text",
+    "bbox": [
+      2.5373449325561523,
+      -2.3220205307006836,
+      179.65626525878906,
+      18.349044799804688
+    ],
+    "font_min": 15.986903190612793,
+    "font_max": 15.986903190612793,
+    "text": "WWW.INDIANEXPRESS.COM",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 3,
+    "kind": "text",
+    "bbox": [
+      1103.713623046875,
+      43.991912841796875,
+      1485.6199951171875,
+      194.66961669921875
+    ],
+    "font_min": 19.184284210205078,
+    "font_max": 52.75678253173828,
+    "text": "Wind in her Hair Women in India are riding further, faster and in greater numbers. What holds them together is",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 4,
+    "kind": "text",
+    "bbox": [
+      1103.7518310546875,
+      209.6204376220703,
+      1168.1534423828125,
+      234.732666015625
+    ],
+    "font_min": 19.184284210205078,
+    "font_max": 19.184284210205078,
+    "text": "SCREEN",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 5,
+    "kind": "text",
+    "bbox": [
+      1116.1221923828125,
+      238.45660400390625,
+      1390.268798828125,
+      285.18951416015625
+    ],
+    "font_min": 19.184284210205078,
+    "font_max": 19.184284210205078,
+    "text": "At his centenary celebrations,\r\nunpacking Uttam Kumar's appeal",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 6,
+    "kind": "text",
+    "bbox": [
+      25.192785263061523,
+      149.9538116455078,
+      114.81697845458984,
+      197.44931030273438
+    ],
+    "font_min": 14.388213157653809,
+    "font_max": 14.388213157653809,
+    "text": "NEW DELHI, SEPTEMBER 27, 2026",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 7,
+    "kind": "text",
+    "bbox": [
+      1334.323486328125,
+      1093.4986572265625,
+      1481.690673828125,
+      1135.7041015625
+    ],
+    "font_min": 31.973806381225586,
+    "font_max": 31.973806381225586,
+    "text": "Happening",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 8,
+    "kind": "text",
+    "bbox": [
+      1369.5108642578125,
+      1125.4725341796875,
+      1446.50390625,
+      1167.677978515625
+    ],
+    "font_min": 31.973806381225586,
+    "font_max": 31.973806381225586,
+    "text": "\b\t\n\u0002\u000b"
+  },
+  {
+    "id": 9,
+    "kind": "text",
+    "bbox": [
+      2.4957470893859863,
+      1937.1015625,
+      1485.2877197265625,
+      2011.8323974609375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 43.16463851928711,
+    "text": "e HE WAS 15 WHEN HE GOT ON HIS FAVOURITE RIDE — THE TRAIN — THAT TOOK HIM FAR AWAY FROM HOME Train to nowhere, Facebook reel and road home: 21-yr search fora Bihar man ends",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 10,
+    "kind": "text",
+    "bbox": [
+      2.4957470893859863,
+      2015.4571533203125,
+      161.4184112548828,
+      2062.477783203125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Santosh Singh Maheshpura (Madhubani), September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 11,
+    "kind": "text",
+    "bbox": [
+      2.4957149028778076,
+      2080.0634765625,
+      173.00726318359375,
+      2335.853759765625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "FOR MOST, there’s nothing un- usual about the Mahrail Rail- way Station in Bihar’s Madhu- bani district. A blink-and-you-miss station on ern Central Railway Zone, it’s exactly how you would expect one in rural India tobe — quiet, nondescript and, save for two stationary tempo trucks, a cow and a few stragglers, nearly empty. But for Ram Shanker Kush- waha from Madhubani’s Ma- the Sakri-Jhanjhar- pur-Laukaha Bazar ine under the East-",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 12,
+    "kind": "text",
+    "bbox": [
+      191.1282196044922,
+      2019.31298828125,
+      361.6385803222656,
+      2335.8525390625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "heshpura village, this is a place close to his heart. Only 400 metres from his village, the sta- tion is where he spent hours daydreaming about trains and waiting fora chance to ride one, even if only to the next station. It is also where he, as a 15-year- old, boarded a random train that took him 1,000- odd km away to Madhya Pradesh’s Gwalior — an act that separated him from his family for 21 years. Now 36, Shanker reunited with his family on September 7, after a Facebook video posted by Gwalior Deputy Superin- tendent of Police (DSP) Santosh Patel. The video, made after",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 13,
+    "kind": "text",
+    "bbox": [
+      379.7607116699219,
+      2019.311767578125,
+      550.2708129882812,
+      2335.851318359375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "Patel visited the state-run Ash- ram Swarg Sadan, where Shanker had been living for eight years, featuredamanina muretha — a traditional head- gear worn by many North In- dian farmers — introducing himselfas “Shanker Kushwaha from Anand Nagar, Bihar”. “T was drawn to his smile and mentioned it in the post that ultimately helped find him. I’m thrilled that my post eventually reunited aman with his family,’ DSP Santosh Patel tells The Indian Express. It was on September 4, 2026 — Janmashtami — _ that Shanker’s oldest brother Lalit Shastri spotted the Facebook post. “With trembling hands, I",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 14,
+    "kind": "text",
+    "bbox": [
+      568.393310546875,
+      2292.686767578125,
+      738.9036865234375,
+      2335.851318359375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "dialled the number listed on DSP Santosh Patel’s post,” says Lalit, a priest who also runs a",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 15,
+    "kind": "text",
+    "bbox": [
+      757.02587890625,
+      2292.686767578125,
+      927.5358276367188,
+      2335.851318359375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "bike spare-parts business. Shanker’s fascination with trains began early. According to",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 16,
+    "kind": "text",
+    "bbox": [
+      945.6585693359375,
+      2019.310546875,
+      1116.1690673828125,
+      2335.85009765625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "his father Rajendra, he would frequently hop on a local train and return an hour ortwo later. On December 6, 2005, Shanker undertook a train jour- ney that would divide him from his family for over two decades. It was Vivah Panchami, and Maheshpura was abuzz with festivities marking the celestial wedding of Ram and Sita — an event that drew sadhus and as- cetics from across the country. “A sadhu from Ayodhya asked if I wanted to go with him. Iasked how he was travel- ling, and he said, ‘by train’,” Shanker says. Without bothering to packa spare set of clothes, Shanker set offto Ayodhya. What happened",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 17,
+    "kind": "text",
+    "bbox": [
+      1134.291259765625,
+      2019.309326171875,
+      1304.929443359375,
+      2335.848876953125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "next is still hazy, blurred be- tween train journeys. But both the police and the family believe he drifted from place to place, unable to tell where he was or where he was meant to go. “He kept confusing Jhanjharpur’ and Jharkhand’, unaware that while the former was a block in Madhubani, the latter was an entire state to the south of Bihar,” says Lalit. In 2018, Gwalior’s state-run Ashram Swarg Sadan found Shanker at the city railway sta- tion. “Ihave noclear memory of how or when I reached Gwa- lior,” says Shanker. “Iremember living around the Gwalior rail- way station for years, sleeping on platforms or outdoors. I did-",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 18,
+    "kind": "text",
+    "bbox": [
+      1322.9234619140625,
+      2019.30810546875,
+      1493.43798828125,
+      2183.97265625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "n'tlike begging, soI survived on food given by passersby or shopkeepers, and did odd jobs at roadside dhabas.” Adds Pawan Suryavanshi, the shelter in-charge: “We kept him under medical care until he recovered. He also spoke of a brother living in Delhi. Auth- orities later found out this was his brother Lallan Kushwaha.”",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 19,
+    "kind": "text",
+    "bbox": [
+      1322.9234619140625,
+      2195.423828125,
+      1493.43505859375,
+      2338.40771484375
+    ],
+    "font_min": 11.990178108215332,
+    "font_max": 15.986903190612793,
+    "text": "The return Back in Maheshpura, at the Kushwahas’ modest single- roofed mud house, Lalit was hopeful after watching the video: Could this be their lost brother who left home all those years ago? »CONTINUED ON PAGE 2",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 20,
+    "kind": "text",
+    "bbox": [
+      568.399169921875,
+      2245.104248046875,
+      877.2747192382812,
+      2277.970703125
+    ],
+    "font_min": 9.592142105102539,
+    "font_max": 13.588868141174316,
+    "text": "Shanker Kushwaha (centre) with his parents at his home in Maheshpura in Bihar’s Madhubani district. raHUL SHARMA",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 21,
+    "kind": "text",
+    "bbox": [
+      145.50804138183594,
+      2161.28857421875,
+      218.72824096679688,
+      2203.564208984375
+    ],
+    "font_min": 15.986918449401855,
+    "font_max": 22.38167953491211,
+    "text": "PAGE1 anchor",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 22,
+    "kind": "text",
+    "bbox": [
+      945.67626953125,
+      1392.7674560546875,
+      1088.279541015625,
+      1424.6005859375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "DivyaA New Delhi, September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 23,
+    "kind": "text",
+    "bbox": [
+      945.67626953125,
+      1442.1861572265625,
+      1116.441650390625,
+      1895.4130859375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "A DAY after Pakistan Prime Minister Shehbaz Sharif raked up the issue of Kashmir and de- scribed India’s suspension of the Indus Waters Treaty as an “act of war”, External Affairs Minister S Jaishankar, referring to Pakistan as “a serial practi- tioner of terrorism”, told the United Nations General As- sembly Saturday that attempts to “normalise terrorism and claim immunity from its con- sequences” will not stand and India will exercise its right to defend itself. He also called out “weapon- isation of everything” in a world roiled by conflicts — from chokepoints to constrict- ing market access — and flagged the “mindset of ex- treme competition” that is “undermining institutions”. Inastrong rebuttal to Sharif’s remarks from the UNGA po- dium, Jaishankar, without nam- inghim, said, “Yesterday, aserial practitioner of terrorism misrep- resented facts before this assem-",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 24,
+    "kind": "text",
+    "bbox": [
+      1134.307861328125,
+      1821.873291015625,
+      1304.8818359375,
+      1897.9686279296875
+    ],
+    "font_min": 11.990178108215332,
+    "font_max": 12.789523124694824,
+    "text": "bly. Arguments were invoked to normalise terrorism and claim immunity from its conse- quences. That will not stand.” »CONTINUED ON PAGE 2",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 25,
+    "kind": "text",
+    "bbox": [
+      945.6698608398438,
+      1098.8819580078125,
+      1261.0308837890625,
+      1126.0869140625
+    ],
+    "font_min": 20.782974243164062,
+    "font_max": 20.782974243164062,
+    "text": "AT UN GENERAL ASSEMBLY SESSION",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 26,
+    "kind": "text",
+    "bbox": [
+      2.192780017852783,
+      663.7645874023438,
+      144.79598999023438,
+      695.5977172851562
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Damini Nath New Delhi, September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 27,
+    "kind": "text",
+    "bbox": [
+      2.1926839351654053,
+      713.1832885742188,
+      173.0676727294922,
+      1060.09912109375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "INITS first meeting since The Indian Express reported on the deep divide within the Election Commission over the past 10 months, the poll panel on Sat- urday sought to address several concerns raised by its two com- missioners Sukhbir Singh Sandhu and Vivek Joshi. Electors who were issued notices for “logical discrep- ancies” and for being “un- mapped” in the ongoing Special Intensive Revision (SIR) of elec- toral rolls will not be required to attend hearings to establish their eligibility, a statement is- sued by the ECI said. This exemption from in- person hearings will be a relief tolakhs of electors who were is- sued notices in the ongoing SIR. The decision comes as",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 28,
+    "kind": "text",
+    "bbox": [
+      190.87721252441406,
+      667.62060546875,
+      361.8220520019531,
+      1060.0989990234375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "hearings are being held across states on the basis of system- generated notices. “Unmapped” voters are those whose names did not fig- ure in the rolls of the previous intensive revision, and who were unable to provide the names of their parents or grandparents too during that revision. “Logical discrep- ancies” refers to certain dis- crepancies flagged by the ECI’s centralised software based on which voters are issued notices following which they need to submit additional documen- tary proof to stay in the rolls. “In case of any person to whom notice has been issued during the ongoing SIR, for being unmapped and logical discrepancies, BLOs will visit the homes of such persons for collection of documents and thereafter upload them on the",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 29,
+    "kind": "text",
+    "bbox": [
+      945.6160278320312,
+      713.1831665039062,
+      1116.177734375,
+      1062.653076171875
+    ],
+    "font_min": 11.990178108215332,
+    "font_max": 12.789523124694824,
+    "text": "ECINet, for decision by the ERO. Such persons need not be called for hearing to ERO/AERO office. Only in exceptional cir- cumstances, as decided by the ERO, the hearing will be held preferably online. Any adult member of the family can be authorised by the elector to at- tend the hearing on their behalf, ifrequired,” the EC announced. The Commission, compris- ing Chief Election Commis- sioner Gyanesh Kumar, and ECs Sandhu and Joshi, held a meeting at 3pm on Saturday, the EC statement said. Itunder- lined that the press note had the “approval of the full Com- mission” and released a photo of the three-member EC at the meeting. »CONTINUED ON PAGE 2",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 30,
+    "kind": "text",
+    "bbox": [
+      3.4174580574035645,
+      376.86767578125,
+      1109.474609375,
+      531.5505981445312
+    ],
+    "font_min": 68.50265502929688,
+    "font_max": 68.50265502929688,
+    "text": "Disquiet within, all three Election Commissioners meet, take first steps",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 31,
+    "kind": "text",
+    "bbox": [
+      3.3655450344085693,
+      353.81707763671875,
+      1009.4273071289062,
+      381.0220031738281
+    ],
+    "font_min": 20.782974243164062,
+    "font_max": 20.782974243164062,
+    "text": "AMID ROW OVER OBJECTIONS BY ELECTION COMMISSIONERS TO SIR-RELATED DECISIONS AND GAPS IN PROCESSES",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 32,
+    "kind": "text",
+    "bbox": [
+      2.192776918411255,
+      533.1981201171875,
+      353.0959777832031,
+      646.7051391601562
+    ],
+    "font_min": 35.17118835449219,
+    "font_max": 35.17118835449219,
+    "text": "Unmapped voters need not attend hearings, ECINet to get a review",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 33,
+    "kind": "text",
+    "bbox": [
+      1134.30224609375,
+      663.7645874023438,
+      1268.2467041015625,
+      695.5977172851562
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Ritika Chopra Mumbai, September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 34,
+    "kind": "text",
+    "bbox": [
+      1134.30224609375,
+      713.1832885742188,
+      1304.8128662109375,
+      877.8484497070312
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "THREE DAYS ago, the Election Commission of India had a straightforward answer to The Indian Express investigation into how the three-member body was functioning. Two of its members had re- corded objections at least 14 times to decisions touching the core of the Commission’s man-",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 35,
+    "kind": "text",
+    "bbox": [
+      1322.933837890625,
+      667.62060546875,
+      1493.7003173828125,
+      880.40234375
+    ],
+    "font_min": 11.990178108215332,
+    "font_max": 12.789523124694824,
+    "text": "date: who gets registered as a voter, who gets deleted and re- stored, who appeals against those restorations, and who controls the systems through which the electoral roll is maintained. The Commission called those notes “suggestions” and “in- puts”, part of normal de- liberation. The important deci- sions of the past year, it insisted, »CONTINUED ON PAGE 2",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 36,
+    "kind": "text",
+    "bbox": [
+      2.5307910442352295,
+      307.0744323730469,
+      1492.28857421875,
+      323.61126708984375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "DAILY FROM: AHMEDABAD, CHANDIGARH, DELHI, JAIPUR, KOLKATA, LUCKNOW, MUMBAI, NAGPUR, PATNA, PUNE, VADODARA",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 37,
+    "kind": "text",
+    "bbox": [
+      379.1988830566406,
+      787.0987548828125,
+      919.9083862304688,
+      804.7778930664062
+    ],
+    "font_min": 9.592142105102539,
+    "font_max": 13.588868141174316,
+    "text": "CEC Gyanesh Kumar with ECs Sukhbir Singh Sandhu and Vivek Joshi in New Delhi, Saturday. x/@ecisveeP",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 38,
+    "kind": "text",
+    "bbox": [
+      380.27630615234375,
+      1531.2890625,
+      879.955078125,
+      1548.96826171875
+    ],
+    "font_min": 9.592142105102539,
+    "font_max": 13.588868141174316,
+    "text": "Sawan Barwal (second from left) clocked 2:11:37 to win silver in Nagoya, Japan, Saturday. REUTERS",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 39,
+    "kind": "text",
+    "bbox": [
+      1284.8433837890625,
+      746.0958251953125,
+      1342.524169921875,
+      810.04345703125
+    ],
+    "font_min": 63.94761276245117,
+    "font_max": 63.94761276245117,
+    "text": "\u0001\u0002"
+  },
+  {
+    "id": 40,
+    "kind": "text",
+    "bbox": [
+      380.271240234375,
+      1757.2686767578125,
+      508.5884704589844,
+      1789.1016845703125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Mihir Vasavda Nagoya, September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 41,
+    "kind": "text",
+    "bbox": [
+      380.2712707519531,
+      1806.687255859375,
+      550.78125,
+      1895.414306640625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "SAWAN BARWAL woke up at 3.30 am, ate abanana and, afew hours later, made Indian ath- letics history. On the damp streets of Na- goya, Barwal won silver in the",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 42,
+    "kind": "text",
+    "bbox": [
+      568.9046020507812,
+      1654.8114013671875,
+      739.4786987304688,
+      1895.4134521484375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "Asian Games marathon, ending India’s 44-year wait for a medal in the event — and becoming the first to win one outside home soil. The country’s last marathon medal in the Asiad was abronze, won by Hosur Kukkappa See- tharan in New Delhi in 1982. The 28-year-old clocked 2:11:37, lowering his own na- tional record, but there was no catching Japan’s Ichitaka Ya- mashita, who pulled away to win gold in 2:10:49. “This feels special,” said Barwal. “To wina medal, and set a national rec-",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 43,
+    "kind": "text",
+    "bbox": [
+      757.537841796875,
+      1654.810546875,
+      928.328857421875,
+      1897.9686279296875
+    ],
+    "font_min": 11.990178108215332,
+    "font_max": 12.789523124694824,
+    "text": "ord doing it and ending a long wait for a marathon medal... this was my target.” For Barwal, competing in only his second marathon, the silver was the culmination ofan extraordinary transformation — and not bad for someone who had taken up marathon running just a year ago. More- over, there were 11 athletes in the 20-man field who had run amarathon faster than him but the timings of his competitors didn’t overwhelm him. »CONTINUED ON PAGE 2",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 44,
+    "kind": "text",
+    "bbox": [
+      380.271240234375,
+      1562.420654296875,
+      927.9223022460938,
+      1636.7596435546875
+    ],
+    "font_min": 35.17118835449219,
+    "font_max": 35.17118835449219,
+    "text": "Havildar from Himachal ends India’s 44-year wait for a medal in marathon",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 45,
+    "kind": "text",
+    "bbox": [
+      390.06829833984375,
+      1675.7047119140625,
+      472.1195068359375,
+      1734.920166015625
+    ],
+    "font_min": 15.986903190612793,
+    "font_max": 22.381664276123047,
+    "text": "EXPRESS AT ASIAN",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 46,
+    "kind": "text",
+    "bbox": [
+      1322.9324951171875,
+      1277.2412109375,
+      1491.9588623046875,
+      1425.8297119140625
+    ],
+    "font_min": 25.579044342041016,
+    "font_max": 25.579044342041016,
+    "text": "Nagaleaders agree toopenkey Manipur highway after talks with CentreinAssam",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 47,
+    "kind": "text",
+    "bbox": [
+      1322.932373046875,
+      1438.3302001953125,
+      1465.535400390625,
+      1470.1632080078125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Deeptiman Tiwary New Delhi, September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 48,
+    "kind": "text",
+    "bbox": [
+      1322.9324951171875,
+      1487.748779296875,
+      1493.5701904296875,
+      1897.9686279296875
+    ],
+    "font_min": 11.990178108215332,
+    "font_max": 12.789523124694824,
+    "text": "THE UNITED Naga Council (UNC) on Saturday agreed to temporarily lift its more than three-month economic block- ade of Manipur’s highways after a high-level tripartite meeting with the Centre and the Ma- nipur government in Assam, marking a significant break- through in efforts to ease the state's prolonged supply crisis. “We had a lengthy deliber- ation in connection with the economic blockade. We have come to an agreement that the government will address the de- mands of the UNC, and we will temporarily end the blockade. Our demandsarethe revocation ofthe SoO (Suspension of Oper- ations agreement with Kuki armed groups), the removal of Deputy Chief Minister Nemcha Kipgen and justice for the six Naga men,” UNC president Ng. Lorho told The Indian Express. »CONTINUED ON PAGE 2",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 49,
+    "kind": "text",
+    "bbox": [
+      2.726119041442871,
+      1225.704345703125,
+      136.67083740234375,
+      1272.7249755859375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Alok Deshpande & Shubhangi Khapre Mumbai, September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 50,
+    "kind": "text",
+    "bbox": [
+      2.726119041442871,
+      1290.310546875,
+      173.48257446289062,
+      1394.2254638671875
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "WITH MAHARASHTRA re- cording a rainfall deficit of 18% this year, the state govern- ment on Saturday declared drought in 265 of the state’s 358 tehsils — about three-fourths of Maharashtra.",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 51,
+    "kind": "text",
+    "bbox": [
+      2.7261505126953125,
+      1396.6234130859375,
+      173.2364501953125,
+      1530.913330078125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "The declaration, under the Drought Management Code, 2016, will trigger crop-loss sur- veys and a package of immedi- ate concessions, including waiver of land revenue, restruc- turing of crop loans, a stay on recovery of agriculture-related loans and relaxation of Viksit",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 52,
+    "kind": "text",
+    "bbox": [
+      191.3576202392578,
+      1457.37353515625,
+      361.86767578125,
+      1533.4674072265625
+    ],
+    "font_min": 11.990178108215332,
+    "font_max": 12.789523124694824,
+    "text": "Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G) norms. Finan- cial assistance for crop losses »CONTINUED ON PAGE 2",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 53,
+    "kind": "text",
+    "bbox": [
+      2.7261669635772705,
+      1095.8914794921875,
+      355.90087890625,
+      1214.194580078125
+    ],
+    "font_min": 36.76987838745117,
+    "font_max": 36.76987838745117,
+    "text": "Maharashtra declares drought in 75% of state amid rainfall deficit",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 54,
+    "kind": "text",
+    "bbox": [
+      2.9538679122924805,
+      1635.7681884765625,
+      145.5570831298828,
+      1682.788818359375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Amitabh Sinha & Harish Damodaran New Delhi, September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 55,
+    "kind": "text",
+    "bbox": [
+      2.9538509845733643,
+      1700.3743896484375,
+      173.01622009277344,
+      1897.9686279296875
+    ],
+    "font_min": 11.990178108215332,
+    "font_max": 12.789523124694824,
+    "text": "THE RAINFALL over Maha- rashtra this monsoon season has not been drastically different from other states so far. It has a rainfall deficit of 18%, while the country as a whole has a 13% deficit. Many other states — in- cluding Assam and Bihar, which have also experienced floods »CONTINUED ON PAGE 2 Ki.",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 56,
+    "kind": "text",
+    "bbox": [
+      2.9538838863372803,
+      1551.229248046875,
+      349.2143249511719,
+      1625.5682373046875
+    ],
+    "font_min": 35.17118835449219,
+    "font_max": 35.17118835449219,
+    "text": "Marathwada worst-hit, cloud over Rabi season",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 57,
+    "kind": "text",
+    "bbox": [
+      5.795780181884766,
+      1763.43017578125,
+      63.476531982421875,
+      1827.3778076171875
+    ],
+    "font_min": 63.94761276245117,
+    "font_max": 63.94761276245117,
+    "text": "\u0001\u0002"
+  },
+  {
+    "id": 58,
+    "kind": "text",
+    "bbox": [
+      191.36875915527344,
+      1409.7886962890625,
+      343.31939697265625,
+      1442.6553955078125
+    ],
+    "font_min": 9.592142105102539,
+    "font_max": 13.588868141174316,
+    "text": "A farmer in Mukhed, Nanded district. HAFIZKHAN PATHAN",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 59,
+    "kind": "text",
+    "bbox": [
+      1134.3348388671875,
+      1045.2872314453125,
+      1421.006103515625,
+      1062.97998046875
+    ],
+    "font_min": 13.588868141174316,
+    "font_max": 13.588868141174316,
+    "text": "The Indian Express report published on September 23",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 60,
+    "kind": "text",
+    "bbox": [
+      1134.30224609375,
+      377.0276794433594,
+      1473.8642578125,
+      548.8869018554688
+    ],
+    "font_min": 39.96725845336914,
+    "font_max": 39.96725845336914,
+    "text": "In 48 hours, a sharp turn: Steps map two ECs’ concerns but key silences remain",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 61,
+    "kind": "text",
+    "bbox": [
+      1134.0047607421875,
+      580.7627563476562,
+      1463.103515625,
+      652.7037963867188
+    ],
+    "font_min": 20.782974243164062,
+    "font_max": 20.782974243164062,
+    "text": "No word on appeals in West Bengal that the ECs had flagged or on Form 6 and chain of command in ECINet",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 62,
+    "kind": "text",
+    "bbox": [
+      1134.3189697265625,
+      353.81707763671875,
+      1264.8154296875,
+      381.0220031738281
+    ],
+    "font_min": 20.782974243164062,
+    "font_max": 20.782974243164062,
+    "text": "NEW NORMAL?",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 63,
+    "kind": "text",
+    "bbox": [
+      945.6727294921875,
+      1128.4317626953125,
+      1304.533935546875,
+      1293.8963623046875
+    ],
+    "font_min": 38.368568420410156,
+    "font_max": 38.368568420410156,
+    "text": "Jaishankar hits back at Pak PM: Serial terror practitioner’s bid for immunity won't stand",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 64,
+    "kind": "text",
+    "bbox": [
+      191.51004028320312,
+      1650.4349365234375,
+      345.7630615234375,
+      1692.5731201171875
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 19.184284210205078,
+    "text": "e RAINFALL DEFICIT (up to September 25)",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 65,
+    "kind": "text",
+    "bbox": [
+      193.06561279296875,
+      1884.0718994140625,
+      243.90399169921875,
+      1896.4744873046875
+    ],
+    "font_min": 9.592142105102539,
+    "font_max": 9.592142105102539,
+    "text": "SOURCE: IMD",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 66,
+    "kind": "text",
+    "bbox": [
+      204.77984619140625,
+      1694.3006591796875,
+      346.16796875,
+      1878.6171875
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "SOLAPUR | 57% BEED -49% HINGOLI -A8% JALNA -A6% DHARASHIV -A5% AHMEDNAGAR -AA% AMRAVATI 42% AKOLA AI% PARBHANI -38% NANDURBAR -37%",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 67,
+    "kind": "text",
+    "bbox": [
+      945.6727294921875,
+      549.8912353515625,
+      1116.1785888671875,
+      624.4231567382812
+    ],
+    "font_min": 13.588868141174316,
+    "font_max": 17.585594177246094,
+    "text": "INSIDE PAGE 6 “WISHY-WASHY’ NOTE IS DAMAGE CONTROL, SAYS CONGRESS",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 68,
+    "kind": "text",
+    "bbox": [
+      945.6727294921875,
+      635.3663330078125,
+      1115.545654296875,
+      684.8497924804688
+    ],
+    "font_min": 15.1875581741333,
+    "font_max": 15.1875581741333,
+    "text": "BJP RALLIES BEHIND EC: ‘RAHUL SHOULD EXPLAIN WHY HELIED’",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 69,
+    "kind": "text",
+    "bbox": [
+      1134.3221435546875,
+      1668.896728515625,
+      1304.827880859375,
+      1743.4287109375
+    ],
+    "font_min": 13.588868141174316,
+    "font_max": 17.585594177246094,
+    "text": "INSIDE PAGES 7, 12 INDIA WARNS PAK AFTER SHARIF’S ‘ACT OF WAR’ THREAT",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 70,
+    "kind": "text",
+    "bbox": [
+      1134.3221435546875,
+      1754.3721923828125,
+      1297.8616943359375,
+      1803.8555908203125
+    ],
+    "font_min": 15.1875581741333,
+    "font_max": 15.1875581741333,
+    "text": "TRUMP REJECTS IRAN PROPOSAL TO END WAR, OPEN HORMUZ",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 71,
+    "kind": "text",
+    "bbox": [
+      380.27630615234375,
+      852.9078369140625,
+      549.798583984375,
+      915.1864624023438
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "CONCERNS ONECINET: ‘Central- isation of electoral rolls’; Officers backed by law not getting proper access to ERONet",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 72,
+    "kind": "text",
+    "bbox": [
+      380.2763671875,
+      918.189697265625,
+      548.6121826171875,
+      980.4683227539062
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "OECI: A committee headed by Sr Deputy Election Commissioner and including an independent expert will review the ECINet",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 73,
+    "kind": "text",
+    "bbox": [
+      380.2763366699219,
+      985.0704345703125,
+      549.8909301757812,
+      1047.3489990234375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "CONCERN ON ‘LOGICAL DIS- CREPANCIES’: ECI filing appeals against voters who were first flagged for ‘logical discrepancies’",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 74,
+    "kind": "text",
+    "bbox": [
+      568.7403564453125,
+      853.0867919921875,
+      736.8201904296875,
+      884.8112182617188
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "by it, but then included by judicial officers in the SIR.",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 75,
+    "kind": "text",
+    "bbox": [
+      568.7403564453125,
+      887.814453125,
+      736.6026611328125,
+      980.4682006835938
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "0 ECI: BLOs will visit homes to col- lect documents from those issued notices during ongoing SIR for being unmapped and for logical discrepancies, and upload them on ECINet for decision by ERO",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 76,
+    "kind": "text",
+    "bbox": [
+      568.7403564453125,
+      985.0704345703125,
+      738.7259521484375,
+      1047.3489990234375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "CONCERN ON ‘ADDITION TO FORM 6’: Additions to Form 6 link- ing new voter registration to SIRis ‘illegal, unauthorised’. Cannot be",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 77,
+    "kind": "text",
+    "bbox": [
+      757.2041625976562,
+      824.7313232421875,
+      918.7996826171875,
+      841.2681884765625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "-:D,(9;,==G+J*:-,9D=/(;,=\u0018"
+  },
+  {
+    "id": 78,
+    "kind": "text",
+    "bbox": [
+      757.2041015625,
+      844.2714233398438,
+      925.910400390625,
+      1047.51806640625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "© ECI: For non-SIR period, the forms applicable as per Rules (the Registration of Electors Rules, 1960) will be used CONCERNS ONissues such as conduct of meetings, permissions, directions by Commission © ECI: Agenda will be circulated in advance and minutes will be issued for all Commission meet- ings; all directions issued by the Commissioners to officers shall be complied with",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 79,
+    "kind": "text",
+    "bbox": [
+      380.27716064453125,
+      821.9944458007812,
+      650.4608154296875,
+      847.3176879882812
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 19.184284210205078,
+    "text": "e KEY DECISIONS BY COMMISSION",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 80,
+    "kind": "text",
+    "bbox": [
+      1134.3189697265625,
+      1592.0391845703125,
+      1300.4432373046875,
+      1655.2808837890625
+    ],
+    "font_min": 9.592142105102539,
+    "font_max": 13.588868141174316,
+    "text": "External Affairs Minister S Jaishankar with Iran’s Foreign Minister Abbas Araghchiin New York. pti",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 81,
+    "kind": "text",
+    "bbox": [
+      945.67333984375,
+      1328.9874267578125,
+      1301.6641845703125,
+      1375.349365234375
+    ],
+    "font_min": 20.782974243164062,
+    "font_max": 20.782974243164062,
+    "text": "Flags ‘weaponisation of everything’, from chokepoints to market access hurdles",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 82,
+    "kind": "text",
+    "bbox": [
+      1322.635009765625,
+      1181.8936767578125,
+      1473.8927001953125,
+      1245.2169189453125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 13.588868141174316,
+    "text": "@PUBLIC SECTOR banks and regional rural banks will remain open today, ahead of a strike by bank unions.",
+    "text_source": "tesseract_ocr"
+  }
+]

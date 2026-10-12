@@ -1,0 +1,23 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "Cut for A4 is missing",
+      "Cut for A5 is missing",
+      "Cut for A6 is missing",
+      "Cut for A7 is missing",
+      "Cut for A8 is missing",
+      "Cut for A9 is missing"
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "A4: Headline 'Allthree Commissioners meet' is missing a space between 'All' and 'three', and the bottom of the crop incorrectly includes body text belonging to story A8 ('In 48 hrs, a sharp turn')."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  }
+]

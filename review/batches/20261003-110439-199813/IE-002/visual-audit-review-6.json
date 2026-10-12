@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-review-6",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 2790,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 3509,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2158
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 632
+      }
+    ],
+    "thoughtsTokenCount": 684,
+    "serviceTier": "standard"
+  },
+  "content": "{\"ok\": false, \"issues\": [\"The cutting for A6 is contaminated with an entirely separate article titled 'Manipur', violating the rule against merging separate stories.\"]}"
+}

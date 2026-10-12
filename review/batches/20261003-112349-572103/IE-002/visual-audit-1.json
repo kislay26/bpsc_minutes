@@ -1,0 +1,34 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "stage": "visual-audit-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 8405,
+    "candidatesTokenCount": 49,
+    "totalTokenCount": 11623,
+    "cachedContentTokenCount": 3985,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 7603
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 802
+      }
+    ],
+    "cacheTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 380
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 3605
+      }
+    ],
+    "thoughtsTokenCount": 3169,
+    "serviceTier": "standard"
+  },
+  "content": "{\"ok\":false,\"issues\":[\"Cut for A4 is missing\",\"Cut for A5 is missing\",\"Cut for A6 is missing\",\"Cut for A7 is missing\",\"Cut for A8 is missing\",\"Cut for A9 is missing\"]}"
+}

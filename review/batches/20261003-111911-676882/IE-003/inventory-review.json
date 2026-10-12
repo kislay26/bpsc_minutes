@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory-review",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 192148,
+    "candidatesTokenCount": 245,
+    "totalTokenCount": 194557,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 191056
+      }
+    ],
+    "thoughtsTokenCount": 2164,
+    "serviceTier": "standard"
+  },
+  "content": "{\"titles\": [\"Delhi SIR deadline revised for fourth time, final electoral roll now on Dec 4\", \"Rain lashes Delhi, temperature drops\", \"YUVRAJ SINGH MANCHANDA MURDER How can a body be cremated along with belongings: Court raps Gurugram Police\", \"‘The horses are gone, so is our work’: Workers at Delhi Race Club look for daily-wage jobs\", \"Now open, 3rd automated testing station for vehicles\", \"Once a family pastime, Mahjong finds a new table in Delhi’s social scene\"], \"roles\": {\"64\": {\"role\": \"headline\", \"reason\": \"This is the primary headline for the story about the electoral roll schedule revision.\"}, \"106\": {\"role\": \"headline\", \"reason\": \"This is the primary headline for the article about the court reprimanding the police regarding a cremation.\"}, \"110\": {\"role\": \"headline\", \"reason\": \"This is the primary headline for the article regarding the opening of a new vehicle testing station.\"}, \"131\": {\"role\": \"other\", \"reason\": \"This text labels an infographic tracking air quality and is not an independent news article.\"}}}"
+}

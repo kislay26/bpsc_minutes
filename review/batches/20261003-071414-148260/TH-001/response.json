@@ -1,0 +1,217 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "source_sha256": "5be565f7d96fadc087bd9e2416ab2026036ad240bde3bbc6bc7b6f719f33bac4",
+  "source_page": 1,
+  "native_geometry_checks_passed": true,
+  "accuracy_verified": false,
+  "bpsc_selection_tested": false,
+  "articles": {
+    "A1": "2 Naga civilians killed in Manipur’s Senapati; cowardly act, says CM",
+    "A2": "EC switches to damage control mode after facing ﬂak over SIR",
+    "A3": "Jaishankar lashes out at Sharif in UN speech",
+    "A4": "Maharashtra govt. declares drought in 265 taluks",
+    "A5": "‘Jharkhand govt. against mines Act to aid coal theft’",
+    "A6": "Out of sync: Bengaluru AI system mistakes guitar case for pillion rider, issues challan",
+    "A7": "Golden double",
+    "A8": "UPSC candidates challenge ‘ambiguous’ CSE questions",
+    "A9": "Congress urges top court to hold CEC accountable",
+    "A10": "China, U.S. agree to cut tariﬀ, launch AI dialogue"
+  },
+  "owners": {
+    "0": "exclude:print_mark",
+    "1": "exclude:masthead",
+    "2": "exclude:masthead",
+    "3": "exclude:masthead",
+    "4": "exclude:masthead",
+    "5": "exclude:masthead",
+    "6": "exclude:masthead",
+    "7": "exclude:masthead",
+    "8": "A1",
+    "9": "A1",
+    "10": "A1",
+    "11": "A1",
+    "12": "A1",
+    "13": "A1",
+    "14": "A2",
+    "15": "A2",
+    "16": "A2",
+    "17": "A2",
+    "18": "A2",
+    "19": "A2",
+    "20": "A2",
+    "21": "A2",
+    "22": "A2",
+    "23": "A2",
+    "24": "A2",
+    "25": "exclude:teaser",
+    "26": "exclude:teaser",
+    "27": "exclude:teaser",
+    "28": "exclude:teaser",
+    "29": "exclude:teaser",
+    "30": "exclude:teaser",
+    "31": "exclude:teaser",
+    "32": "exclude:teaser",
+    "33": "exclude:teaser",
+    "34": "exclude:teaser",
+    "35": "exclude:teaser",
+    "36": "exclude:teaser",
+    "37": "exclude:teaser",
+    "38": "exclude:teaser",
+    "39": "A3",
+    "40": "A3",
+    "41": "A3",
+    "42": "A3",
+    "43": "A3",
+    "44": "A3",
+    "45": "exclude:teaser",
+    "46": "exclude:masthead",
+    "47": "exclude:teaser",
+    "48": "A4",
+    "49": "A4",
+    "50": "A4",
+    "51": "A5",
+    "52": "A5",
+    "53": "A6",
+    "54": "A6",
+    "55": "A6",
+    "56": "A6",
+    "57": "A6",
+    "58": "A6",
+    "59": "A6",
+    "60": "A6",
+    "61": "A6",
+    "62": "A6",
+    "63": "A6",
+    "64": "A6",
+    "65": "A7",
+    "66": "A7",
+    "67": "A7",
+    "68": "A7",
+    "69": "A8",
+    "70": "A8",
+    "71": "A8",
+    "72": "A8",
+    "73": "A8",
+    "74": "A8",
+    "75": "A8",
+    "76": "A9",
+    "77": "A9",
+    "78": "A9",
+    "79": "A10",
+    "80": "A10",
+    "81": "A10",
+    "82": "A10",
+    "83": "A8",
+    "84": "A3",
+    "85": "exclude:print_mark",
+    "86": "exclude:print_mark",
+    "87": "exclude:masthead",
+    "88": "exclude:masthead",
+    "89": "exclude:masthead",
+    "90": "A2",
+    "91": "exclude:print_mark",
+    "92": "exclude:print_mark",
+    "93": "exclude:print_mark",
+    "94": "exclude:print_mark"
+  },
+  "regions": {
+    "A1": [
+      [
+        28.347681045532227,
+        1206.860107421875,
+        370.3023681640625,
+        1509.984375
+      ]
+    ],
+    "A2": [
+      [
+        147.06585693359375,
+        421.0924072265625,
+        715.4767456054688,
+        541.8392944335938
+      ],
+      [
+        147.0659942626953,
+        559.8458862304688,
+        607.714599609375,
+        850.84423828125
+      ],
+      [
+        621.86767578125,
+        737.1611328125,
+        726.4166870117188,
+        798.5396118164062
+      ]
+    ],
+    "A3": [
+      [
+        740.573974609375,
+        422.93109130859375,
+        963.9251708984375,
+        851.550537109375
+      ]
+    ],
+    "A4": [
+      [
+        28.347698211669922,
+        457.6407775878906,
+        132.87879943847656,
+        675.1242065429688
+      ]
+    ],
+    "A5": [
+      [
+        28.347700119018555,
+        692.4312133789062,
+        130.08441162109375,
+        822.065185546875
+      ]
+    ],
+    "A6": [
+      [
+        384.47235107421875,
+        1216.181884765625,
+        844.0595703125,
+        1510.4293212890625
+      ]
+    ],
+    "A7": [
+      [
+        28.347700119018555,
+        878.900634765625,
+        607.7099609375,
+        1175.6888427734375
+      ]
+    ],
+    "A8": [
+      [
+        621.8829956054688,
+        881.5137329101562,
+        963.9305419921875,
+        1175.8045654296875
+      ]
+    ],
+    "A9": [
+      [
+        621.8866577148438,
+        558.8530883789062,
+        724.364013671875,
+        719.8703002929688
+      ],
+      [
+        621.8870239257812,
+        811.1541137695312,
+        727.8778686523438,
+        851.3347778320312
+      ]
+    ],
+    "A10": [
+      [
+        859.301025390625,
+        1207.4266357421875,
+        964.73291015625,
+        1509.4840087890625
+      ]
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 16838,
+    "candidatesTokenCount": 378,
+    "totalTokenCount": 18342,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2184
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 14654
+      }
+    ],
+    "thoughtsTokenCount": 1126,
+    "serviceTier": "standard"
+  },
+  "content": "{\"assignments\": [{\"component_id\": 205, \"owner\": \"A9\"}, {\"component_id\": 206, \"owner\": \"A9\"}, {\"component_id\": 207, \"owner\": \"A9\"}, {\"component_id\": 208, \"owner\": \"A9\"}, {\"component_id\": 209, \"owner\": \"A9\"}, {\"component_id\": 210, \"owner\": \"A9\"}, {\"component_id\": 211, \"owner\": \"A9\"}, {\"component_id\": 212, \"owner\": \"A9\"}, {\"component_id\": 213, \"owner\": \"A9\"}, {\"component_id\": 214, \"owner\": \"A9\"}, {\"component_id\": 215, \"owner\": \"A9\"}, {\"component_id\": 216, \"owner\": \"A9\"}, {\"component_id\": 217, \"owner\": \"A9\"}, {\"component_id\": 218, \"owner\": \"A9\"}, {\"component_id\": 219, \"owner\": \"A9\"}, {\"component_id\": 220, \"owner\": \"A9\"}, {\"component_id\": 221, \"owner\": \"A9\"}, {\"component_id\": 222, \"owner\": \"A9\"}, {\"component_id\": 223, \"owner\": \"A9\"}, {\"component_id\": 224, \"owner\": \"A9\"}, {\"component_id\": 225, \"owner\": \"A9\"}, {\"component_id\": 226, \"owner\": \"A9\"}]}"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Crop A4 includes extraneous text from another story at the bottom.",
+      "Crop A5 includes extraneous text from another story at the bottom."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  }
+]

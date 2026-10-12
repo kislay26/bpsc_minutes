@@ -1,0 +1,19 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "Crop A2 contains mixed content from the adjacent story 'Jaishankar hits back at PM', specifically the fragment 'ASSEMBLY SESSION'.",
+      "Crop A3 is missing the 'RAINFALL DEFICIT' table which is an integral part of the article."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Crop A4: The headline 'Marathwada worst-hit, cloud over Rabi season' does not exist on the provided source page, and the article is a misgrouped mix of text from different stories."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  }
+]

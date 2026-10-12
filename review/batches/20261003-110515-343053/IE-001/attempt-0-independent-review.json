@@ -1,0 +1,13 @@
+{
+  "reviewer": "assistant visual inspection",
+  "scope": "All nine on-page cuts compared with original IE front page; off-page continuations and BPSC selection not tested",
+  "accepted_for_page_trial": true,
+  "crop_sha256": "c24119f3ec05f1c56ec55a9900b23fc2a61ae7c6c9dc935d8be69bb5c29af484",
+  "source_sha256": "8b144af7b5b7dfb1924f326d9265440449e137fe939dfe9c2dc8d83ded944c89",
+  "notes": [
+    "All nine independent stories retained, including the separate Marathwada story and Happening today brief.",
+    "Election article right column, section kickers, captions and continuation labels present.",
+    "Printed PAGE 1 anchor badge is legitimate original newspaper content.",
+    "Footer website and colour printer marks excluded."
+  ]
+}

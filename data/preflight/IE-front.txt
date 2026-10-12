@@ -1,0 +1,531 @@
+[2.2, 1.4, 119.2, 6.4]: WWW.INDIANEXPRESS.COM
+[17.2, 65.0, 61.8, 70.0]: NEW DELHI,
+[17.2, 71.1, 75.9, 76.1]: SEPTEMBER 27,
+[16.8, 77.2, 37.1, 81.7]: 2026
+[17.2, 90.0, 49.9, 93.9]: LATE CITY
+[16.8, 95.8, 55.6, 99.7]: 18+4 PAGES
+[17.2, 103.1, 36.2, 106.9]: 37.00
+[17.2, 108.9, 51.6, 113.1]: (%8 RAIPUR,
+[17.2, 114.2, 60.9, 118.3]: %15 SRINAGAR)
+[2.2, 130.8, 99.3, 134.7]: DAILY FROM:
+[112.5, 130.8, 207.9, 135.3]: AHMEDABAD,
+[221.1, 130.8, 324.8, 135.3]: CHANDIGARH,
+[29.6, 17.2, 484.1, 69.2]: S The Sunday
+[88.3, 64.2, 442.2, 118.9]: EXPRES
+[338.0, 130.8, 387.0, 135.3]: DELHI,
+[400.3, 130.8, 458.5, 135.3]: JAIPUR,
+[472.2, 130.8, 542.4, 135.3]: KOLKATA,
+[556.0, 130.8, 631.5, 135.3]: LUCKNOW,
+[645.2, 130.8, 707.9, 135.3]: MUMBAI,
+[2.6, 151.7, 672.1, 158.1]: AMID ROW OVER OBJECTIONS BY ELECTION COMMISSIONERS TO SIR-RELATED DECISIONS AND GAPS IN PROCESSES
+[3.1, 163.1, 671.2, 191.7]: Disquiet within, all three Election
+[3.5, 192.5, 738.3, 237.2]: Commissioners meet, take first steps
+[1.3, 226.7, 235.2, 241.4]: Unmapped voters need
+[1.8, 243.3, 201.2, 258.3]: not attend hearings,
+[1.8, 260.3, 220.7, 274.7]: ECINet to get a review
+[2.2, 280.8, 50.8, 285.6]: Damini Nath
+[1.3, 287.8, 96.2, 293.1]: New Delhi, September 26
+[1.8, 300.3, 113.9, 305.6]: IN ITS first meeting since The
+[1.3, 306.7, 114.7, 311.9]: Indian Express reported on the
+[1.8, 313.1, 114.7, 318.3]: deep divide within the Election
+[1.8, 319.4, 114.7, 324.7]: Commission over the past 10
+[1.8, 325.8, 114.3, 331.1]: months, the poll panel on Sat-
+[1.8, 332.2, 114.7, 337.5]: urday sought to address several
+[1.8, 338.6, 114.7, 343.9]: concerns raised by its two com-
+[1.8, 345.0, 114.7, 350.3]: missioners Sukhbir Singh
+[1.8, 351.4, 93.1, 355.6]: Sandhu and Vivek Joshi.
+[13.7, 357.8, 114.7, 361.9]: Electors who were issued
+[1.8, 364.2, 114.7, 369.4]: notices for “logical discrep-
+[1.8, 370.6, 114.7, 375.8]: ancies” and for being “un-
+[1.8, 376.9, 114.7, 382.2]: mapped” in the ongoing Special
+[1.8, 383.3, 114.7, 388.3]: Intensive Revision (SIR) of elec-
+[1.8, 389.7, 114.7, 395.0]: toral rolls will not be required to
+[1.8, 395.8, 114.7, 401.1]: attend hearings to establish
+[1.8, 402.2, 114.7, 407.5]: their eligibility, a statement is-
+[1.8, 408.6, 76.8, 413.9]: sued by the ECI said.
+[13.7, 415.0, 114.7, 420.3]: This exemption from in-
+[1.8, 421.4, 115.6, 426.7]: person hearings will be a relief
+[1.8, 427.8, 114.7, 431.9]: tolakhs of electors who were is-
+[1.8, 434.2, 115.2, 439.4]: sued notices in the ongoing
+[1.8, 440.6, 114.7, 444.7]: SIR. The decision comes as
+[127.5, 281.4, 240.5, 286.7]: hearings are being held across
+[127.5, 287.8, 240.5, 293.1]: states on the basis of system-
+[127.5, 293.9, 195.1, 299.2]: generated notices.
+[139.9, 300.3, 240.5, 305.6]: “Unmapped” voters are
+[127.5, 306.7, 240.5, 311.9]: those whose names did not fig-
+[127.5, 313.1, 240.5, 318.3]: ure in the rolls of the previous
+[127.5, 319.4, 240.5, 324.2]: intensive revision, and who
+[127.5, 325.8, 240.5, 331.1]: were unable to provide the
+[127.5, 332.2, 241.0, 337.5]: names of their parents or
+[127.5, 338.6, 240.5, 343.9]: grandparents too during that
+[127.5, 345.0, 240.5, 350.3]: revision. “Logical discrep-
+[127.5, 351.4, 240.5, 355.6]: ancies” refers to certain dis-
+[127.5, 357.8, 240.5, 363.1]: crepancies flagged by the ECI’s
+[127.5, 364.2, 240.5, 368.3]: centralised software based on
+[127.5, 370.6, 240.5, 374.7]: which voters are issued notices
+[127.5, 376.9, 240.5, 382.2]: following which they need to
+[127.5, 383.3, 240.5, 387.5]: submit additional documen-
+[127.5, 389.7, 232.1, 395.0]: tary proof to stay in the rolls.
+[139.9, 395.8, 240.5, 401.1]: “In case of any person to
+[127.5, 402.2, 240.5, 406.4]: whom notice has been issued
+[127.5, 408.6, 241.0, 413.9]: during the ongoing SIR, for
+[127.5, 415.0, 240.5, 420.3]: being unmapped and logical
+[127.5, 421.4, 240.5, 426.7]: discrepancies, BLOs will visit
+[127.5, 427.8, 241.0, 433.1]: the homes of such persons for
+[127.5, 434.2, 240.5, 438.3]: collection of documents and
+[127.5, 440.6, 240.5, 445.8]: thereafter upload them on the
+[2.2, 463.1, 229.9, 475.6]: Maharashtra declares
+[2.2, 480.0, 236.5, 495.6]: drought in 75% of state
+[2.2, 497.2, 207.0, 519.4]: amid rainfall deficit
+[2.2, 516.4, 68.0, 522.2]: Alok Deshpande
+[2.2, 522.8, 84.3, 528.6]: & Shubhangi Khapre
+[1.3, 528.6, 92.7, 536.1]: Mumbai, September 26
+[1.8, 542.8, 115.2, 546.7]: WITH MAHARASHTRA re-
+[2.2, 548.9, 116.1, 554.2]: cording a rainfall deficit of
+[2.2, 555.3, 115.2, 560.6]: 18% this year, the state govern-
+[2.2, 561.7, 115.2, 566.9]: ment on Saturday declared
+[2.2, 568.1, 115.2, 573.3]: drought in 265 of the state’s 358
+[1.8, 574.4, 116.1, 578.6]: tehsils — about three-fourths of
+[1.8, 580.8, 52.1, 585.0]: Maharashtra.
+[14.1, 587.2, 115.2, 591.9]: The declaration, under the
+[2.2, 593.6, 114.7, 598.9]: Drought Management Code,
+[1.8, 599.7, 115.2, 605.0]: 2016, will trigger crop-loss sur-
+[1.8, 606.1, 115.2, 611.4]: veys and a package of immedi-
+[2.2, 612.5, 115.2, 617.8]: ate concessions, including
+[1.8, 618.9, 115.2, 623.6]: waiver of land revenue, restruc-
+[1.8, 625.3, 115.2, 630.6]: turing of crop loans, a stay on
+[2.2, 631.7, 115.2, 636.9]: recovery of agriculture-related
+[2.2, 638.1, 115.2, 642.2]: loans and relaxation of Viksit
+[128.0, 593.3, 228.2, 598.3]: A farmer in Mukhed, Nanded
+[128.0, 599.4, 207.0, 603.9]: district. HarizkHAN PATHAN
+[128.0, 612.5, 241.0, 617.8]: Bharat-Guarantee for Rozgar
+[128.0, 617.8, 240.5, 625.3]: and Ajeevika Mission (Gramin)
+[128.0, 625.3, 240.5, 630.3]: (VB-G RAM G) norms. Finan-
+[128.0, 631.7, 241.0, 636.9]: cial assistance for crop losses
+[162.4, 638.6, 241.0, 642.2]: »CONTINUED ON PAGE 2
+[2.2, 653.9, 232.1, 667.2]: Marathwada worst-hit,
+[2.2, 670.3, 229.5, 682.2]: cloud over Rabi season
+[2.2, 688.6, 60.9, 693.3]: Amitabh Sinha
+[2.2, 695.0, 84.7, 699.7]: & Harish Damodaran
+[1.8, 700.6, 98.4, 708.1]: New Delhi, September 26
+[2.2, 714.4, 114.7, 718.6]: THE RAINFALL over Maha-
+[2.2, 719.7, 114.7, 727.8]: rashtra this monsoon season has
+[2.2, 727.2, 115.2, 732.5]: not been drastically different
+[2.2, 733.6, 115.2, 737.8]: from other states so far. It has a
+[55.2, 740.0, 115.6, 744.2]: rainfall deficit of
+[55.2, 746.4, 115.2, 751.1]: 18%, while the
+[55.2, 753.6, 115.2, 758.1]: country as a
+[32.2, 759.2, 114.7, 766.9]: e whole has a 13%
+[55.2, 765.6, 115.2, 770.8]: deficit. Many
+[55.2, 771.9, 114.7, 776.1]: other states — in-
+[2.2, 777.2, 115.2, 784.7]: cluding Assam and Bihar, which
+[2.2, 784.7, 114.7, 790.0]: have also experienced floods
+[36.6, 790.6, 117.4, 797.8]: »CONTINUED ON PAGE 2
+[128.4, 695.6, 230.4, 701.4]: e RAINFALL DEFICIT
+[128.0, 702.2, 214.0, 710.8]: (up to September 25)
+[136.8, 711.7, 229.5, 718.9]: SOLAPUR | 57%
+[137.2, 720.6, 230.4, 724.4]: BEED 49%
+[136.8, 725.8, 230.4, 735.0]: HINGOLI | -48%
+[136.8, 736.1, 230.4, 740.0]: JALNA 46%
+[137.2, 742.8, 229.9, 750.0]: DHARASHIV | -45%
+[136.8, 750.3, 230.4, 755.8]: AHMEDNAGAR | -44%
+[136.8, 756.9, 229.9, 766.9]: AMRAVATI | -42%
+[136.8, 766.1, 228.6, 771.4]: AKOLA | -41%
+[137.2, 772.8, 229.9, 781.9]: PARBHANI | -38%
+[137.2, 781.7, 229.5, 786.9]: NANDURBAR | -37%
+[128.9, 790.6, 162.4, 796.7]: SOURCE: IMD
+[253.3, 331.9, 613.0, 337.5]: CEC Gyanesh Kumar with ECs Sukhbir Singh Sandhu and Vivek Joshi in New Delhi, Saturday. x/@ecisveer
+[254.2, 347.8, 432.9, 353.6]: e KEY DECISIONS BY COMMISSION
+[253.8, 359.4, 365.8, 363.6]: CONCERNS ONECINET: ‘Central-
+[254.2, 365.8, 363.2, 370.6]: isation of electoral rolls’; Officers
+[253.8, 372.2, 363.6, 377.5]: backed by law not getting proper
+[253.8, 377.8, 312.9, 385.6]: access to ERONet
+[254.2, 386.9, 365.4, 392.2]: ECI: Acommittee headed by Sr
+[254.2, 393.3, 357.5, 398.6]: Deputy Election Commissioner
+[253.8, 399.7, 353.5, 405.0]: and including an independent
+[253.8, 406.1, 348.6, 411.4]: expert will review the ECINet
+[253.8, 415.3, 353.5, 419.2]: CONCERN ON‘LOGICALDIs-
+[253.8, 421.4, 362.3, 426.7]: CREPANCIES’: ECI filing appeals
+[253.8, 427.8, 349.1, 433.1]: against voters who were first
+[253.8, 434.2, 366.3, 439.4]: flagged for ‘logical discrepancies’
+[379.5, 358.3, 490.7, 365.8]: by it, but then included by judicial
+[379.5, 365.8, 438.7, 370.0]: officers in the SIR.
+[380.0, 373.1, 490.7, 381.1]: O ECI: BLOs will visit homes to col-
+[379.5, 379.4, 488.5, 387.5]: lect documents from those issued
+[379.5, 386.9, 476.6, 392.2]: notices during ongoing SIR for
+[379.5, 392.2, 481.5, 399.7]: being unmapped and for logical
+[379.5, 398.6, 482.3, 406.1]: discrepancies, and upload them
+[379.5, 406.1, 474.4, 411.4]: on ECINet for decision by ERO
+[379.5, 414.2, 477.5, 421.7]: CONCERN ON ‘ADDITIONTO
+[379.5, 420.3, 491.6, 428.3]: FORM 6’: Additions to Form 6 link-
+[379.5, 428.1, 492.1, 433.1]: ing new voter registration to SIRis
+[379.5, 434.2, 488.5, 439.4]: ‘illegal, unauthorised’. Cannot be
+[505.3, 347.5, 611.7, 352.8]: made unless govt amends rules.
+[505.3, 354.7, 605.0, 362.2]: O ECI: For non-SIR period, the
+[504.9, 362.2, 602.4, 367.5]: forms applicable as per Rules
+[504.9, 368.6, 597.5, 373.9]: (the Registration of Electors
+[505.3, 373.9, 586.1, 381.1]: Rules, 1960) will be used
+[504.9, 382.5, 603.7, 386.7]: CONCERNS ONissues suchas
+[504.9, 387.8, 616.5, 395.3]: conduct of meetings, permissions,
+[504.9, 395.3, 588.7, 400.6]: directions by Commission
+[505.3, 402.2, 612.5, 407.5]: O ECI: Agenda will be circulated
+[505.3, 408.6, 606.4, 412.8]: in advance and minutes will be
+[505.3, 413.9, 611.2, 421.9]: issued for all Commission meet-
+[505.3, 420.3, 610.3, 428.1]: ings; all directions issued by the
+[504.9, 427.8, 592.7, 431.9]: Commissioners to officers
+[504.9, 434.2, 579.0, 439.2]: shall be complied with
+[253.8, 644.2, 586.1, 649.7]: Sawan Barwal (second from left) clocked 2:11:37 to win silver in Nagoya, Japan, Saturday. reuTERS
+[253.8, 658.6, 616.1, 670.6]: Havildar from Himachal ends India’s
+[253.3, 675.0, 618.3, 690.0]: 44-year wait for a medal in marathon
+[260.4, 705.3, 314.2, 710.3]: EXPRESS AT
+[259.9, 696.7, 358.8, 722.5]: ASIAN 2)
+[260.4, 718.6, 367.6, 734.7]: Cd
+[252.4, 738.3, 309.8, 747.2]: Mihir Vasavda
+[253.3, 745.3, 340.2, 752.8]: Nagoya, September 26
+[253.8, 759.2, 366.7, 764.4]: SAWAN BARWAL woke up at
+[253.8, 765.6, 366.7, 770.3]: 3.30.am, atea banana and, afew
+[253.8, 771.9, 366.7, 776.7]: hours later, made Indian ath-
+[253.8, 778.3, 302.3, 783.6]: letics history.
+[266.1, 784.7, 366.3, 790.0]: On the damp streets of Na-
+[253.8, 791.1, 366.7, 796.4]: goya, Barwal won silver in the
+[379.1, 695.6, 492.5, 700.8]: Asian Games marathon, ending
+[379.5, 701.7, 492.5, 706.9]: India’s 44-year wait for a medal
+[379.5, 708.1, 492.5, 713.3]: in the event — and becoming
+[379.5, 714.4, 492.5, 718.6]: thefirsttowin oneoutside home
+[379.5, 720.8, 492.5, 726.1]: soil. The country’slast marathon
+[379.5, 726.1, 492.1, 734.2]: medal inthe Asiad wasa bronze,
+[379.5, 733.6, 492.5, 738.9]: won by Hosur Kukkappa See-
+[379.5, 740.0, 479.3, 744.2]: tharan in New Delhiin 1982.
+[391.4, 746.4, 492.5, 751.7]: The 28-year-old clocked
+[379.5, 752.8, 492.5, 758.1]: 2:11:37, lowering his own na-
+[379.5, 759.2, 492.5, 763.9]: tional record, but there was no
+[379.5, 765.6, 492.5, 770.8]: catching Japan’s Ichitaka Ya-
+[379.5, 771.9, 492.5, 777.2]: mashita, who pulled away to
+[379.5, 778.3, 492.5, 783.6]: win gold in :49, “This feels
+[379.5, 784.7, 492.5, 790.0]: special,” said Barwal. “Towina
+[379.5, 791.1, 492.5, 795.8]: medal, and set a national rec-
+[2.2, 815.0, 471.8, 820.0]: e HE WAS 15 WHEN HE GOT ON HIS FAVOURITE RIDE — THE TRAIN — THAT TOOK HIM FAR AWAY FROM HOME
+[2.2, 824.4, 989.0, 851.4]: Train to nowhere, Facebook reel and road home: 2 2t-yr search fora Bihar man ends
+[2.2, 847.8, 59.6, 853.6]: Santosh Singh
+[1.3, 854.7, 106.4, 860.0]: Maheshpura (Madhubani),
+[1.8, 861.1, 53.4, 866.4]: September 26
+[1.8, 872.8, 114.7, 880.3]: FOR MOST, there’s nothing un-
+[1.8, 880.3, 114.7, 884.4]: usual about the Mahrail Rail-
+[1.8, 886.7, 114.7, 891.9]: way Station in Bihar’s Madhu-
+[1.8, 891.9, 115.2, 900.0]: bani district. A
+[1.8, 899.4, 115.2, 904.7]: blink-and-you-miss station on
+[127.5, 848.3, 240.5, 853.6]: heshpura village, this is a place
+[128.0, 854.7, 240.5, 860.0]: close to his heart. Only 400
+[128.0, 861.1, 240.5, 866.4]: metres from his village, the sta-
+[127.5, 867.5, 240.5, 872.8]: tion is where he spent hours
+[127.5, 873.9, 240.5, 879.2]: daydreaming about trains and
+[127.5, 880.3, 240.5, 885.6]: waiting fora chance to ride one,
+[128.0, 886.7, 240.5, 891.9]: even if only to the next station.
+[127.5, 893.1, 240.5, 898.3]: It is also where he, as a 15-year-
+[128.0, 899.4, 241.0, 904.2]: old, boarded a random train
+[165.5, 905.6, 240.5, 910.3]: that took him 1,000-
+[1.8, 905.6, 76.8, 910.8]: the Sakri-Jhanjhar-
+[1.8, 909.2, 240.5, 917.2]: pur-Laukaha Bazar PAGE1 odd km away to
+[1.8, 913.9, 240.5, 924.7]: lineundertheEast- ) ANCHOL f Madhya Pradesh’s
+[2.2, 924.7, 77.2, 930.0]: ern Central Railway
+[1.8, 931.1, 115.2, 936.4]: Zone, it’s exactly how you
+[1.8, 937.5, 115.2, 942.8]: would expect one in rural India
+[1.8, 943.9, 114.7, 949.2]: tobe — quiet, nondescript and,
+[1.8, 950.3, 115.2, 955.6]: save for two stationary tempo
+[1.8, 956.7, 115.2, 961.4]: trucks, a cow and a few
+[1.8, 963.1, 92.7, 968.3]: stragglers, nearly empty.
+[14.1, 969.4, 114.7, 973.6]: But for Ram Shanker Kush-
+[1.8, 975.8, 114.7, 980.0]: waha from Madhubani’s Ma-
+[165.5, 924.7, 240.5, 928.9]: Gwalior — an act
+[127.5, 931.1, 240.5, 936.4]: that separated him from his
+[128.0, 937.5, 195.9, 942.8]: family for 21 years.
+[139.9, 943.9, 240.5, 948.6]: Now 36, Shanker reunited
+[127.5, 950.3, 240.5, 955.6]: with his family on September7,
+[128.0, 956.7, 240.5, 961.9]: after a Facebook video posted
+[127.5, 963.1, 240.5, 968.3]: by Gwalior Deputy Superin-
+[127.5, 969.4, 241.0, 974.4]: tendent of Police (DSP) Santosh
+[127.5, 975.8, 241.0, 980.6]: Patel. The video, made after
+[253.3, 848.3, 366.3, 852.5]: Patel visited the state-run Ash-
+[253.3, 854.7, 366.3, 860.0]: ram Swarg Sadan, where
+[253.3, 861.1, 366.7, 866.4]: Shanker had been living for
+[253.3, 867.5, 366.7, 872.8]: eight years, featuredamanina
+[253.3, 872.8, 366.3, 880.8]: muretha — a traditional head-
+[253.3, 880.3, 366.3, 885.6]: gear worn by many North In-
+[253.3, 886.7, 366.7, 891.9]: dian farmers — introducing
+[253.3, 893.1, 366.7, 897.2]: himselfas “Shanker Kushwaha
+[253.3, 899.4, 352.2, 904.7]: from Anand Nagar, Bihar”.
+[265.7, 905.6, 366.3, 909.7]: “I was drawn to his smile
+[253.3, 911.9, 366.3, 917.2]: and mentioned it in the post
+[253.3, 918.3, 366.3, 923.6]: that ultimately helped find
+[253.3, 924.7, 366.3, 930.0]: him. I’m thrilled that my post
+[253.3, 930.0, 366.3, 937.5]: eventually reunited aman with
+[253.3, 937.5, 366.3, 942.8]: his family,” DSP Santosh Patel
+[253.3, 943.9, 342.9, 949.2]: tells The Indian Express.
+[265.7, 949.2, 366.3, 956.7]: Itwas on September 4, 2026
+[253.8, 956.7, 366.3, 960.8]: — Janmashtami — that
+[253.3, 963.1, 366.3, 967.2]: Shanker’s oldest brother Lalit
+[253.3, 969.4, 366.7, 974.7]: Shastri spotted the Facebook
+[253.3, 975.8, 366.3, 981.1]: post. “With trembling hands, I
+[505.3, 695.6, 618.3, 700.8]: ord doing it and ending a long
+[504.9, 701.7, 617.8, 705.8]: wait for a marathon medal...
+[504.9, 708.1, 576.8, 713.3]: this was my target.”
+[517.2, 714.4, 618.3, 719.7]: For Barwal, competing in
+[505.3, 720.8, 618.3, 726.1]: only his second marathon, the
+[505.3, 727.2, 618.3, 731.4]: silver was the culmination ofan
+[505.3, 733.6, 618.3, 738.9]: extraordinary transformation
+[505.3, 740.0, 618.3, 744.2]: — and not bad for someone
+[504.9, 746.4, 618.3, 751.7]: who had taken up marathon
+[505.3, 753.1, 618.3, 758.1]: running just a year ago. More-
+[505.3, 759.2, 618.3, 763.9]: over, there were 11 athletes in
+[504.9, 765.6, 618.3, 769.7]: the 20-man field who had run
+[505.3, 771.9, 618.3, 776.1]: amarathon fasterthan him but
+[504.9, 778.3, 618.3, 783.6]: the timings of his competitors
+[505.3, 784.7, 590.5, 788.9]: didn’t overwhelm him.
+[539.7, 791.7, 618.3, 795.3]: »CONTINUED ON PAGE 2
+[379.1, 943.6, 584.3, 949.2]: Shanker Kushwaha (centre) with his parents at his home in
+[379.5, 950.0, 570.2, 955.6]: Maheshpura in Bihar’s Madhubani district. raHuL sHaRMA
+[379.1, 963.1, 492.1, 967.2]: dialled the number listed on
+[379.1, 969.4, 492.1, 974.7]: DSP Santosh Patel’s post,” says
+[379.1, 975.8, 492.1, 981.1]: Lalit, a priest who also runs a
+[437.8, 987.5, 624.9, 1000.0]: epaper.indianexpress:com | i |
+[504.9, 963.1, 600.2, 968.3]: bike spare-parts business.
+[516.8, 969.4, 617.8, 973.6]: Shanker’s fascination with
+[504.9, 975.8, 617.8, 981.1]: trains began early. According to
+[631.1, 233.6, 743.6, 238.9]: INSIDE PAGE6
+[630.6, 242.5, 736.1, 247.2]: “WISHY-WASHY’ NOTE
+[630.6, 249.4, 737.0, 254.7]: IS DAMAGE CONTROL,
+[630.6, 256.1, 708.3, 260.6]: SAYS CONGRESS
+[630.6, 268.3, 733.0, 272.8]: BJP RALLIES BEHIND
+[630.6, 274.4, 728.2, 279.2]: EC:‘RAHULSHOULD
+[630.6, 281.1, 743.2, 285.8]: EXPLAIN WHY HE LIED’
+[630.6, 300.3, 743.6, 305.6]: ECINet, for decision by the
+[630.6, 306.7, 743.6, 311.9]: ERO. Such persons need not be
+[630.6, 311.9, 743.6, 319.4]: called for hearing to ERO/AERO
+[630.6, 319.4, 743.6, 324.7]: office. Only in exceptional cir-
+[630.6, 325.8, 743.6, 331.1]: cumstances, as decided by the
+[630.6, 332.2, 743.6, 337.5]: ERO, the hearing will be held
+[630.6, 338.6, 743.6, 343.9]: preferably online. Any adult
+[630.6, 343.9, 743.6, 351.4]: member of the family can be
+[630.6, 351.4, 743.2, 356.7]: authorised by the elector to at-
+[630.6, 356.4, 743.2, 364.2]: tend the hearing on their behalf,
+[630.6, 364.2, 743.2, 369.4]: ifrequired,” the EC announced.
+[642.5, 370.6, 743.6, 375.8]: The Commission, compris-
+[630.6, 376.9, 743.6, 382.2]: ing Chief Election Commis-
+[630.6, 383.3, 743.6, 388.6]: sioner Gyanesh Kumar, and
+[630.6, 389.7, 743.6, 394.4]: ECs Sandhu and Joshi, held a
+[630.6, 395.8, 743.2, 401.1]: meeting at 3pm on Saturday,
+[630.6, 402.2, 743.6, 406.4]: the ECstatement said. Itunder-
+[630.6, 408.6, 743.6, 413.9]: lined that the press note had
+[630.6, 415.0, 743.6, 420.3]: the “approval of the full Com-
+[630.6, 421.4, 743.6, 426.7]: mission” and released a photo
+[630.6, 427.8, 743.6, 431.9]: of the three-member EC at the
+[630.6, 434.4, 663.3, 439.4]: meeting.
+[665.0, 441.1, 743.6, 444.7]: »CONTINUED ON PAGE 2
+[721.5, 130.8, 784.6, 135.3]: NAGPUR,
+[737.9, 0.6, 804.5, 17.8]: EVE
+[735.7, 22.2, 989.8, 39.7]: Wind in her Hair
+[735.7, 45.0, 987.6, 53.1]: Women in India are riding further, faster and in
+[735.7, 55.3, 981.9, 63.3]: greater numbers. What holds them together is
+[735.7, 65.3, 969.1, 73.3]: the sense of community, not choosing just a
+[736.1, 75.3, 877.8, 81.7]: destination but a direction
+[728.2, 90.8, 778.0, 96.7]: Y SCREEN
+[797.9, 130.8, 849.1, 135.3]: PATNA,
+[756.8, 151.7, 842.5, 158.1]: NEW NORMAL?
+[862.3, 130.8, 904.2, 135.3]: PUNE,
+[917.5, 130.8, 994.3, 134.7]: VADODARA
+[756.8, 161.9, 978.4, 178.6]: In 48 hours, a sharp
+[756.0, 181.4, 981.9, 196.9]: turn: Steps map two
+[756.8, 198.9, 956.8, 212.2]: ECs’ concerns but
+[756.4, 217.2, 979.3, 233.9]: key silences remain
+[756.0, 245.6, 961.6, 254.2]: Noword on appeals in West Bengal
+[756.0, 256.1, 974.8, 265.0]: that the ECs had flagged or on Form 6
+[756.0, 266.9, 951.0, 273.9]: and chain of command in ECINet
+[756.4, 280.8, 810.2, 286.7]: Ritika Chopra
+[755.5, 286.7, 846.4, 294.2]: Mumbai, September 26
+[756.0, 300.3, 869.4, 305.6]: THREE DAYS ago, the Election
+[756.4, 306.7, 869.4, 310.8]: Commission of India had a
+[756.4, 313.1, 843.8, 318.3]: straightforward answer
+[756.0, 319.4, 842.9, 324.7]: to The Indian Express
+[756.4, 325.8, 843.8, 331.1]: investigation into how
+[756.0, 332.2, 843.8, 337.5]: the three-member body
+[756.0, 338.6, 844.2, 343.9]: was functioning. Two of
+[756.4, 345.0, 843.3, 349.2]: its members had re-
+[756.4, 351.4, 869.4, 356.7]: corded objections at least 14
+[756.0, 357.8, 869.4, 363.1]: times to decisions touching the
+[756.4, 364.2, 869.4, 368.3]: core ofthe Commission’s man-
+[857.0, 320.8, 893.6, 340.0]: E.
+[882.2, 281.4, 995.1, 286.7]: date: who gets registered as a
+[881.7, 287.8, 995.1, 293.1]: voter, who gets deleted and re-
+[882.2, 293.9, 995.1, 299.2]: stored, who appeals against
+[881.7, 300.3, 995.1, 305.0]: those restorations, and who
+[882.2, 306.7, 995.1, 311.9]: controls the systems through
+[907.8, 313.1, 995.1, 317.2]: which the electoral roll
+[907.8, 319.4, 960.7, 323.6]: is maintained.
+[919.7, 325.8, 995.1, 330.0]: The Commission
+[907.8, 332.2, 995.1, 336.4]: called those notes
+[907.8, 338.6, 994.7, 343.9]: “suggestions” and “in-
+[907.8, 345.0, 995.1, 350.3]: puts”, part ofnormal de-
+[882.2, 351.4, 994.7, 356.7]: liberation. The important deci-
+[882.2, 357.8, 994.7, 363.1]: sions of the past year, itinsisted,
+[919.2, 363.6, 996.9, 370.8]: » CONTINUED ON PAGE 2
+[938.7, 401.4, 984.6, 403.9]: unearned W's
+[948.4, 402.5, 977.5, 410.3]: ra of young £
+[946.2, 406.1, 986.8, 413.9]: change in Form 6
+[756.8, 440.3, 946.6, 445.8]: The Indian Express report published on September 23
+[630.6, 464.2, 839.4, 470.6]: AT UN GENERAL ASSEMBLY SESSION
+[630.2, 476.9, 848.2, 489.7]: Jaishankar hits back
+[631.1, 494.7, 869.4, 507.5]: at Pak PM: Serial terror
+[630.6, 512.5, 843.3, 528.3]: practitioner’s bid for
+[630.6, 530.3, 866.3, 546.4]: immunity won't stand
+[630.6, 559.4, 867.6, 568.3]: Flags ‘weaponisation of everything’, from
+[630.6, 570.0, 846.4, 578.9]: chokepoints to market access hurdles
+[631.1, 586.7, 660.6, 592.5]: DivyaA
+[630.2, 593.6, 725.1, 598.9]: New Delhi, September 26
+[630.2, 606.1, 743.6, 610.3]: A DAY after Pakistan Prime
+[630.6, 612.5, 743.6, 616.7]: Minister Shehbaz Sharif raked
+[630.6, 618.9, 743.6, 624.2]: up the issue of Kashmir and de-
+[630.6, 625.3, 744.5, 630.6]: scribed India’s suspension of
+[630.6, 631.7, 743.6, 636.9]: the Indus Waters Treaty as an
+[630.6, 638.1, 743.6, 642.8]: “act of war”, External Affairs
+[630.6, 644.4, 743.6, 649.7]: Minister S Jaishankar, referring
+[630.6, 650.8, 743.6, 656.1]: to Pakistan as “a serial practi-
+[630.6, 657.2, 743.6, 661.9]: tioner of terrorism”, told the
+[630.6, 663.6, 743.6, 667.8]: United Nations General As-
+[630.6, 670.0, 743.6, 675.3]: sembly Saturday that attempts
+[630.6, 676.4, 743.6, 680.6]: to “normalise terrorism and
+[630.6, 682.8, 743.6, 688.1]: claim immunity from its con-
+[630.6, 689.2, 743.6, 694.4]: sequences” will not stand and
+[630.6, 695.6, 743.6, 700.8]: India will exercise its right to
+[630.6, 701.7, 678.3, 705.8]: defend itself.
+[642.5, 708.1, 743.6, 713.3]: Healso called out “weapon-
+[630.6, 714.4, 743.6, 719.7]: isation of everything” in a
+[630.6, 720.8, 743.6, 726.1]: world roiled by conflicts —
+[630.6, 727.2, 743.2, 732.5]: from chokepoints to constrict-
+[630.6, 733.6, 743.6, 738.9]: ing market access — and
+[630.6, 740.0, 743.6, 745.3]: flagged the “mindset of ex-
+[630.6, 746.4, 743.6, 751.7]: treme competition” that is
+[630.6, 752.8, 734.3, 758.1]: “undermining institutions”.
+[642.5, 758.1, 743.6, 765.6]: Inastrong rebuttal to Sharif’s
+[630.6, 765.6, 743.6, 770.8]: remarks from the UNGA po-
+[630.6, 771.9, 743.2, 776.7]: dium, Jaishankar, without nam-
+[630.6, 778.3, 743.6, 783.6]: inghim, said, “Yesterday, aserial
+[630.6, 784.7, 743.6, 790.0]: practitioner of terrorism misrep-
+[630.6, 791.1, 743.2, 795.3]: resented facts beforethis assem-
+[630.6, 848.3, 743.6, 853.6]: his father Rajendra, he would
+[630.6, 853.6, 743.6, 861.1]: frequently hop on a local train
+[630.6, 861.1, 743.2, 865.3]: and return an hour ortwolater.
+[642.5, 867.5, 743.2, 872.2]: On December 6, 2005,
+[630.6, 873.9, 743.6, 879.2]: Shanker undertooka train jour-
+[630.6, 880.3, 743.6, 885.6]: ney that would divide him from
+[630.6, 886.7, 743.2, 891.9]: his family for over two decades.
+[630.6, 893.1, 743.6, 897.8]: It was Vivah Panchami, and
+[630.6, 899.4, 743.6, 904.7]: Maheshpura was abuzz with
+[630.6, 905.6, 743.6, 910.8]: festivities marking the celestial
+[630.6, 911.9, 743.6, 917.2]: wedding of Ram and Sita— an
+[630.6, 918.3, 743.6, 922.5]: event that drew sadhus andas-
+[630.6, 924.7, 742.7, 930.0]: cetics from across the country.
+[643.0, 931.1, 743.6, 936.4]: “A sadhu from Ayodhya
+[630.6, 937.5, 743.6, 942.8]: asked if I wanted to go with
+[630.6, 943.9, 743.6, 948.1]: him. Iasked how he was travel-
+[630.6, 950.3, 743.6, 955.6]: ling, and he said, ‘by train’,”
+[630.6, 956.7, 680.5, 961.9]: Shanker says.
+[642.5, 963.1, 743.6, 968.3]: Without bothering to packa
+[630.6, 969.4, 743.6, 974.7]: spare set of clothes, Shanker set
+[630.6, 975.8, 743.6, 981.1]: offto Ayodhya. What happened
+[756.4, 669.7, 841.6, 674.2]: External Affairs Minister
+[756.4, 676.1, 866.3, 681.7]: S Jaishankar with Iran’s Foreign
+[756.4, 682.5, 851.3, 688.1]: Minister Abbas Araghchi in
+[756.4, 688.9, 800.1, 693.3]: New York. eri
+[756.8, 703.1, 869.4, 708.9]: INSIDE PAGES 7, 12
+[756.4, 712.2, 844.7, 716.7]: INDIA WARNS PAK
+[756.0, 718.6, 836.3, 723.3]: AFTER SHARIF’S
+[756.4, 725.3, 861.4, 730.0]: ‘ACT OF WAR’ THREAT
+[756.4, 737.8, 865.0, 742.2]: TRUMP REJECTS IRAN
+[756.4, 744.2, 846.4, 748.6]: PROPOSAL TO END
+[756.0, 750.8, 856.6, 756.1]: WAR, OPEN HORMUZ
+[756.0, 765.6, 869.4, 770.8]: bly. Arguments were invoked to
+[756.4, 771.9, 869.4, 776.1]: normalise terrorism and claim
+[756.4, 778.3, 869.4, 783.6]: immunity from its conse-
+[756.4, 784.7, 861.9, 790.0]: quences. That will not stand.”
+[790.8, 791.7, 869.4, 795.3]: »CONTINUED ON PAGE 2
+[756.4, 848.3, 869.4, 853.6]: next is still hazy, blurred be-
+[756.0, 854.7, 869.4, 860.0]: tween train journeys. But both
+[756.0, 860.0, 869.4, 867.5]: the police and the family believe
+[756.4, 867.5, 868.9, 872.8]: he drifted from place to place,
+[756.4, 873.9, 869.4, 878.1]: unable to tell where he was or
+[756.0, 880.3, 850.8, 885.6]: where he was meant to go.
+[768.8, 886.7, 869.4, 891.9]: “He kept confusing
+[756.4, 893.1, 868.9, 898.3]: ‘Jhanjharpur’ and Jharkhand’,
+[756.4, 899.4, 869.4, 903.6]: unaware that while the former
+[756.0, 905.6, 869.4, 910.3]: was a block in Madhubani, the
+[756.4, 911.9, 869.4, 916.1]: latter was an entire state to the
+[756.4, 918.3, 850.8, 923.6]: south of Bihar,” says Lalit.
+[768.3, 924.7, 869.4, 929.4]: In 2018, Gwalior’s state-run
+[756.0, 931.1, 869.4, 936.4]: Ashram Swarg Sadan found
+[756.4, 937.5, 869.4, 942.8]: Shanker at the city railway sta-
+[756.0, 943.9, 870.3, 949.2]: tion. “Ihave noclear memory of
+[756.4, 950.3, 868.9, 954.4]: how or when I reached Gwa-
+[756.4, 956.7, 869.4, 961.9]: lior,” says Shanker. “Iremember
+[756.4, 963.1, 868.9, 968.3]: living around the Gwalior rail-
+[756.0, 969.4, 869.4, 974.7]: way station for years, sleeping
+[756.4, 975.8, 868.9, 981.1]: on platforms or outdoors. I did-
+[890.6, 463.6, 986.3, 476.1]: Happening
+[913.1, 476.9, 963.8, 489.4]: today
+[882.2, 497.5, 970.9, 501.9]: @PUBLIC SECTOR banks
+[881.7, 503.9, 979.7, 509.4]: and regional rural banks will
+[882.2, 510.3, 981.9, 515.8]: remain open today, ahead of
+[881.7, 516.7, 963.4, 522.2]: astrike by bank unions.
+[882.6, 539.4, 966.0, 549.4]: Nagaleaders
+[882.2, 551.7, 994.3, 561.7]: agree toopenkey
+[882.6, 563.6, 992.9, 573.6]: Manipur highway
+[882.2, 574.7, 975.3, 587.2]: after talks with
+[882.6, 586.9, 985.0, 599.2]: Centrein Assam
+[882.2, 605.6, 955.4, 611.4]: Deeptiman Tiwary
+[881.7, 612.5, 976.2, 617.8]: New Delhi, September 26
+[881.7, 625.3, 995.1, 630.6]: THE UNITED Naga Council
+[882.2, 631.7, 995.1, 636.9]: (UNC) on Saturday agreed to
+[881.7, 638.1, 995.1, 643.3]: temporarily lift its more than
+[881.7, 644.4, 994.7, 648.6]: three-month economic block-
+[882.2, 650.8, 995.1, 656.1]: ade of Manipur’s highways after
+[882.2, 657.2, 995.1, 662.5]: a high-level tripartite meeting
+[881.7, 663.6, 994.7, 667.8]: with the Centre and the Ma-
+[882.2, 670.3, 994.7, 675.3]: nipur government in Assam,
+[882.2, 675.3, 994.7, 682.8]: marking a significant break-
+[881.7, 682.8, 995.1, 688.1]: through in efforts to ease the
+[882.2, 689.2, 993.4, 694.4]: state's prolonged supply crisis.
+[894.1, 695.6, 994.7, 700.8]: “We had a lengthy deliber-
+[882.2, 701.7, 995.1, 705.8]: ation in connection with the
+[882.2, 708.1, 995.1, 712.2]: economic blockade. We have
+[882.2, 714.4, 995.1, 719.7]: come to an agreement that the
+[881.7, 720.8, 995.1, 726.1]: government will address the de-
+[882.2, 727.2, 995.1, 731.9]: mands of the UNC, and we will
+[881.7, 733.6, 994.7, 738.9]: temporarily end the blockade.
+[882.2, 740.0, 995.1, 744.2]: Ourdemandsarethe revocation
+[882.2, 745.3, 994.7, 752.8]: ofthe SoO (Suspension of Oper-
+[882.2, 752.8, 995.1, 758.1]: ations agreement with Kuki
+[882.2, 759.2, 996.0, 764.4]: armed groups), the removal of
+[882.2, 764.4, 995.1, 771.9]: Deputy Chief Minister Nemcha
+[882.2, 771.9, 995.1, 777.2]: Kipgen and justice for the six
+[882.2, 778.3, 994.7, 783.6]: Naga men,” UNC president Ng.
+[882.2, 784.7, 992.9, 790.0]: Lorho told The Indian Express.
+[916.6, 791.7, 995.1, 795.3]: »CONTINUED ON PAGE 2
+[882.2, 848.3, 995.1, 853.6]: n'tlike begging, solsurvivedon
+[882.2, 854.7, 995.1, 860.0]: food given by passersby or
+[882.2, 861.1, 995.1, 866.4]: shopkeepers, and did odd jobs
+[882.2, 867.5, 955.9, 871.7]: at roadside dhabas.”
+[893.6, 873.9, 994.7, 879.2]: Adds Pawan Suryavanshi,
+[881.7, 880.3, 995.1, 885.6]: the shelter in-charge: “We kept
+[882.2, 886.7, 995.1, 890.8]: him under medical care until
+[882.2, 893.1, 996.0, 898.3]: he recovered. He also spoke of
+[882.2, 899.4, 994.7, 904.7]: abrother living in Delhi. Auth-
+[882.2, 905.6, 995.1, 909.7]: orities later found out this was
+[882.2, 911.9, 993.8, 916.1]: his brother Lallan Kushwaha.”
+[882.6, 922.5, 934.7, 927.5]: The return
+[894.1, 931.1, 995.1, 936.4]: Backin Maheshpura, at the
+[882.2, 937.5, 994.7, 942.8]: Kushwahas’ modest single-
+[882.2, 943.9, 995.1, 948.6]: roofed mud house, Lalit was
+[882.2, 950.3, 995.1, 955.6]: hopeful after watching the
+[881.7, 956.7, 995.1, 960.8]: video: Could this be their lost
+[881.7, 961.9, 995.1, 970.0]: brother wholeft homeall those
+[881.7, 969.7, 919.7, 974.7]: years ago?
+[916.6, 975.3, 997.4, 982.5]: »CONTINUED ON PAGE 2

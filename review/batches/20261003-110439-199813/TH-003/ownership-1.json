@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 12306,
+    "candidatesTokenCount": 242,
+    "totalTokenCount": 15174,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 10174
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2132
+      }
+    ],
+    "thoughtsTokenCount": 2626,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"assignments\": [\n    {\n      \"component_id\": 0,\n      \"owner\": \"exclude:advertisement\"\n    },\n    {\n      \"component_id\": 135,\n      \"owner\": \"exclude:print_mark\"\n    },\n    {\n      \"component_id\": 147,\n      \"owner\": \"exclude:print_mark\"\n    },\n    {\n      \"component_id\": 148,\n      \"owner\": \"exclude:advertisement\"\n    },\n    {\n      \"component_id\": 160,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 161,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 174,\n      \"owner\": \"exclude:print_mark\"\n    },\n    {\n      \"component_id\": 175,\n      \"owner\": \"exclude:print_mark\"\n    }\n  ]\n}"
+}

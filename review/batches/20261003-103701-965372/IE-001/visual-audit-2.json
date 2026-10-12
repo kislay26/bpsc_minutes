@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-2",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 4486,
+    "candidatesTokenCount": 53,
+    "totalTokenCount": 6340,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 4301
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 185
+      }
+    ],
+    "thoughtsTokenCount": 1801,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"Crop A4 is incomplete; it only contains a subheading and is missing the main headline, byline, and body text belonging to the Maharashtra drought story.\"\n  ]\n}"
+}

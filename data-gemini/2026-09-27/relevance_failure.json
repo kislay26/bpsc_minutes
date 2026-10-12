@@ -1,0 +1,46 @@
+{
+  "candidate_id": "TH-1-10",
+  "error": "Each claimed pattern needs a matching question reference.",
+  "article": {
+    "title": "China, U.S. agree to cut tariﬀ, launch AI dialogue ",
+    "subject": "International relations",
+    "relevance": 1,
+    "reason": "China and the U.S. agreed on a $30-billion reciprocal tariff-reduction arrangement and an AI dialogue during President Xi Jinping's visit.",
+    "text_hint": "China, U.S. agree to cut tariff, launch AI dialogue",
+    "boxes": [
+      {
+        "x0": 866.1173648226909,
+        "y0": 788.8017106798508,
+        "x1": 972.3855799222617,
+        "y1": 986.1332631980539
+      }
+    ],
+    "continued_from": "",
+    "continues_to": [
+      "14"
+    ],
+    "evidence": {
+      "kind": "development",
+      "status": "reported",
+      "pattern_ids": [
+        "IR_SECURITY"
+      ],
+      "pyq_ids": [],
+      "syllabus_links": [
+        "International relations",
+        "Economy"
+      ],
+      "event_hook": "China-U.S. tariff reduction and AI dialogue agreement",
+      "prelim_facts": [
+        "China and U.S. agreed on a $30-billion reciprocal tariff-reduction arrangement",
+        "Agreed on launching a dialogue on AI under an eight-point consensus during Xi Jinping's visit"
+      ],
+      "mains_angles": [
+        "Implications of US-China trade agreements and technology cooperation for global economic stability and geopolitics"
+      ],
+      "bihar_link": "None",
+      "match_explanation": "Covers major international economic and diplomatic agreements between world powers.",
+      "noise_reason": "none"
+    }
+  }
+}

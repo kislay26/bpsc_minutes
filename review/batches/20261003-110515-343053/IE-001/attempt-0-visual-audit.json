@@ -1,0 +1,26 @@
+[
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The cutting is incomplete because it includes the 'Happening today' section header but only displays the first of two bulleted news items, omitting the second story regarding Naga leaders."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The cutting is contaminated by an inserted text overlay '{ PAGE 1 anchor }' which obscures the article text."
+    ]
+  }
+]

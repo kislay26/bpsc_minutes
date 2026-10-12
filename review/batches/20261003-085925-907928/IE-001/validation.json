@@ -1,0 +1,8 @@
+{
+  "stage": "inventory",
+  "issues": [
+    "Headline candidate block 8 is absent from inventory: \b\t\n\u0002\u000b",
+    "Headline candidate block 25 is absent from inventory: AT UN GENERAL ASSEMBLY SESSION",
+    "Headline candidate block 31 is absent from inventory: AMID ROW OVER OBJECTIONS BY ELECTION COMMISSIONERS TO SIR-RELATED DECISIONS AND GAPS IN PROCESSES"
+  ]
+}

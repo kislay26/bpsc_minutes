@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 1525,
+    "candidatesTokenCount": 123,
+    "totalTokenCount": 4429,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 459
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1066
+      }
+    ],
+    "thoughtsTokenCount": 2781,
+    "serviceTier": "standard"
+  },
+  "content": "{\"titles\": [\"Govt. forms 3 committees for Ramlila, Durga Puja, Chhath\", \"MCD to provide auto-tippers in all east, north-east wards\", \"SIR deadline extended amid low applications, 93% pending hearings\", \"At least 350 names marked ineligible; CEO warns against deletion on ‘ﬂimsy grounds’\", \"Police step up park audits; students oppose access restrictions\", \"Court defers women wrestlers’ plea over Brij Bhushan acquittal\", \"Auto driver killed, another man injured in Sukhdev Vihar mishap; one arrested\"]}"
+}

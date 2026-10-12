@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 8304,
+    "candidatesTokenCount": 78,
+    "totalTokenCount": 12451,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 7615
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 689
+      }
+    ],
+    "thoughtsTokenCount": 4069,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"Article A1 is clipped and missing the final sentence of the body text.\",\n    \"Article A2 contains content from adjacent articles (A1 and A3) and is not correctly isolated.\",\n    \"Article A3 is clipped and missing the continuation of the body text.\"\n  ]\n}"
+}

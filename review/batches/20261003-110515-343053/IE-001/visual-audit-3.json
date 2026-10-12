@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-3",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 8339,
+    "candidatesTokenCount": 73,
+    "totalTokenCount": 13181,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 7650
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 689
+      }
+    ],
+    "thoughtsTokenCount": 4769,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"Article A1 is missing\",\n    \"Article A2 is missing\",\n    \"Article A3 is missing\",\n    \"Article A4 is missing\",\n    \"Article A5 is missing\",\n    \"Article A6 is missing\"\n  ]\n}"
+}

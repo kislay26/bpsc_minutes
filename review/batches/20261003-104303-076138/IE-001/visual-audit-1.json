@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 4517,
+    "candidatesTokenCount": 56,
+    "totalTokenCount": 6394,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 180
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 4337
+      }
+    ],
+    "thoughtsTokenCount": 1821,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"Crop A2: The body text is incorrect and does not belong to the article identified by the headline. The actual article text starting 'Three days ago...' is missing.\"\n  ]\n}"
+}

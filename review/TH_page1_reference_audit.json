@@ -1,0 +1,274 @@
+{
+  "manual_reference": true,
+  "automatic_pipeline_validated": false,
+  "bpsc_selection_tested": false,
+  "continuations_assembled": false,
+  "source_sha256": "5be565f7d96fadc087bd9e2416ab2026036ad240bde3bbc6bc7b6f719f33bac4",
+  "source_page": 1,
+  "articles": [
+    {
+      "title": "Maharashtra govt. declares drought in 265 taluks",
+      "groups": [
+        [
+          47,
+          48,
+          50,
+          49
+        ]
+      ],
+      "rectangles_pdf_points": [
+        [
+          27.64769744873047,
+          422.3335266113281,
+          133.57879638671875,
+          675.82421875
+        ]
+      ]
+    },
+    {
+      "title": "Jharkhand govt. against mines Act to aid coal theft",
+      "groups": [
+        [
+          51,
+          52
+        ]
+      ],
+      "rectangles_pdf_points": [
+        [
+          27.6476993560791,
+          691.731201171875,
+          130.78440856933594,
+          822.7651977539062
+        ]
+      ]
+    },
+    {
+      "title": "EC switches to damage control mode after facing flak over SIR",
+      "groups": [
+        [
+          21,
+          23
+        ],
+        [
+          24,
+          14,
+          15
+        ],
+        [
+          22
+        ],
+        [
+          16,
+          17,
+          18,
+          19,
+          20,
+          78
+        ]
+      ],
+      "rectangles_pdf_points": [
+        [
+          146.36585998535156,
+          420.39239501953125,
+          716.1767578125,
+          542.539306640625
+        ],
+        [
+          146.36599731445312,
+          559.1458740234375,
+          252.4023895263672,
+          851.5423583984375
+        ],
+        [
+          264.29998779296875,
+          557.2999877929688,
+          608.7000122070312,
+          724.7000122070312
+        ],
+        [
+          265.065673828125,
+          736.458740234375,
+          728.577880859375,
+          852.0347900390625
+        ]
+      ]
+    },
+    {
+      "title": "Congress urges top court to hold CEC accountable",
+      "groups": [
+        [
+          76,
+          77
+        ]
+      ],
+      "rectangles_pdf_points": [
+        [
+          621.1866455078125,
+          558.153076171875,
+          725.0640258789062,
+          720.5703125
+        ]
+      ]
+    },
+    {
+      "title": "Jaishankar lashes out at Sharif in UN speech",
+      "groups": [
+        [
+          41,
+          44,
+          39,
+          40,
+          42,
+          43,
+          84
+        ]
+      ],
+      "rectangles_pdf_points": [
+        [
+          739.8739624023438,
+          422.2310791015625,
+          964.6251831054688,
+          852.2505493164062
+        ]
+      ]
+    },
+    {
+      "title": "Golden double",
+      "groups": [
+        [
+          65,
+          66,
+          68,
+          67
+        ]
+      ],
+      "rectangles_pdf_points": [
+        [
+          27.6476993560791,
+          878.2006225585938,
+          608.4099731445312,
+          1176.3887939453125
+        ]
+      ]
+    },
+    {
+      "title": "UPSC candidates challenge ambiguous CSE questions",
+      "groups": [
+        [
+          72,
+          73,
+          69,
+          70,
+          71,
+          74,
+          75,
+          83
+        ]
+      ],
+      "rectangles_pdf_points": [
+        [
+          621.1829833984375,
+          880.813720703125,
+          964.6305541992188,
+          1176.5045166015625
+        ]
+      ]
+    },
+    {
+      "title": "2 Naga civilians killed in Manipur Senapati; cowardly act, says CM",
+      "groups": [
+        [
+          12,
+          13,
+          8,
+          11,
+          9,
+          10
+        ]
+      ],
+      "rectangles_pdf_points": [
+        [
+          27.647680282592773,
+          1206.16015625,
+          371.00238037109375,
+          1510.684326171875
+        ]
+      ]
+    },
+    {
+      "title": "Out of sync: Bengaluru AI system mistakes guitar case for pillion rider, issues challan",
+      "groups": [
+        [
+          59,
+          63,
+          60,
+          53,
+          54,
+          55,
+          61,
+          62,
+          56,
+          57,
+          58,
+          64
+        ]
+      ],
+      "rectangles_pdf_points": [
+        [
+          383.7723388671875,
+          1215.48193359375,
+          844.7595825195312,
+          1511.1292724609375
+        ]
+      ]
+    },
+    {
+      "title": "China, U.S. agree to cut tariff, launch AI dialogue",
+      "groups": [
+        [
+          80,
+          81,
+          79,
+          82
+        ]
+      ],
+      "rectangles_pdf_points": [
+        [
+          858.6010131835938,
+          1206.7266845703125,
+          965.4329223632812,
+          1510.1839599609375
+        ]
+      ]
+    }
+  ],
+  "excluded_block_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    45,
+    46,
+    85,
+    86
+  ],
+  "note": "EC infographic includes a manually located vector panel absent from native text blocks."
+}

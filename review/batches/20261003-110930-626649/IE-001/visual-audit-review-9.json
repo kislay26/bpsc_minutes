@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-review-9",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 3066,
+    "candidatesTokenCount": 50,
+    "totalTokenCount": 5422,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 876
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2190
+      }
+    ],
+    "thoughtsTokenCount": 2306,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"The cutting contains an extraneous text artifact '{PAGE 1 anchor}' inserted into the body text, which is not present in the original source.\"\n  ]\n}"
+}

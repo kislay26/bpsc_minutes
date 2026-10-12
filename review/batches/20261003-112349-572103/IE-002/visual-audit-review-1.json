@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "stage": "visual-audit-review-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 5039,
+    "candidatesTokenCount": 8,
+    "totalTokenCount": 7142,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2883
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2156
+      }
+    ],
+    "thoughtsTokenCount": 2095,
+    "serviceTier": "standard"
+  },
+  "content": "{\"ok\":true,\"issues\":[]}"
+}

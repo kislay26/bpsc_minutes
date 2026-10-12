@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory-review",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 14635,
+    "candidatesTokenCount": 341,
+    "totalTokenCount": 17483,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1066
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 13569
+      }
+    ],
+    "thoughtsTokenCount": 2507,
+    "serviceTier": "standard"
+  },
+  "content": "{\"titles\": [\"Govt. forms 3 committees for Ramlila, Durga Puja, Chhath\", \"MCD to provide auto-tippers in all east, north-east wards\", \"SIR deadline extended amid low applications, 93% pending hearings\", \"At least 350 names marked ineligible; CEO warns against deletion on ‘ﬂimsy grounds’\", \"Police step up park audits; students oppose access restrictions\", \"Court defers women wrestlers’ plea over Brij Bhushan acquittal\", \"Auto driver killed, another man injured in Sukhdev Vihar mishap; one arrested\"], \"roles\": {\"3\": {\"role\": \"headline\", \"reason\": \"It is the primary headline for an independent news brief in the 'IN BRIEF' column.\"}, \"7\": {\"role\": \"headline\", \"reason\": \"It is the primary headline for an independent news brief in the 'IN BRIEF' column.\"}, \"12\": {\"role\": \"headline\", \"reason\": \"It is the primary headline for the lead story on the right side of the page.\"}, \"18\": {\"role\": \"headline\", \"reason\": \"It is the headline for the independent story about the road accident.\"}, \"52\": {\"role\": \"headline\", \"reason\": \"It is the headline for the main story regarding the election commission revision.\"}, \"55\": {\"role\": \"subheadline\", \"reason\": \"It functions as a subheadline, providing additional context beneath the main headline and above the byline.\"}, \"58\": {\"role\": \"headline\", \"reason\": \"It is the headline for an independent news brief in the 'IN BRIEF' column.\"}}}"
+}

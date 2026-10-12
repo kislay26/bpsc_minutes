@@ -1,0 +1,34 @@
+[
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The section kicker 'AMID ROW OVER OBJECTIONS BY ELECTION COMMISSIONERS TO SIR-RELATED DECISIONS AND GAPS IN PROCESSES' is missing from the top of the cutting."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The cutting is contaminated with extraneous content from the adjacent article 'Unmapped voters need not attend hearings', specifically the 'INSIDE' section and the text column starting with 'ECINet, for decision by the ERO'."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  }
+]

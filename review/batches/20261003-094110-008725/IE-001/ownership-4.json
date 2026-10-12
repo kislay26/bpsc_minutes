@@ -1,0 +1,22 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-4",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 31874,
+    "candidatesTokenCount": 474,
+    "totalTokenCount": 32348,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 30782
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "content": "{\"150\": \"A3\", \"151\": \"A3\", \"152\": \"A3\", \"153\": \"A3\", \"154\": \"A3\", \"155\": \"A3\", \"156\": \"A3\", \"157\": \"A3\", \"158\": \"A3\", \"159\": \"A3\", \"160\": \"A3\", \"161\": \"A3\", \"162\": \"A3\", \"163\": \"A3\", \"164\": \"A3\", \"165\": \"A3\", \"166\": \"A3\", \"167\": \"A3\", \"168\": \"A3\", \"169\": \"A3\", \"170\": \"A3\", \"171\": \"A3\", \"172\": \"A3\", \"173\": \"A3\", \"174\": \"A3\", \"175\": \"A3\", \"176\": \"A3\", \"177\": \"A3\", \"178\": \"A3\", \"179\": \"A3\", \"180\": \"A3\", \"181\": \"A3\", \"182\": \"A3\", \"183\": \"A3\", \"184\": \"A1\", \"185\": \"A1\", \"186\": \"A1\", \"187\": \"A1\", \"188\": \"exclude:print_mark\", \"189\": \"exclude:print_mark\", \"190\": \"exclude:print_mark\", \"191\": \"exclude:print_mark\", \"192\": \"exclude:print_mark\", \"193\": \"exclude:print_mark\", \"194\": \"exclude:print_mark\", \"195\": \"exclude:print_mark\", \"196\": \"A7\", \"197\": \"A7\", \"198\": \"A7\", \"199\": \"A7\"}"
+}

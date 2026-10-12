@@ -1,0 +1,38 @@
+[
+  {
+    "group": 1,
+    "reviews": [
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": true,
+        "issues": []
+      }
+    ]
+  },
+  {
+    "group": 3,
+    "reviews": [
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": false,
+        "issues": [
+          "The cutting contains an extraneous text artifact '{PAGE 1 anchor}' inserted into the body text, which is not present in the original source."
+        ]
+      }
+    ]
+  }
+]

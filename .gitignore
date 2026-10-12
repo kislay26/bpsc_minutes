@@ -1,0 +1,11 @@
+.env
+.data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.pdf
+*.png
+native-pages/

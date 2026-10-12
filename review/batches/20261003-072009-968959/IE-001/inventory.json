@@ -1,0 +1,22 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 7045,
+    "candidatesTokenCount": 274,
+    "totalTokenCount": 7319,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 5953
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"Wind in her Hair\",\n    \"At his centenary celebrations, unpacking Uttam Kumar's appeal\",\n    \"Train to nowhere, Facebook reel and road home: 21-yr search for a Bihar man ends\",\n    \"Disquiet within, all three Election Commissioners meet, take first steps\",\n    \"Unmapped voters need not attend hearings, ECINet to get a review\",\n    \"In 48 hours, a sharp turn: Steps map two ECs’ concerns but key silences remain\",\n    \"No word on appeals in West Bengal that the ECs had flagged or on Form 6 and chain of command in ECINet\",\n    \"Maharashtra declares drought in 75% of state amid rainfall deficit\",\n    \"Marathwada worst-hit, cloud over Rabi season\",\n    \"Jaishankar hits back at Pak PM: Serial terror practitioner’s bid for immunity won't stand\",\n    \"Flags ‘weaponisation of everything’, from chokepoints to market access hurdles\",\n    \"Havildar from Himachal ends India’s 44-year wait for a medal in marathon\",\n    \"Naga leaders agree to open key Manipur highway after talks with Centre in Assam\"\n  ]\n}"
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "A1: Article is mixed with unrelated content 'Rabi crop'"
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The cutting for 'In 48 hrs, a sharp turn' (A3) contains extraneous text from the unrelated article 'Manipur' at the bottom of the clip, which is not part of the A3 story."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The cutting for A6 is contaminated with an entirely separate article titled 'Manipur', violating the rule against merging separate stories."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  }
+]

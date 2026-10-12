@@ -1,0 +1,440 @@
+[105.0, 28.6, 133.7, 31.9]: SUNDAY
+[66.4, 34.7, 133.7, 39.4]: September 27, 2026
+[110.5, 46.1, 133.7, 49.2]: DELHI
+[85.3, 52.5, 133.7, 55.8]: CITY EDITION
+[75.4, 59.7, 133.7, 64.4]: 24 Pages % 15.00
+[349.6, 68.6, 510.7, 74.2]: INDIA’S NATIONAL NEWSPAPER SINCE 1878
+[865.9, 28.1, 945.2, 31.9]: www.thehindu.com
+[865.9, 35.3, 922.0, 38.9]: Vol. 16 + No. 39
+[866.3, 41.4, 970.4, 46.9]: Regd. DL(ND)-11/6110/2006-07-08
+[866.3, 47.8, 950.7, 52.8]: RNI No. UPENG/1986/49939
+[865.9, 58.1, 907.0, 62.5]: To subscribe,
+[865.9, 68.9, 904.0, 71.9]: 9828331787
+[866.3, 73.3, 915.2, 77.8]: or scan QR code
+[29.1, 86.1, 107.5, 88.9]: Printed at__» Chennai»
+[117.0, 86.1, 144.8, 88.9]: Coimbatore
+[154.7, 86.1, 252.8, 89.7]: >» Bengaluru» Hyderabad»
+[262.6, 86.1, 377.0, 89.7]: Madurai» Noida» Visakhapatnam
+[386.9, 86.1, 485.4, 89.7]: >» Thiruvananthapuram —» Kochi
+[495.3, 86.1, 595.1, 89.7]: » Vijayawada» Mangaluru_»
+[605.0, 86.1, 649.1, 89.7]: Tiruchirapalli»
+[659.0, 83.6, 731.8, 91.4]: Kolkata» — Hubballi_»
+[741.6, 86.1, 769.9, 88.9]: Mohali»
+[779.8, 86.1, 850.9, 89.7]: Malappuram» Mumbai
+[866.3, 63.1, 927.2, 67.8]: give a missed call at
+[916.9, 86.1, 947.7, 88.9]: Cuttack =»
+[860.8, 86.1, 970.9, 88.9]: » Lucknow» Patna
+[40.7, 111.7, 125.1, 116.4]: CAUSE AND CURE
+[40.7, 122.2, 194.1, 145.3]: Everybody
+[39.8, 141.4, 214.7, 159.2]: is talking of
+[39.8, 154.4, 298.6, 187.2]: inflammation, Tiss
+[41.1, 191.1, 226.6, 197.8]: Inflammation, the body’s response to
+[40.7, 199.7, 209.5, 206.4]: injuries or illness, has become the
+[40.7, 208.1, 209.1, 215.0]: universal language through which
+[41.1, 216.7, 193.2, 223.3]: Internet discusses modern life,
+[40.7, 225.0, 173.5, 231.9]: ageing, food, and the body
+[40.7, 246.1, 120.4, 249.7]: MAGAZINE >» PAGE 1
+[529.6, 217.2, 628.5, 222.5]: What is Karnataka’s
+[539.0, 225.6, 619.1, 232.5]: objection to the
+[529.1, 234.2, 629.0, 239.4]: Western Ghats ESA?
+[549.7, 246.9, 608.8, 251.7]: FAQ » PAGE 12
+[692.4, 217.2, 783.6, 222.5]: United Russia: the
+[691.9, 225.6, 783.6, 232.5]: ‘party of power’ in
+[718.9, 234.2, 756.6, 239.4]: Kremlin
+[696.2, 246.9, 778.9, 250.6]: PROFILES » PAGE 13
+[861.6, 217.2, 931.0, 222.5]: India takes on
+[850.5, 225.6, 941.3, 230.8]: West Indies in ODI
+[852.6, 234.2, 940.4, 241.1]: series from today
+[861.2, 246.9, 931.4, 250.6]: SPORT » PAGE 16
+[28.7, 342.8, 132.8, 350.8]: Maharashtra govt.
+[28.7, 352.5, 127.2, 360.6]: declares drought
+[28.7, 362.5, 102.4, 368.9]: in 265 taluks
+[28.7, 380.6, 58.7, 383.6]: MUMBAI
+[28.7, 386.7, 127.2, 391.7]: The Maharashtra government
+[29.1, 393.3, 98.1, 398.3]: on Saturday issued a
+[29.1, 400.3, 104.5, 405.6]: government resolution
+[29.1, 406.9, 132.0, 412.2]: declaring drought in 265 taluks
+[29.1, 413.9, 111.0, 418.9]: based on a report by the
+[28.7, 420.8, 114.8, 426.1]: Agriculture Commissioner
+[28.7, 427.5, 126.4, 432.5]: following a prolonged rainfall
+[29.1, 434.4, 51.0, 438.3]: deficit.
+[28.7, 452.5, 124.3, 460.6]: Sharkhand govt.
+[28.7, 462.2, 130.7, 470.3]: against mines Act
+[28.7, 471.9, 123.0, 478.3]: to aid coal theft’
+[28.7, 490.3, 51.4, 493.3]: PATNA
+[29.1, 496.1, 130.2, 500.0]: Union Minister for Women and
+[29.1, 503.1, 127.2, 508.1]: Child Development Annpurna
+[29.1, 510.0, 114.4, 515.0]: Devi on Saturday said the
+[29.1, 516.7, 114.4, 521.7]: Jharkhand government is
+[29.1, 523.6, 115.7, 528.9]: opposing the mines Act to
+[29.1, 530.3, 97.7, 534.2]: “facilitate coal theft”.
+[78.4, 544.7, 107.1, 547.8]: » PAGES
+[69.8, 551.4, 102.4, 554.4]: >» 8 PAGES
+[28.7, 788.9, 371.0, 804.4]: 2 Naga civilians killed in Manipur’s
+[29.1, 806.9, 341.9, 822.5]: Senapati; cowardly act, says CM
+[28.7, 830.6, 104.1, 834.7]: The Hindu Bureau
+[28.7, 838.3, 68.1, 841.7]: GUWAHATI
+[28.7, 850.8, 133.7, 856.7]: Suspected extremists
+[28.7, 857.8, 133.7, 863.6]: killed two Naga civilians in
+[28.7, 864.4, 133.7, 870.3]: Manipur’s Senapati district
+[28.7, 871.4, 133.7, 877.2]: on Saturday, barely 48
+[28.7, 878.1, 133.7, 883.9]: hours after Myanmar-
+[28.7, 885.0, 133.7, 890.8]: based assailants gunned
+[29.1, 891.9, 133.7, 897.8]: down four persons in Kam-
+[27.8, 898.6, 133.7, 904.4]: jong district, a district offi-
+[28.7, 905.6, 133.7, 911.4]: cial said, adding that two
+[28.7, 912.2, 133.7, 918.1]: more persons were injured
+[28.7, 919.2, 87.4, 923.6]: in the incident.
+[39.4, 926.1, 133.7, 930.6]: The official could not
+[28.7, 932.8, 133.7, 938.6]: confirm how the two Naga
+[28.7, 939.7, 133.7, 945.6]: men, identified as Rocky
+[28.7, 946.4, 133.7, 950.8]: Mao of Chowainamei vil-
+[28.7, 953.3, 134.5, 959.2]: lage and Kumar Poumai of
+[28.7, 960.3, 133.7, 966.1]: Laii Shirafii village, were
+[28.7, 966.9, 133.7, 971.4]: killed or what led to the in-
+[28.7, 973.9, 133.7, 979.7]: cident. Senapati is a Naga-
+[29.1, 980.6, 134.5, 985.0]: dominated district. One of
+[77.5, 990.0, 82.3, 993.6]: Cc
+[83.5, 994.4, 88.3, 998.1]: K
+[148.7, 275.6, 711.2, 301.9]: EC switches to damage control
+[148.2, 304.2, 715.5, 330.6]: mode after facing flak over SIR
+[148.7, 336.7, 720.7, 344.2]: Poll body announces ‘special drive’ for enrolment of those left out during the SIR; additional declaration with Form 6 only
+[148.7, 346.4, 719.8, 353.9]: for the SIR period, it says; decisions, coming days after reports of rift within EC, have ‘approval of full commission, it notes
+[148.7, 365.8, 244.6, 371.1]: Sreeparna Chakrabarty
+[148.7, 373.6, 189.8, 376.9]: NEW DELHI
+[177.8, 386.1, 253.2, 390.6]: he Election Com-
+[148.7, 387.5, 253.2, 404.2]: T mission (EC) on Sa-
+[177.8, 399.7, 253.2, 405.6]: turday announced
+[148.7, 406.7, 253.2, 411.1]: a slew of measures ad-
+[148.7, 413.3, 253.2, 419.2]: dressing concerns over the
+[148.7, 420.3, 253.2, 426.1]: ongoing Special Intensive
+[148.7, 426.9, 253.2, 432.2]: Revision (SIR) of electoral
+[148.7, 433.9, 253.2, 439.7]: rolls across the country, in-
+[148.7, 440.8, 253.2, 446.7]: cluding stopping physical
+[148.2, 447.5, 253.2, 453.3]: hearings for unmapped vo-
+[148.7, 454.4, 253.2, 460.3]: ters or those with logical
+[148.7, 461.1, 253.2, 466.9]: discrepancies in their en-
+[148.7, 468.1, 215.9, 472.5]: umeration forms.
+[159.0, 475.0, 253.2, 479.4]: It said that the declara-
+[148.7, 481.7, 253.2, 487.5]: tion accompanying Form 6
+[148.7, 488.6, 253.2, 494.4]: (used for fresh voter regis-
+[148.7, 495.3, 253.6, 501.1]: tration) is mandatory only
+[148.7, 502.2, 253.2, 508.1]: during the current SIR pro-
+[148.7, 509.2, 253.2, 513.6]: cess. This in effect means
+[148.7, 515.8, 253.6, 520.3]: that new voters who seek
+[148.7, 522.8, 253.2, 527.2]: inclusion in electoral rolls
+[148.7, 529.4, 253.2, 535.3]: after the ongoing SIR need
+[148.7, 536.4, 253.2, 542.2]: not submit any such
+[148.7, 543.3, 194.5, 547.8]: declaration.
+[159.0, 550.0, 253.2, 554.4]: The Election Commis-
+[148.2, 830.8, 237.4, 836.7]: Two persons were
+[148.2, 838.1, 237.4, 844.4]: also injured in the
+[148.2, 845.8, 230.9, 852.2]: mishap that took
+[148.2, 853.6, 246.4, 860.0]: place 48 hours after
+[148.2, 861.4, 236.9, 867.8]: four persons were
+[148.2, 869.2, 234.4, 875.6]: killed in Kamjong
+[148.2, 891.9, 253.2, 897.8]: the deceased is a Mao Naga
+[148.2, 898.6, 253.2, 903.1]: and the other is a Poumai
+[148.2, 905.6, 252.8, 911.4]: Naga. The two injured,
+[148.2, 912.2, 253.2, 916.7]: Ashiho Sani and Adani Ma-
+[148.2, 919.2, 253.2, 925.0]: nio, belong to the Mao Na-
+[148.2, 926.1, 205.7, 931.9]: ga community.
+[159.0, 932.8, 253.2, 938.6]: The injured were
+[148.2, 939.7, 253.2, 945.6]: rushed to a private hospital
+[148.2, 946.4, 253.2, 951.7]: for treatment, while the
+[148.2, 953.3, 253.2, 957.8]: bodies of the deceased
+[148.2, 960.3, 253.2, 966.1]: were taken to Senapati Dis-
+[148.2, 966.9, 253.6, 972.8]: trict Hospital for autopsy
+[148.2, 973.9, 252.8, 979.7]: and other legal formalities,
+[148.2, 980.6, 206.1, 985.0]: an official said.
+[273.4, 370.6, 396.7, 382.5]: Revised process
+[271.6, 385.3, 603.3, 390.3]: The EC, which held a meeting on Saturday, said that any person whose name has got left out during
+[272.1, 388.9, 548.0, 398.3]: SIR or thereafter may apply to the ERO concerned for inclusion in the electoral rolls
+[279.8, 413.6, 382.6, 419.7]: Election under SIR
+[271.6, 421.7, 407.9, 426.9]: officers to Apanel with an
+[272.1, 423.6, 414.7, 433.6]: immediately launch | independent expert
+[272.1, 432.8, 327.3, 437.5]: a special drive for
+[271.6, 438.3, 339.8, 441.9]: enrolment of electors
+[272.1, 443.9, 317.1, 447.5]: left out of rolls
+[359.9, 448.1, 394.2, 451.7]: Claims and
+[352.2, 453.6, 407.5, 458.1]: objections period
+[352.2, 459.2, 411.7, 462.8]: for SIR in Delhi and
+[352.6, 464.7, 422.5, 468.3]: Maharashtra extended
+[279.8, 454.2, 315.3, 457.8]: Declaration
+[271.6, 459.7, 339.3, 463.3]: attached to Form 6 to
+[272.1, 465.3, 334.2, 470.0]: be used only for SIR
+[268.2, 481.7, 372.8, 487.5]: sion also said that any per-
+[268.2, 488.6, 373.2, 494.4]: son whose name has got
+[267.8, 495.3, 372.8, 501.1]: left out during SIR or the-
+[268.2, 502.2, 372.8, 508.1]: reafter, and any person in-
+[268.2, 509.2, 372.8, 515.0]: cluding young/ first-time
+[267.8, 515.8, 372.8, 521.7]: voters, may apply to the
+[268.2, 522.8, 372.8, 528.6]: electoral registration offic-
+[268.2, 529.4, 372.8, 534.7]: er (ERO) concerned, for in-
+[268.2, 536.4, 372.8, 540.8]: clusion of their names in
+[268.2, 543.3, 337.6, 547.8]: the electoral rolls.
+[278.5, 550.0, 372.8, 555.8]: A special drive will im-
+[278.5, 830.3, 373.2, 836.1]: Manipur Chief Minister
+[267.8, 837.2, 372.8, 841.7]: Yumnam Khemchand
+[268.2, 843.9, 372.8, 849.7]: Singh, who was in Senapati
+[268.2, 850.8, 372.8, 855.3]: district on an official visit
+[267.8, 857.8, 372.8, 863.6]: when reports of the inci-
+[268.2, 864.4, 372.8, 870.3]: dent came in, strongly con-
+[268.2, 871.4, 372.8, 877.2]: demned the killings and
+[268.2, 878.1, 373.2, 883.9]: called them a “cowardly
+[268.2, 885.0, 330.8, 889.4]: act of violence”.
+[278.5, 891.9, 373.2, 896.4]: Former Chief Minister
+[268.2, 898.6, 372.8, 904.4]: N. Biren Singh also con-
+[268.2, 905.6, 372.8, 911.4]: demned the killings and
+[268.2, 912.2, 372.8, 916.7]: said there had been more
+[268.2, 919.2, 370.6, 925.0]: than 60 murders this year.
+[278.5, 926.1, 372.8, 931.9]: Ina post on X, Mr. Biren
+[268.2, 932.8, 372.8, 938.6]: Singh said, “The killings
+[268.2, 939.7, 372.8, 945.6]: are a matter of grave con-
+[268.2, 946.4, 372.8, 950.8]: cern. Armed militants en-
+[268.2, 953.3, 372.8, 957.8]: tered their homes and shot
+[268.2, 960.3, 372.8, 966.1]: them dead while they were
+[268.2, 966.9, 372.8, 972.8]: asleep. These were civi-
+[267.8, 973.9, 372.8, 978.3]: lians who deserved to live
+[267.8, 980.6, 320.5, 985.0]: without fear.”
+[359.9, 402.5, 422.5, 406.1]: BLOs to visit houses
+[350.5, 406.9, 422.5, 414.2]: of voters issued notice
+[352.2, 433.3, 419.9, 437.8]: from IIT/IIIT to review
+[352.6, 438.9, 402.3, 443.6]: ECINet platform
+[434.9, 402.2, 461.9, 420.8]: ca}
+[431.0, 429.4, 443.9, 446.4]: <a tal
+[387.7, 481.7, 492.7, 487.5]: mediately be launched for
+[387.7, 488.6, 492.7, 493.9]: their enrolment, it said ina
+[387.7, 496.1, 429.7, 501.1]: press note.
+[398.0, 502.2, 492.3, 508.1]: The SIR process has al-
+[387.7, 509.2, 492.3, 515.0]: ready been completed in
+[387.7, 515.8, 492.3, 520.3]: 20 States and Union
+[387.7, 522.8, 430.6, 527.2]: Territories.
+[398.0, 529.4, 493.6, 533.9]: The fresh initiatives of
+[387.7, 536.4, 492.7, 542.2]: the poll body came after a
+[387.7, 543.3, 492.3, 549.2]: meeting of the full bench
+[387.7, 550.0, 492.3, 554.4]: of the commission on Sa-
+[435.3, 451.7, 595.5, 456.4]: CEC Gyanesh Kumar with Election Commissioners
+[435.3, 456.7, 587.0, 463.9]: Sukhbir Singh Sandhu and Vivek Joshi during a
+[435.7, 462.8, 558.7, 470.0]: meeting in New Delhi on Saturday. ANI
+[507.3, 481.7, 612.3, 487.5]: turday afternoon and days
+[507.3, 488.6, 612.3, 494.4]: after reports emerged of a
+[507.3, 495.3, 612.3, 499.7]: rift within the Election
+[507.3, 502.2, 612.3, 506.7]: Commissioners over these
+[507.3, 509.2, 612.3, 513.6]: and other issues in the SIR
+[507.3, 515.8, 611.8, 521.7]: process as well as the inter-
+[507.3, 522.8, 593.0, 528.6]: nal working of the EC.
+[507.7, 536.4, 595.1, 542.2]: ‘Complete approval’
+[507.3, 543.3, 612.3, 547.8]: The Election Commission’s
+[507.3, 550.0, 612.3, 555.8]: press note was pertinently
+[388.2, 742.5, 578.8, 747.5]: The Indian kabaddi teams maintained their supremacy by
+[327.3, 749.2, 582.3, 754.2]: retaining the men’s and women’s titles at the Asian Games in Aichi-Nagoya on
+[327.3, 756.1, 545.8, 761.1]: Saturday. The men defeated Iran 40-34 and the women pipped the
+[326.9, 762.8, 533.8, 767.8]: same opponent 37-34 in the finals. RV. MOORTHY (REPORT: PAGE 15)
+[626.8, 365.6, 715.1, 373.3]: Congress urges
+[626.8, 375.0, 725.8, 383.1]: top court to hold
+[626.8, 384.7, 724.5, 391.1]: CEC accountable
+[626.8, 403.1, 668.0, 406.1]: NEW DELHI
+[626.8, 408.9, 714.2, 413.9]: The Congress on Saturday
+[627.2, 415.8, 720.2, 421.1]: urged the Supreme Court to
+[626.8, 422.5, 722.8, 427.8]: take suo motu cognisance of
+[626.8, 429.4, 718.5, 434.7]: what it described as “illegal
+[627.2, 436.4, 729.2, 441.7]: and unconstitutional” changes
+[626.8, 443.1, 729.6, 448.1]: to the voter enrolment process
+[627.2, 450.0, 716.4, 455.0]: under CEC Gyanesh Kumar
+[626.8, 456.7, 729.2, 461.9]: while holding him accountable
+[626.8, 463.6, 679.5, 468.9]: for the changes.
+[626.8, 481.7, 731.4, 487.5]: accompanied by a photo-
+[626.4, 488.6, 731.4, 494.4]: graph of all the three Elec-
+[626.8, 495.3, 731.8, 499.7]: tion Commissioners and
+[626.8, 502.2, 731.8, 506.7]: mentioned that it “has the
+[626.8, 509.2, 731.8, 515.0]: approval of the full
+[626.8, 515.8, 679.9, 520.3]: commission”.
+[627.2, 537.5, 657.7, 540.8]: » PAGE7
+[627.2, 551.1, 662.0, 554.4]: » PAGE 13
+[746.4, 276.4, 964.0, 289.4]: Jaishankar lashes out
+[746.8, 294.7, 970.0, 310.8]: at Sharifin UN speech
+[746.4, 324.7, 811.5, 328.9]: Suhasini Haidar
+[746.4, 332.5, 787.9, 335.8]: NEW DELHI
+[746.4, 345.0, 851.3, 350.8]: Delivering India’s National
+[746.4, 351.9, 851.3, 356.4]: Statement at the UN Gener-
+[746.4, 358.6, 851.3, 364.4]: al Assembly, External Af-
+[746.4, 365.6, 851.3, 370.8]: fairs Minister S. Jaishankar
+[746.4, 372.5, 851.3, 378.3]: on Saturday said the coun-
+[746.4, 379.2, 851.3, 385.0]: try will exercise its right to
+[746.8, 386.1, 851.3, 391.9]: defend itself against terro-
+[746.4, 392.8, 851.3, 398.6]: rism while focusing on the
+[746.4, 399.7, 851.3, 405.6]: impact of conflicts on the
+[746.8, 406.7, 798.6, 411.1]: Global South.
+[757.1, 413.3, 851.3, 419.2]: In a response to Pakis-
+[746.4, 420.3, 851.3, 424.7]: tan Prime Minister Sheh-
+[746.4, 426.9, 851.3, 432.8]: baz Sharif’s speech a day
+[746.4, 433.9, 851.3, 439.2]: before, where he had criti-
+[746.4, 440.8, 851.8, 446.7]: cised India for launching
+[746.8, 447.5, 851.3, 453.3]: Operation Sindoor last
+[746.4, 454.4, 851.3, 460.3]: year, Mr. Jaishankar said
+[746.4, 461.1, 851.3, 465.6]: that there could be “no di-
+[746.4, 468.1, 851.3, 472.5]: lution” of the world’s zero-
+[746.4, 475.0, 851.3, 480.8]: tolerance approach to ter-
+[746.4, 481.7, 851.3, 487.5]: rorism. “Yesterday, a serial
+[746.4, 488.6, 851.3, 494.4]: practitioner of terrorism
+[746.4, 495.3, 851.3, 501.1]: misrepresented facts be-
+[746.4, 502.2, 851.3, 508.1]: fore this Assembly. Argu-
+[746.4, 509.2, 851.3, 513.6]: ments were invoked to nor-
+[746.4, 515.8, 851.3, 520.3]: malise terrorism and claim
+[746.4, 522.8, 851.3, 528.6]: immunity from its conse-
+[746.8, 529.4, 851.3, 535.3]: quences,” Mr. Jaishankar
+[746.4, 536.4, 851.3, 542.2]: said, attacking Mr. Sharif’s
+[746.4, 543.3, 851.3, 549.2]: speech, in which he had
+[746.4, 550.0, 851.3, 555.8]: called Kashmir the “jugu-
+[866.3, 399.7, 910.5, 403.6]: S. Jaishankar
+[865.9, 413.3, 970.9, 417.8]: Jar vein” of Pakistan and
+[866.3, 420.3, 970.9, 424.7]: accused India of human
+[866.3, 426.9, 970.9, 432.8]: rights violations in the re-
+[865.9, 433.9, 970.9, 439.7]: gion. Mr. Sharif had also
+[866.3, 440.8, 970.9, 446.7]: claimed that the BJP go-
+[865.9, 447.5, 970.9, 451.9]: vernment in India un-
+[865.9, 454.4, 970.4, 460.3]: leashed a “reign of terror”
+[866.3, 461.1, 970.9, 466.9]: against minorities in the
+[866.3, 468.9, 898.0, 473.9]: country.
+[877.0, 475.0, 970.9, 480.8]: “Our right to defend
+[866.3, 481.7, 970.9, 487.5]: ourselves against terrorism
+[865.9, 488.6, 970.4, 493.9]: will be exercised,” Mr.
+[865.0, 495.3, 971.3, 501.1]: Jaishankar said, adding
+[866.3, 502.2, 970.9, 508.1]: that governments indulg-
+[866.3, 509.2, 970.9, 515.0]: ing in state-sponsored ter-
+[866.3, 515.8, 970.9, 520.3]: rorism with a “cross-bor-
+[866.3, 522.8, 970.9, 528.6]: der purpose” must be held
+[866.3, 530.3, 909.2, 533.9]: to account.
+[866.8, 551.4, 897.2, 554.7]: » PAGET
+[626.8, 576.1, 952.0, 594.7]: UPSC candidates challenge
+[627.2, 596.9, 945.6, 615.6]: ‘ambiguous’ CSE questions
+[626.8, 625.6, 681.7, 629.7]: Ashna Butani
+[626.8, 633.3, 668.4, 636.7]: NEW DELHI
+[626.8, 645.8, 731.8, 651.7]: At least 27 questions in this
+[626.8, 652.8, 731.8, 658.6]: year’s Civil Services Exami-
+[626.8, 659.4, 731.4, 664.7]: nation (CSE) Prelims,
+[626.8, 666.4, 731.8, 672.2]: across general studies and
+[626.8, 673.1, 731.8, 678.9]: aptitude papers, have
+[626.8, 680.0, 731.8, 685.8]: come under dispute, with
+[626.8, 686.9, 731.8, 692.8]: candidates claiming that
+[626.8, 693.6, 731.4, 699.4]: the answers in the provi-
+[626.8, 700.6, 731.8, 706.4]: sional answer key released
+[626.8, 707.2, 731.4, 713.1]: by the Union Public Ser-
+[626.8, 714.2, 731.8, 719.4]: vice Commission (UPSC)
+[626.8, 721.1, 731.8, 726.4]: are either incorrect, have
+[626.8, 727.8, 731.8, 733.1]: no correct answer, or allow
+[626.8, 734.7, 731.8, 740.6]: more than one possible
+[626.8, 743.1, 656.0, 746.1]: answer.
+[637.1, 748.3, 732.6, 754.2]: At least two groups of
+[626.8, 755.3, 731.8, 761.1]: aspirants have challenged
+[626.8, 761.9, 731.8, 767.8]: the questions. The cases
+[746.4, 687.8, 847.0, 693.1]: Aspirants have flagged at least
+[746.4, 694.7, 837.2, 699.7]: 27 questions in CSE Prelims
+[746.8, 701.4, 849.6, 706.4]: held in May this year. FILE PHOTO
+[746.4, 714.2, 851.3, 720.0]: are being heard by the
+[746.8, 721.1, 851.3, 725.6]: Central Administrative Tri-
+[746.4, 727.8, 770.8, 732.2]: bunal.
+[757.1, 734.7, 851.3, 740.6]: One group of four candi-
+[746.8, 741.7, 851.3, 747.5]: dates has challenged eight
+[746.8, 748.3, 851.3, 754.2]: questions, while another
+[746.4, 755.3, 851.3, 761.1]: group of 63 aspirants has
+[746.4, 761.9, 850.9, 767.8]: challenged 27 questions,
+[388.2, 794.4, 843.2, 812.2]: Out of sync: Bengaluru AI system mistakes
+[385.6, 814.2, 837.6, 831.7]: guitar case for pillion rider, issues challan
+[387.7, 841.1, 842.3, 848.3]: Rider seeks rectification after getting notice for %500 fine; incident draws attention to limitations
+[387.7, 851.1, 848.8, 858.3]: of Al systems; ‘false flag’ caused by judgment error, which happens occasionally, says senior official
+[387.7, 871.7, 462.7, 875.8]: The Hindu Bureau
+[387.7, 879.2, 431.4, 882.5]: BENGALURU
+[417.7, 891.7, 456.7, 896.1]: n artificial
+[386.9, 893.3, 462.3, 910.0]: A intelligence
+[417.7, 905.6, 465.7, 910.8]: (Al)-enabled
+[387.7, 912.2, 470.9, 917.5]: enforcement camera,
+[387.7, 919.2, 482.0, 923.6]: installed to detect traffic
+[387.3, 925.8, 479.9, 931.7]: violations in Bengaluru,
+[387.7, 932.8, 483.3, 938.6]: recently issued a routine
+[387.7, 939.7, 491.4, 944.2]: helmet violation challan to
+[387.7, 946.4, 488.9, 950.8]: a not-so-routine defaulter:
+[387.7, 953.3, 485.0, 959.2]: a guitar case riding on its
+[387.7, 960.0, 440.9, 964.4]: owner’s back.
+[398.0, 966.9, 464.9, 971.4]: Souvik Dutta was
+[387.7, 973.9, 480.7, 979.7]: travelling on his scooter
+[387.7, 980.6, 484.6, 985.0]: from Hebbal towards Tin
+[507.3, 937.8, 590.0, 945.8]: The photograph involved
+[507.7, 947.5, 596.8, 952.8]: in the ‘false flag’ incident in
+[507.7, 952.5, 611.4, 960.8]: Bengaluru. SPECIAL ARRANGEMENT
+[507.3, 966.9, 588.3, 972.8]: Factory with a guitar
+[507.3, 973.9, 605.4, 979.7]: strapped to his back. The
+[507.3, 980.6, 580.5, 986.4]: camera apparently
+[626.8, 871.4, 730.5, 877.2]: mistook the guitar case for
+[626.8, 878.1, 730.9, 883.9]: a pillion rider and wrongly
+[626.8, 885.0, 717.7, 890.8]: identified it as a person
+[626.8, 891.7, 702.2, 897.5]: travelling without a
+[626.8, 898.6, 721.5, 904.4]: helmet. A challan, along
+[626.8, 905.6, 698.8, 911.4]: with a photograph
+[626.8, 912.2, 721.9, 918.1]: captured by the camera,
+[626.8, 919.2, 723.7, 925.0]: was subsequently sent to
+[626.8, 925.8, 709.1, 931.1]: Mr. Dutta’s wife, who
+[626.8, 932.8, 694.5, 937.2]: owns the scooter.
+[626.8, 946.4, 719.8, 952.2]: Limitations of system
+[626.8, 953.3, 718.5, 957.8]: The incident has drawn
+[626.8, 960.0, 730.1, 964.4]: attention to the limitations
+[626.8, 966.9, 703.5, 971.4]: of automated traffic
+[626.8, 973.9, 720.2, 979.7]: enforcement systems. A
+[626.8, 980.6, 729.2, 986.4]: senior traffic police officer
+[746.4, 871.4, 850.5, 877.2]: admitted that the reported
+[746.4, 878.1, 836.3, 883.9]: violation by the ‘pillion
+[746.4, 883.9, 835.0, 891.9]: rider’ was a ‘false flag’,
+[746.4, 891.7, 829.0, 897.5]: caused by an error in
+[745.5, 898.6, 820.9, 904.4]: judgment by the AI
+[746.4, 905.6, 837.6, 911.4]: system, which happens
+[746.4, 912.2, 795.6, 918.1]: occasionally.
+[757.1, 919.2, 844.5, 925.0]: Noting that the system
+[746.4, 925.8, 838.5, 931.7]: has yet to achieve 100%
+[746.4, 932.8, 842.8, 938.6]: accuracy, the officer said
+[746.4, 939.7, 849.6, 944.2]: that such violations can be
+[746.8, 946.4, 831.2, 952.2]: questioned, following
+[746.4, 953.3, 835.9, 959.2]: which they are verified
+[746.4, 960.0, 797.8, 964.4]: and rectified.
+[747.2, 981.7, 777.6, 985.0]: » PAGET
+[866.3, 625.3, 970.9, 631.1]: including the eight chal-
+[865.9, 632.2, 970.4, 638.1]: lenged in the first petition.
+[865.9, 638.9, 970.9, 644.7]: The candidates argued
+[866.3, 645.8, 970.9, 651.7]: that many of them missed
+[866.3, 652.8, 970.9, 657.2]: the cut-off for the Mains ex-
+[866.3, 659.4, 971.3, 665.3]: amination by only a few
+[866.3, 666.4, 970.9, 672.2]: marks. The aspirants, who
+[866.3, 673.1, 970.9, 677.5]: did not wish to be identi-
+[866.3, 680.0, 970.9, 685.8]: fied, said that a disputed
+[866.3, 686.9, 970.9, 692.8]: answer is rarely just about
+[866.3, 693.6, 970.9, 699.4]: one question, as it can ren-
+[866.3, 700.6, 970.9, 706.4]: der a candidate ineligible
+[866.3, 707.2, 970.9, 712.5]: for the Mains examination,
+[866.3, 714.2, 972.2, 720.0]: cost them an entire year of
+[866.3, 721.1, 970.9, 726.9]: preparation and, for those
+[866.3, 727.8, 970.9, 733.6]: appearing in their final at-
+[866.3, 734.7, 970.9, 740.6]: tempt, end their chances
+[866.3, 741.7, 916.9, 747.5]: of qualifying.
+[866.8, 763.1, 897.2, 766.4]: » PAGET
+[866.3, 788.9, 939.6, 798.9]: China, US.
+[866.3, 803.6, 950.3, 813.1]: agree to cut
+[865.9, 815.0, 956.3, 825.0]: tariff, launch
+[865.9, 828.1, 947.3, 839.2]: Al dialogue
+[866.3, 851.4, 897.6, 855.3]: Reuters
+[866.3, 858.9, 904.5, 862.2]: SHANGHAI
+[866.3, 871.4, 970.9, 877.2]: China said on Saturday it
+[865.9, 878.1, 970.4, 883.9]: had agreed with the U.S.
+[866.3, 884.7, 970.9, 890.8]: on a $30-billion reciprocal
+[866.3, 891.9, 970.9, 897.8]: tariffreduction arrange-
+[866.3, 898.6, 970.9, 904.4]: ment and on launching a
+[866.3, 905.6, 970.9, 911.4]: dialogue on AI, under an
+[866.3, 911.1, 970.9, 919.2]: eight-point consensus
+[866.3, 919.2, 970.9, 925.0]: reached during President
+[864.6, 925.0, 969.2, 933.1]: Xi Jinping’s visit to the U.S.
+[876.6, 932.8, 970.9, 937.2]: The two sides also
+[866.3, 938.6, 970.9, 946.7]: agreed to set up a trade
+[866.3, 946.7, 970.9, 951.1]: council and extend out-
+[866.3, 953.3, 970.9, 958.6]: comes of earlier talks, Chi-
+[866.3, 960.3, 967.4, 966.1]: na’s Foreign Ministry said.
+[866.8, 981.1, 901.5, 984.4]: » PAGE 14
+[950.3, 991.1, 970.9, 993.9]: ‘AND-NDE

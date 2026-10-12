@@ -1,0 +1,43 @@
+name: CI – Build & Deploy BPSC Bot
+
+on:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ secrets.GCP_WIP }}
+          service_account: ${{ secrets.GCP_SA }}
+
+      - name: Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v2
+        with:
+          project_id: ${{ secrets.GCP_PROJECT }}
+
+      - name: Build Docker image
+        run: |
+          gcloud builds submit . \
+            --tag "gcr.io/${{ secrets.GCP_PROJECT }}/bpsc-bot:${{ github.sha }}"
+
+      - name: Deploy to Cloud Run
+        run: |
+          gcloud run deploy bpsc-bot \
+            --image "gcr.io/${{ secrets.GCP_PROJECT }}/bpsc-bot:${{ github.sha }}" \
+            --region us-central1 \
+            --platform managed \
+            --allow-unauthenticated \
+            --set-env-vars "NATIVE_PAGES_BUCKET=${{ secrets.NATIVE_PAGES_BUCKET }}" \
+            --memory 1Gi \
+            --timeout 540s
+

@@ -1,0 +1,7 @@
+{
+  "stage": "ownership",
+  "issues": [
+    "Continuation block 83 owner A10 differs from nearby column 71 owner A8",
+    "Continuation block 84 owner A9 differs from nearby column 40 owner A3"
+  ]
+}

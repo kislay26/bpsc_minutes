@@ -1,0 +1,22 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory-review",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 2218,
+    "candidatesTokenCount": 1027,
+    "totalTokenCount": 3245,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 1126
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"Wind in her Hair\",\n    \"At his centenary celebrations, unpacking Uttam Kumar's appeal\",\n    \"Disquiet within, all three Election Commissioners meet, take first steps\",\n    \"Unmapped voters need not attend hearings, ECINet to get a review\",\n    \"In 48 hours, a sharp turn: Steps map two ECs’ concerns but key silences remain\",\n    \"No word on appeals in West Bengal that the ECs had flagged or on Form 6 and chain of command in ECINet\",\n    \"NEW NORMAL?\",\n    \"Maharashtra declares drought in 75% of state amid rainfall deficit\",\n    \"Marathwada worst-hit, cloud over Rabi season\",\n    \"Havildar from Himachal ends India’s 44-year wait for a medal in marathon\",\n    \"Jaishankar hits back at Pak PM: Serial terror practitioner’s bid for immunity won't stand\",\n    \"Flags ‘weaponisation of everything’, from chokepoints to market access hurdles\",\n    \"Naga leaders agree to open key Manipur highway after talks with Centre in Assam\",\n    \"Train to nowhere, Facebook reel and road home: 21-yr search for a Bihar man ends\"\n  ],\n  \"roles\": [\n    {\n      \"block_id\": 3,\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for the feature article in the top right quadrant.\"\n    },\n    {\n      \"block_id\": 5,\n      \"role\": \"subheadline\",\n      \"reason\": \"This serves as a subheadline describing the content of the feature article introduced by the headline above it.\"\n    },\n    {\n      \"block_id\": 8,\n      \"role\": \"other\",\n      \"reason\": \"This appears to be artifact noise or formatting content and does not constitute an article title.\"\n    },\n    {\n      \"block_id\": 25,\n      \"role\": \"kicker\",\n      \"reason\": \"This acts as a topical kicker for the Jaishankar news report situated below it.\"\n    },\n    {\n      \"block_id\": 30,\n      \"role\": \"headline\",\n      \"reason\": \"This is the main headline for the lead front-page story.\"\n    },\n    {\n      \"block_id\": 31,\n      \"role\": \"kicker\",\n      \"reason\": \"This is a context-setting kicker placed above the main headline.\"\n    },\n    {\n      \"block_id\": 32,\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for a secondary story related to the election commission.\"\n    },\n    {\n      \"block_id\": 44,\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for the sports news story about the marathon medal.\"\n    },\n    {\n      \"block_id\": 46,\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for the news story regarding the Naga leaders and the highway.\"\n    },\n    {\n      \"block_id\": 53,\n      \"role\": \"headline\",\n      \"reason\": \"This is the primary headline for the drought-related news story.\"\n    },\n    {\n      \"block_id\": 56,\n      \"role\": \"subheadline\",\n      \"reason\": \"This is a subheadline providing more specific details related to the drought headline.\"\n    },\n    {\n      \"block_id\": 60,\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for a follow-up analysis piece concerning the Election Commission.\"\n    },\n    {\n      \"block_id\": 61,\n      \"role\": \"subheadline\",\n      \"reason\": \"This acts as a subheadline expanding on the themes mentioned in the previous headline.\"\n    },\n    {\n      \"block_id\": 62,\n      \"role\": \"kicker\",\n      \"reason\": \"This is a small thematic kicker placed above the secondary EC story.\"\n    },\n    {\n      \"block_id\": 63,\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for the international affairs news story.\"\n    },\n    {\n      \"block_id\": 81,\n      \"role\": \"subheadline\",\n      \"reason\": \"This is a subheadline detailing specific points related to the Jaishankar article.\"\n    }\n  ]\n}"
+}

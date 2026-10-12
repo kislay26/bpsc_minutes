@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-review-4",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 5237,
+    "candidatesTokenCount": 55,
+    "totalTokenCount": 6890,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 3062
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2175
+      }
+    ],
+    "thoughtsTokenCount": 1598,
+    "serviceTier": "standard"
+  },
+  "content": "{\"ok\": false, \"issues\": [\"Contamination: The text fragment 'will be decided separately after the assessment is completed, government officials said.' at the top left of the cutting belongs to a different, preceding article and is not part of the Maharashtra drought article.\"]}"
+}

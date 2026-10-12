@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 16951,
+    "candidatesTokenCount": 1347,
+    "totalTokenCount": 22578,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2184
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 14767
+      }
+    ],
+    "thoughtsTokenCount": 4280,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"assignments\": [\n    {\n      \"component_id\": 0,\n      \"owner\": \"exclude:advertisement\"\n    },\n    {\n      \"component_id\": 3,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 4,\n      \"owner\": \"A8\"\n    },\n    {\n      \"component_id\": 10,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 14,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 17,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 21,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 25,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 27,\n      \"owner\": \"A8\"\n    },\n    {\n      \"component_id\": 30,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 33,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 41,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 49,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 56,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 62,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 65,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 70,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 72,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 73,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 76,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 83,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 85,\n      \"owner\": \"exclude:teaser\"\n    },\n    {\n      \"component_id\": 94,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 97,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 111,\n      \"owner\": \"A7\"\n    },\n    {\n      \"component_id\": 141,\n      \"owner\": \"exclude:print_mark\"\n    },\n    {\n      \"component_id\": 142,\n      \"owner\": \"exclude:print_mark\"\n    },\n    {\n      \"component_id\": 143,\n      \"owner\": \"exclude:print_mark\"\n    },\n    {\n      \"component_id\": 196,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 197,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 198,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 203,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 204,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 205,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 206,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 207,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 208,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 209,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 210,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 211,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 212,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 213,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 214,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 215,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 216,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 217,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 218,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 219,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 220,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 221,\n      \"owner\": \"A9\"\n    }\n  ]\n}"
+}

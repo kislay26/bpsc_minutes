@@ -1,0 +1,274 @@
+{
+  "review_date": "2026-09-23",
+  "window_start": "2016-09-23",
+  "window_end": "2026-09-23",
+  "exam": "BPSC Combined Competitive Examination General Studies",
+  "cycles": [
+    "60-62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71"
+  ],
+  "sample_type": "Purposeful source-located examples, not an exhaustive question census",
+  "sources": [
+    {
+      "id": "60_62_m1",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/60-62th-bpsc-mains-gs-paper-1-question-paper.pdf.pdf",
+      "pages": 14,
+      "sha256": "109a4d8acc81ee2917c3b4134b9fd4b1c5736ebc75ccb4609ab5e67eaf40ded1",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "60_62_m2",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/60-62th-bpsc-mains-gs-paper-2-question-paper.pdf.pdf",
+      "pages": 4,
+      "sha256": "e06444be7091595b934eb3a7e96f1fbe6cce7bcccb2dbb0685dd1ddd35590cf3",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "60_62_pre",
+      "url": "https://www.adda247.com/jobs/wp-content/uploads/sites/22/2026/05/06164723/BPSC-Prelims-Exam-Papers-60-62nd-Paper.pdf",
+      "pages": 16,
+      "sha256": "9c4978f6d3005a4ff69262b8f4800fa79f4a19a411e6f71b4690f570a406d30b",
+      "source_quality": "publisher_transcription",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "63_m1",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/63th-bpsc-mains-gs-paper-1-question-paper.pdf.pdf",
+      "pages": 18,
+      "sha256": "c202b2234e532eb2a7b01c7c2b8c25c4c9777ae55588185506bd0a3447d16b8b",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "63_m2",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/63th-bpsc-mains-gs-paper-2-question-paper.pdf.pdf",
+      "pages": 7,
+      "sha256": "70d2444a1908322d4b66ff08c840c589dc8cdd41748cbe3004d8746526e7da50",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "63_pre",
+      "url": "https://www.adda247.com/jobs/wp-content/uploads/sites/22/2026/05/06165414/B.P.S.C-63rd-Prelims-Exam-General-Studies-Paper.pdf",
+      "pages": 26,
+      "sha256": "e983b51a84da2c556719894048e70a7c3f7f8594346ffd3c5321548706e21210",
+      "source_quality": "publisher_transcription",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "64_m1",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/64th-bpsc-mains-gs-paper-1-question-paper.pdf.pdf",
+      "pages": 15,
+      "sha256": "3bfd7947aa9895131291fa9c0ddb015a3be8b4a9a2fe7691ffaf61c7f257b155",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "64_m2",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/64th-bpsc-mains-gs-paper-2-question-paper.pdf.pdf",
+      "pages": 7,
+      "sha256": "9fabac0a15700d6d9012a7867dc213fadee0ff2aef8e7bcdbb54c6959c2f6f98",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "64_pre",
+      "url": "https://www.adda247.com/jobs/wp-content/uploads/sites/22/2026/05/06165415/B.P.S.C-64th-Prelims-Exam-General-Studies-Paper.pdf",
+      "pages": 27,
+      "sha256": "ce63d9db217a16f9d5e3660a174627a3ac4bd35bf91ca6097bbcc96f294d8efa",
+      "source_quality": "publisher_transcription",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "65_m1",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/65th-bpsc-mains-gs-paper-1-question-paper.pdf.pdf",
+      "pages": 16,
+      "sha256": "bbcbb8bcf6754efba26f1962d71ce66eda5b82d02004a6cc5b8853dfdf4598a4",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "65_m2",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/65th-bpsc-mains-gs-paper-2-question-paper.pdf.pdf",
+      "pages": 6,
+      "sha256": "f49fcc83574bdfe3044a593708b59850ac8bb22269268a44be9c54e510c278d3",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "65_pre_transcription",
+      "url": "https://cdn-images.prepp.in/public/image/bpsc-2019-prelims-general-studies-question-paper-and-answer-key-pdf-english-oct-15-2019-1787728512.pdf",
+      "pages": 287,
+      "sha256": "83f78916828f8a24c49122b59932935405eb0df6f8b0870698148ebeda046494",
+      "source_quality": "publisher_transcription",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "66_m1",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/66th-bpsc-mains-gs-paper-1-question-paper.pdf.pdf",
+      "pages": 15,
+      "sha256": "f303446a5e425d1c7f03b6c64fe3bf85b9c58cc7cd1a694432123df02d5bc38d",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "66_m2",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/66th-bpsc-mains-gs-paper-2-question-paper.pdf.pdf",
+      "pages": 7,
+      "sha256": "ae58d01f2a1e5a005df4ebcdc374b4568ccf67d9369a007749fc1fe0095f49a4",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "66_pre_transcription",
+      "url": "https://cdn-images.prepp.in/public/image/bpsc-2020-prelims-general-studies-question-paper-and-answer-key-pdf-english-dec-27-2020-1787728512.pdf",
+      "pages": 285,
+      "sha256": "ba61d4ae341ccab5b27e706b3be47c6a5c52eb766cda3161ede3dc1ffc6de2c0",
+      "source_quality": "publisher_transcription",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "67_m1",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/67th-bpsc-mains-gs-paper-1-question-paper.pdf.pdf",
+      "pages": 15,
+      "sha256": "898afda5ae754886918e9e2ec8556cf36d2d3f5acfaba83d7fb850ab218bea54",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "67_m2",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/67th-bpsc-mains-gs-paper-2-question-paper.pdf.pdf",
+      "pages": 7,
+      "sha256": "511bf7836c582c3cd6d587017f9c7d01e74c140c06b6c96e2e0452f3ca84d8ab",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "67_repre_english",
+      "url": "https://bpscnotes.in/wp-content/uploads/2024/05/65645-67th-bpsc-re-exam-pt-paper-eng.pdf",
+      "pages": 23,
+      "sha256": "5fd5534a731fa35eb749cd8855dcb7d5208db1a547af439c22bdc8146e1bbfd3",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "68_m1",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/68th-bpsc-mains-gs-paper-1-question-paper.pdf.pdf",
+      "pages": 8,
+      "sha256": "3270acf83d7af121717a838cfd98b475c4c279d9256387b36aa7522b571390aa",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "68_m2",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/68th-bpsc-mains-gs-paper-2-question-paper.pdf.pdf",
+      "pages": 4,
+      "sha256": "c0bf0798c9944fb71bf806e4f9eb993c1aaac47b61416844dba65418e41fb71d",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "68_pre",
+      "url": "https://cdn-images.prepp.in/public/image/General_Studies_compressed_bb666328b78b54a6838e67ee29b26322.pdf",
+      "pages": 48,
+      "sha256": "8f07846a6e945744f99ace980c20436e81506a979336d53f2545d48ec452dde4",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "69_m1",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/69th-bpsc-mains-gs-paper-1-question-paper.pdf.pdf",
+      "pages": 8,
+      "sha256": "174cc8673ad06732a4222fba26d57cbf283a7d0f6d7805cb3c16255970e6c343",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "69_m2",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/69th-bpsc-mains-gs-paper-2-question-paper.pdf.pdf",
+      "pages": 4,
+      "sha256": "e1744d12a62649df07effc9541d478a307f16f8962e8aad30f17823b6316ae83",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "69_pre",
+      "url": "https://cdn-images.prepp.in/public/image/BPSC_69th_Set_A_Question_Paper_150d8c728a0e98507201cb2e7bf7181e.pdf",
+      "pages": 64,
+      "sha256": "bd714a2d03f7c5111e68469ae9c2df05f5015530d22a4190ba46aafd5315786c",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "70_m1",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/70th-bpsc-mains-gs-paper-1-question-paper.pdf.pdf",
+      "pages": 12,
+      "sha256": "40ae5c3ab2eb535b2243fa742966206d974065ecdde95b9e36db3974eeebfdf2",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "70_m2",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/01/70th-bpsc-mains-gs-paper-2-question-paper.pdf.pdf",
+      "pages": 4,
+      "sha256": "6de1647b99f937aa10e35b5145b827808fb983adad02d2029308ff2a1660feff",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "70_pre",
+      "url": "https://cdn-images.prepp.in/public/image/Download_70th_BPSC_Prelims_Question_Paper_2024_PDF_compressed_eab2d89d8d7a21924dc20a6d7531dd14.pdf",
+      "pages": 28,
+      "sha256": "348fc7d1d096a639f95b62fa6b3297e381cd97c2f2443365bbcd5406f0e46fe8",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "71_m1",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/04/71th-bpsc-mains-gs-paper-1-question-paper.pdf.pdf",
+      "pages": 12,
+      "sha256": "6c115e1d8e3744257deef43cd8ba534033c49cf059f87e78c9b2f4563744bf74",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "71_m2",
+      "url": "https://bpscpathshala.com/wp-content/uploads/2026/04/71th-bpsc-mains-gs-paper-2-question-paper.pdf.pdf",
+      "pages": 7,
+      "sha256": "5aabe17b0617362176d9245a0325253f0081c763c486948639b0152d99619bcd",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    },
+    {
+      "id": "71_pre",
+      "url": "https://cdn-images.prepp.in/public/image/BPSC_71st_Question_13_September_2025_English_Paper_5753168b298c36cba3075294065248ce.pdf",
+      "pages": 21,
+      "sha256": "60a0c9361acdec5d49cddb2891226298d693d74dca7b53e207d061f97ccf4437",
+      "source_quality": "exam_booklet_mirror",
+      "location_convention": "One-based PDF file page; question numbering belongs to this linked copy."
+    }
+  ],
+  "excluded_sources": [
+    {
+      "id": "67_pre_english",
+      "reason": "Cancelled May 2022 sitting mislabelled as September re-exam by an index; excluded from evidence."
+    }
+  ],
+  "limitations": [
+    "Official BPSC archives returned retrieval errors; question evidence uses public booklet mirrors and explicitly marked publisher transcriptions.",
+    "No answer keys adjudicated; handwritten ticks and coaching solutions ignored.",
+    "70th January 2025 re-exam inspected as supplementary context, not a separate cycle or part of this evidence ledger. Other special sittings and alternate sets are not exhaustively covered.",
+    "OCR was used as an aid; missed columns and numbers were checked against page images. Some regions remain unclear and are not used as evidence.",
+    "Dated facts, current-linked concepts, and applied mains are separate labels. Sample counts are not exam topic frequencies or predicted probabilities."
+  ]
+}

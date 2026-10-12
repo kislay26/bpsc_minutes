@@ -1,0 +1,21 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "A1: body column text is clipped at the bottom",
+      "A2: contains text and footer links belonging to article A1"
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  }
+]

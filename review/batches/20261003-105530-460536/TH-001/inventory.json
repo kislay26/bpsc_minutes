@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.8-flash",
+  "stage": "inventory",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 1971,
+    "candidatesTokenCount": 167,
+    "totalTokenCount": 2748,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1066
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 905
+      }
+    ],
+    "thoughtsTokenCount": 610,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"EC switches to damage control mode after facing flak over SIR\",\n    \"Congress urges top court to hold CEC accountable\",\n    \"Jaishankar lashes out at Sharif in UN speech\",\n    \"Maharashtra govt. declares drought in 265 taluks\",\n    \"‘Jharkhand govt. against mines Act to aid coal theft’\",\n    \"Golden double\",\n    \"UPSC candidates challenge ‘ambiguous’ CSE questions\",\n    \"2 Naga civilians killed in Manipur’s Senapati; cowardly act, says CM\",\n    \"Out of sync: Bengaluru AI system mistakes guitar case for pillion rider, issues challan\",\n    \"China, U.S. agree to cut tariff, launch AI dialogue\"\n  ]\n}"
+}

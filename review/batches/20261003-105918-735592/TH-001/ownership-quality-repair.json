@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-quality-repair",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 9089,
+    "candidatesTokenCount": 20,
+    "totalTokenCount": 14251,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1066
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 8023
+      }
+    ],
+    "thoughtsTokenCount": 5142,
+    "serviceTier": "standard"
+  },
+  "content": "{\"changes\": [{\"component_id\": 20, \"owner\": \"A1\"}]}"
+}

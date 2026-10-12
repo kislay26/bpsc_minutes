@@ -1,0 +1,22 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 12403,
+    "candidatesTokenCount": 813,
+    "totalTokenCount": 13216,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 11337
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1066
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "content": "{\"0\": \"exclude:print_mark\", \"1\": \"exclude:masthead\", \"2\": \"exclude:masthead\", \"3\": \"exclude:masthead\", \"4\": \"exclude:masthead\", \"5\": \"exclude:masthead\", \"6\": \"exclude:masthead\", \"7\": \"exclude:masthead\", \"8\": \"A1\", \"9\": \"A1\", \"10\": \"A1\", \"11\": \"A1\", \"12\": \"A1\", \"13\": \"A1\", \"14\": \"A2\", \"15\": \"A2\", \"16\": \"A2\", \"17\": \"A2\", \"18\": \"A2\", \"19\": \"A2\", \"20\": \"A2\", \"21\": \"A2\", \"22\": \"A2\", \"23\": \"A2\", \"24\": \"A2\", \"25\": \"exclude:teaser\", \"26\": \"exclude:teaser\", \"27\": \"exclude:teaser\", \"28\": \"exclude:teaser\", \"29\": \"exclude:teaser\", \"30\": \"exclude:teaser\", \"31\": \"exclude:teaser\", \"32\": \"exclude:teaser\", \"33\": \"exclude:teaser\", \"34\": \"exclude:teaser\", \"35\": \"exclude:teaser\", \"36\": \"exclude:teaser\", \"37\": \"exclude:teaser\", \"38\": \"exclude:teaser\", \"39\": \"A3\", \"40\": \"A3\", \"41\": \"A3\", \"42\": \"A3\", \"43\": \"A3\", \"44\": \"A3\", \"45\": \"exclude:teaser\", \"46\": \"exclude:masthead\", \"47\": \"exclude:teaser\", \"48\": \"A4\", \"49\": \"A4\", \"50\": \"A4\", \"51\": \"A5\", \"52\": \"A5\", \"53\": \"A6\", \"54\": \"A6\", \"55\": \"A6\", \"56\": \"A6\", \"57\": \"A6\", \"58\": \"A6\", \"59\": \"A6\", \"60\": \"A6\", \"61\": \"A6\", \"62\": \"A6\", \"63\": \"A6\", \"64\": \"A6\", \"65\": \"exclude:teaser\", \"66\": \"exclude:teaser\", \"67\": \"exclude:teaser\", \"68\": \"exclude:teaser\", \"69\": \"A7\", \"70\": \"A7\", \"71\": \"A7\", \"72\": \"A7\", \"73\": \"A7\", \"74\": \"A7\", \"75\": \"A7\", \"76\": \"A8\", \"77\": \"A8\", \"78\": \"A8\", \"79\": \"A9\", \"80\": \"A9\", \"81\": \"A9\", \"82\": \"A9\", \"83\": \"A9\", \"84\": \"A8\", \"85\": \"exclude:print_mark\", \"86\": \"exclude:print_mark\", \"87\": \"exclude:masthead\", \"88\": \"exclude:masthead\", \"89\": \"exclude:masthead\", \"90\": \"A2\", \"91\": \"exclude:print_mark\", \"92\": \"exclude:print_mark\", \"93\": \"exclude:print_mark\", \"94\": \"exclude:print_mark\"}"
+}

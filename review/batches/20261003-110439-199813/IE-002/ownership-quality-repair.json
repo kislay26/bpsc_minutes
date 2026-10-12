@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-quality-repair",
+  "finish_reason": "MAX_TOKENS",
+  "usage": {
+    "promptTokenCount": 15513,
+    "candidatesTokenCount": 315,
+    "totalTokenCount": 23689,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 14421
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "thoughtsTokenCount": 7861,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"changes\": [\n    {\n      \"component_id\": 5,\n      \"owner\": \"A2\"\n    },\n    {\n      \"component_id\": 27,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 29,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 30,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 36,\n      \"owner\": \"A2\"\n    },\n    {\n      \"component_id\": 44,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 46,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 48,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 49,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 51,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 54,\n      \"owner\": \"A2\"\n    },\n    {\n      \"component_id\": 56,\n      \"owner\": \"A3\""
+}

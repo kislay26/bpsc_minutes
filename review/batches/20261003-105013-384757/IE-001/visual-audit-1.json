@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 8259,
+    "candidatesTokenCount": 19,
+    "totalTokenCount": 13286,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 7581
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 678
+      }
+    ],
+    "thoughtsTokenCount": 5008,
+    "serviceTier": "standard"
+  },
+  "content": "{\"ok\": false, \"issues\": [\"Article A3 is mixed with A4 headline\"]}"
+}

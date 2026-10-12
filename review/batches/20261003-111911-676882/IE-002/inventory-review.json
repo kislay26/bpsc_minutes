@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory-review",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 31076,
+    "candidatesTokenCount": 481,
+    "totalTokenCount": 36354,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 29984
+      }
+    ],
+    "thoughtsTokenCount": 4797,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"Demolitions follow spate of harassment cases in Samastipur\",\n    \"All three Commissioners meet\",\n    \"In 48 hrs, a sharp turn\",\n    \"Maharashtra drought\",\n    \"Train to nowhere\",\n    \"Jaishankar at UN\",\n    \"Marathon\"\n  ],\n  \"roles\": {\n    \"108\": {\n      \"role\": \"subheadline\",\n      \"reason\": \"This acts as a sub-section header for relief measures within the Maharashtra drought story.\"\n    },\n    \"110\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is the lead headline for the news story about the Samastipur demolitions.\"\n    },\n    \"114\": {\n      \"role\": \"kicker\",\n      \"reason\": \"This acts as a location-based label/kicker for the Manipur blockade story.\"\n    },\n    \"115\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for the human interest story.\"\n    },\n    \"117\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for the story regarding the Election Commission meetings.\"\n    },\n    \"118\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for the sports story about the marathon.\"\n    },\n    \"119\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for the international news story regarding the UN address.\"\n    },\n    \"120\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for the report on the Maharashtra drought.\"\n    },\n    \"121\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is the main headline for the report regarding developments in the Manipur blockade.\"\n    },\n    \"123\": {\n      \"role\": \"subheadline\",\n      \"reason\": \"This is a sub-section header regarding agricultural impacts within the drought coverage.\"\n    }\n  }\n}"
+}

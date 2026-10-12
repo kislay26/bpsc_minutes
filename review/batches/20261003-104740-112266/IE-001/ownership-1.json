@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 16738,
+    "candidatesTokenCount": 66,
+    "totalTokenCount": 18021,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 14554
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2184
+      }
+    ],
+    "thoughtsTokenCount": 1217,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"assignments\": [\n    {\n      \"component_id\": 199,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 200,\n      \"owner\": \"A6\"\n    }\n  ]\n}"
+}

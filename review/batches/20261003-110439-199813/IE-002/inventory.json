@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 1567,
+    "candidatesTokenCount": 97,
+    "totalTokenCount": 3807,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 475
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "thoughtsTokenCount": 2143,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"Relief measures\",\n    \"Demolitions follow spate of harassment cases in Samastipur\",\n    \"Manipur\",\n    \"Train to nowhere\",\n    \"All three Commissioners meet\",\n    \"Marathon\",\n    \"Jaishankar at UN\",\n    \"Maharashtra drought\",\n    \"In 48 hrs, a sharp turn\",\n    \"Rabi crop\"\n  ]\n}"
+}

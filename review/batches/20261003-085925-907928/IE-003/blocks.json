@@ -1,0 +1,813 @@
+[
+  {
+    "id": 0,
+    "kind": "image",
+    "bbox": [
+      0.0,
+      0.3427734375,
+      1500.0,
+      2383.3427734375
+    ],
+    "font_min": 0,
+    "font_max": 0,
+    "text": ""
+  },
+  {
+    "id": 1,
+    "kind": "text",
+    "bbox": [
+      649.1842041015625,
+      -4.026576995849609,
+      850.4451293945312,
+      15.157707214355469
+    ],
+    "font_min": 19.184284210205078,
+    "font_max": 19.184284210205078,
+    "text": "THE SUNDAY EXPRESS",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 2,
+    "kind": "text",
+    "bbox": [
+      4.346470832824707,
+      10.73846435546875,
+      1506.5404052734375,
+      145.2590789794922
+    ],
+    "font_min": 14.388213157653809,
+    "font_max": 95.92141723632812,
+    "text": "The City SUNDAY, SEPTEMBER 27, 2026",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 3,
+    "kind": "text",
+    "bbox": [
+      4.344489097595215,
+      1882.4404296875,
+      1494.1966552734375,
+      1956.69970703125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 47.96070861816406,
+    "text": "Once a family pastime, Mahjong finds a new table in Delhi's social scene",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 4,
+    "kind": "text",
+    "bbox": [
+      4.344489097595215,
+      1964.9571533203125,
+      146.94769287109375,
+      1996.7901611328125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Reva Thakkar\r\nNew Delhi. Sentember 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 5,
+    "kind": "text",
+    "bbox": [
+      4.344472885131836,
+      2014.375732421875,
+      174.85572814941406,
+      2346.10400390625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "ON A Tuesday morning in Jor\r\nBagh, Ferida Chopra’s drawing\r\nroom is full. Four women — in\r\ntheir 20s to 70s — sit around a\r\nsquare table, their fingers mov-\r\ning across rows of Mahjong tiles.\r\nThe players draw and discard\r\nfrom 144 tiles, trying to com-\r\nplete a winning combination.\r\n\r\nMahjong means “sparrow”,\r\nsaid to come either from the\r\nbird carved on some traditional\r\ntiles or from the sound the\r\npieces make when shuffled.\r\n\r\nA lawyer who began practis-\r\ning at SO, Ferida learnt Mahjong\r\nonly recently, taking lessons\r\nfrom two teachers in Greater\r\nKailash. Her 10-year-old grand-\r\nson had started learning it, and\r\nshe wanted something to keep\r\nher brain active: her 97-vear-old",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 6,
+    "kind": "text",
+    "bbox": [
+      192.97744750976562,
+      1968.81298828125,
+      363.7431640625,
+      2346.1025390625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "mother suffers from dementia.\r\n\r\nHer WhatsApp group where\r\none can book Mahjong sessions,\r\nnamed ‘Lutyens’ Delhi’, has\r\nmembers from across Jor Bagh,\r\nNizamuddin, Vasant Vihar and\r\nKhan Market. Slots for games\r\nplayed at her home fill up in\r\nunder halfan hour, twice a week,\r\nevery week. “The game has\r\nhelped me reconnect with dis-\r\ntant relatives, family friends\r\nand acquaintances,” she says.\r\n\r\nFerida is part of a Mahjong\r\nboom that has gathered pace in\r\nDelhi over the last five years. A\r\ngame once largely played be-\r\ntween families, particularly in\r\nArmy and Parsi circles, is now\r\nbeing taught commercially,\r\nplayed at restaurants and or-\r\nganised through WhatsApp\r\ngroups and tournaments.\r\n\r\nThe reasons are varied: a\r\npost-pandemic appetite for",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 7,
+    "kind": "text",
+    "bbox": [
+      381.610595703125,
+      1968.8115234375,
+      552.1207885742188,
+      2346.10107421875
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "meeting people offline, the\r\ngame’s visibility on social\r\nmedia, and teachers turning a\r\nfamily pastime into businesses.\r\n\r\nMahjong originated in 19th\r\ncentury China. How it came to\r\nIndiahas morethan one version.\r\n\r\nFerida, a Parsi, traces its\r\npresence in Bombay to the com-\r\nmunity’s links with China. “My\r\ngrandfather used to play bridge,\r\nwhile my grandmother dressed\r\nin chiffons and pearls to play\r\nMahjong with a beautiful ivory\r\nset in a carved cabinet,” she\r\nsays. “The Parsi traders who\r\nwent to China brought back\r\nsilks and Mahjong sets.”\r\n\r\nThe game has been played\r\nfor generations in Mumbai. At\r\nthe Willingdon Sports Club,\r\nmore than 200 people can play\r\nacross 10 to 15 tables. She men-\r\ntions how officers of the East\r\nIndia Companvy during British",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 8,
+    "kind": "text",
+    "bbox": [
+      570.2437744140625,
+      2242.186279296875,
+      741.0095825195312,
+      2346.100830078125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "rule played Mahjong and, be-\r\ncause of that, clubs in Kolkata\r\nlike the Tollygunge Club had\r\nParsis playing the game.\r\nAnother lineage runs\r\nthrough Army families.\r\nVijiavlakshmi (73) was 10",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 9,
+    "kind": "text",
+    "bbox": [
+      758.8767700195312,
+      2242.18603515625,
+      929.3871459960938,
+      2346.1005859375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "when she learnt to play. In the\r\n1960s, when her father and\r\nother officers were posted to\r\nnon-family stations, her mother\r\ngathered the officers’ wives and\r\nchildren around Mahjong\r\ntables to keep them busy.",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 10,
+    "kind": "text",
+    "bbox": [
+      947.5099487304688,
+      1968.8095703125,
+      1118.0206298828125,
+      2346.09912109375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "Sinha (39) and her sister-in-law Diya Kaul (41) launched Mahjong Studio last December. Vasundharahasa master’sin economics from the London School of Economics; Diya prac-",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 11,
+    "kind": "text",
+    "bbox": [
+      1136.1429443359375,
+      1968.80810546875,
+      1306.781982421875,
+      2346.09765625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "mostly women in their 50s cameto play. But over the last five to seven months, there's been a sudden surge of people in their 20s... even collegestudents are coming,\" she says. According to the studio, around 80% of its players are women. The Mahjong Network,",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 12,
+    "kind": "text",
+    "bbox": [
+      1324.7757568359375,
+      1968.806640625,
+      1495.2872314453125,
+      2346.103759765625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "founded in Mumbai by Ishira Kumar, Ria Bajaj and Maneka Jain Daswani has chapters in Delhi, Mumbai and Bengaluru. When Maneka (41) moved to Mumbai and looked for people to learn Mahjong with through a networking group, 200 joined the WhatsApp group in its first week. For Ria, the game offers lessons beyond the table. “Mahjong helps with business strategy; it teaches you detachment — you play the tiles you are dealt with.” Restaurants, too, are making room for the game. At Latitude 28 in Khan Market, Mahjong sets were introduced in July. “Two to three tables are usually occupied, while customers also rent the space for parties centred around the game,” said a member of the restaurant’s marketing team.",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 13,
+    "kind": "text",
+    "bbox": [
+      570.2430419921875,
+      2194.604248046875,
+      1174.861083984375,
+      2228.01025390625
+    ],
+    "font_min": 9.592142105102539,
+    "font_max": 15.986903190612793,
+    "text": "(Left) Atan event conducted by The Mahjong Network; thestageis jeweller. ; TY rr\r\nset at Latitude 28 in Khan Market. express In Greater Kail- | THEEVENTFUL",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 14,
+    "kind": "text",
+    "bbox": [
+      1094.910400390625,
+      2220.074951171875,
+      1158.1131591796875,
+      2255.24609375
+    ],
+    "font_min": 35.17118835449219,
+    "font_max": 35.17118835449219,
+    "text": "ie ee WEE",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 15,
+    "kind": "text",
+    "bbox": [
+      4.346438884735107,
+      339.8885192871094,
+      146.94964599609375,
+      371.7216491699219
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Devansh Mittal New Delhi, September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 16,
+    "kind": "text",
+    "bbox": [
+      4.346438884735107,
+      389.3072509765625,
+      175.16748046875,
+      705.8479614257812
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "THE DEADLINE for the on- going Special Intensive Revi- sion (SIR) of electoral rolls in Delhi was revised for the fourth time on Saturday, with the Elec- tion Commission of India (ECI) pushing the publication of the final electoral roll from Novem- ber 4 to December 4 and giving residents one more month to file claims and objections. Residents can now file claims and objections until Oc- tober 30, while the deadline for disposal of notices, claims and objections has been extended to November 30. Also, the ECI eased the pro- cess for voters who have re- ceived notices over discrep- ancies in their records. From",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 17,
+    "kind": "text",
+    "bbox": [
+      192.97935485839844,
+      343.7445983886719,
+      363.8089599609375,
+      705.8480224609375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "nowon, they will not have to ap- pear at an election office for a hearing but booth level officers (BLOs) will visit their homes to collect documents and upload them on the ECINet platform for a decision by the Electoral Registration Officer (ERO). The revised schedule was is- sued “in view of the request re- ceived from CEO Delhi”, the ECI said. It followed a request from the Delhi Chief Electoral Officer (CEO) in a letter dated September 23, it added. The latest change is the fourth revision of the SIR schedule since the exercise was ordered on May 14. The dead- line to issue the final roll was earlier October 7, which was then revised to October 19, Oc- tober 27 and November 4. The extension comes as the",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 18,
+    "kind": "text",
+    "bbox": [
+      381.6121826171875,
+      510.8077697753906,
+      552.1349487304688,
+      705.8480224609375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "claims and objections phase has\r\nseen a relatively low number of\r\napplications from people seek-\r\ning fresh enrolment. Since the\r\ndraft rolls were published on\r\nAugust 31, only 1.21lakh Form 6\r\napplications — used to seek reg-\r\nistration as new electors — have\r\nbeen filed, according to Delhi\r\nCEO office data.\r\n\r\nThe figure assumes signifi-\r\ncance in the context of the\r\nnumberof deletionsin the draft",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 19,
+    "kind": "text",
+    "bbox": [
+      570.2451782226562,
+      510.8077697753906,
+      740.755615234375,
+      705.8480224609375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "electoral roll.\r\n\r\nDelhi had around 1.45 crore\r\nelectors before the exercise.\r\nAmong them, 97.5 lakh were in-\r\ncluded in the draft electoral roll,\r\nwhile around 47.5 lakh electors\r\nwere classified as “uncollect-\r\nible” - after BLOs found them\r\nabsent, shifted, dead or having\r\nduplicate entries, among other\r\nreasons — and were struck off\r\nthe roll.\r\n\r\nAmong the 97.5 lakh who",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 20,
+    "kind": "text",
+    "bbox": [
+      758.8780517578125,
+      343.7446594238281,
+      929.6434326171875,
+      705.8480834960938
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "did make it to the draft roll,\r\none-third or around 33.1 lakh\r\nelectors were issued notices to\r\nprove that they are eligible to be\r\non the final roll. While 13.79\r\nlakh electors got notices be-\r\ncause they could not link them-\r\nselves to the electoral roll ofthe\r\nlast SIR, 19.33 lakh were flagged\r\nfor “logical discrepancies” in\r\ntheir enumeration forms.\r\nSeveral prominent voters, in-\r\ncluding former Deputy Prime\r\nMinister L K Advani, External\r\nAffairs Minister S Jaishankar,\r\nDelhi Chief Minister Rekha\r\nGupta, Election Commissioner\r\nS S Sandhu, former Vice-Presi-\r\ndent Jagdeep Dhankhar and\r\nformer Delhi CM Arvind Kejri-\r\nwal, have received such notices.\r\nOfficials said the details of most\r\nhad been validated through field\r\nverification and their names had",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 21,
+    "kind": "text",
+    "bbox": [
+      947.5111083984375,
+      343.7447204589844,
+      1118.02197265625,
+      705.84814453125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "been reserved for inclusion in\r\nthe final roll.\r\n\r\nSources in the Delhi CEO’s\r\noffice said the decision to seek\r\nmore time was taken after a\r\nmeeting with representatives\r\nof parties earlier this week. “All\r\nparties requested that more\r\ntime be given for filing claims\r\nand objections,” an official said.\r\n\r\nFurther, the ECI directed dis-\r\ntrict election officers to create\r\nadequate helpdesks and hold\r\nspecial camps for people living\r\nin night shelters, labourers, poor\r\npeople and the homeless, as\r\nrequired. The Delhi CEO’s office\r\nhas been trying to increase en-\r\nrolment among vulnerable\r\ncommunities, including the\r\nhomeless, sex workers, and\r\ntransgender persons, through\r\nspecial camps at night shelters\r\nand other locations.",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 22,
+    "kind": "text",
+    "bbox": [
+      4.355504035949707,
+      962.5783081054688,
+      146.95870971679688,
+      994.4114379882812
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Nirbhay Thakur New Delhi, September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 23,
+    "kind": "text",
+    "bbox": [
+      4.3551201820373535,
+      1011.9969482421875,
+      175.1188507080078,
+      1753.789306640625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "A DELHI court on Saturday pulled up the Gurugram Police, asking how it cremated the body of real estate professional Yuvraj Singh Manchanda along with his belongings without fol- owing legal procedures. How\r\n5\t1\t12\t2\t1\t2\t169\t3123\t59\t19\t96.431023\tcan\r\n5\t1\t12\t2\t1\t3\t242\t3123\t17\t19\t95.450851\ta\r\n5\t1\t12\t2\t1\t4\t273\t3115\t83\t34\t95.833611\tbody\r\n5\t1\t12\t2\t1\t5\t369\t3115\t38\t27\t93.294395\tbe\r\n5\t1\t12\t2\t1\t6\t422\t3123\t63\t19\t92.582832\tcre-\r\n4\t1\t12\t2\t2\t0\t13\t3157\t472\t34\t-1\t\r\n5\t1\t12\t2\t2\t1\t13\t3157\t101\t27\t96.890244\tmated\r\n5\t1\t12\t2\t2\t2\t123\t3157\t87\t34\t96.588959\talong\r\n5\t1\t12\t2\t2\t3\t218\t3157\t71\t27\t96.093544\twith\r\n5\t1\t12\t2\t2\t4\t298\t3157\t187\t34\t96.668137\tbelongings?\r\n4\t1\t12\t2\t3\t0\t20\t3199\t464\t27\t-1\t\r\n5\t1\t12\t2\t3\t1\t20\t3201\t71\t25\t96.159515\tHow\r\n5\t1\t12\t2\t3\t2\t103\t3207\t59\t19\t94.845139\tcan\r\n5\t1\t12\t2\t3\t3\t174\t3199\t53\t27\t94.845139\tthe\r\n5\t1\t12\t2\t3\t4\t241\t3199\t56\t27\t96.157021\tlaw\r\n5\t1\t12\t2\t3\t5\t310\t3203\t55\t23\t96.541794\tnot\r\n5\t1\t12\t2\t3\t6\t377\t3199\t38\t27\t93.280365\tbe\r\n5\t1\t12\t2\t3\t7\t429\t3199\t55\t27\t92.656128\tfol-\r\n4\t1\t12\t2\t4\t0\t25\t3242\t459\t34\t-1\t\r\n5\t1\t12\t2\t4\t1\t25\t3242\t111\t31\t94.108170\towed, Judicial Magistrate Rahul Jain of Saket court asked the Gurugram Police in re- sponse to a submission by sen- ior advocate Amit Prasad, who appeared for Yuvraj’s sister, that a burnt watch and kada were recovered from the cre- mation site. The remarks came after the court on Thursday said the Gu- rugram Police had botched\r\n4\t1\t12\t3\t4\t0\t13\t3748\t471\t34\t-1\t\r\n5\t1\t12\t3\t4\t1\t13\t3748\t54\t34\t95.663635\tup the case and described its handling ofthe body asa\"com- plete hotch potch\". Yuvraj was allegedly killed by his former colleague and her partner in Gurgaon on Septem- ber 6 and thrown into a drain. Describing the sequence of events asa shocking\r\n5\t1\t12\t5\t2\t4\t333\t4089\t71\t23\t97.002792\tstate\r\n5\t1\t12\t5\t2\t5\t410\t4085\t33\t27\t93.295822\tof\r\n5\t1\t12\t5\t2\t6\t446\t4085\t37\t27\t93.047668\taf-\r\n4\t1\t12\t5\t3\t0\t13\t4127\t472\t34\t-1\t\r\n5\t1\t12\t5\t3\t1\t13\t4127\t88\t31\t88.452026\tfairs, the court asked, Do\r\n5\t1\t12\t5\t3\t6\t426\t4135\t59\t26\t96.598869\tyou\r\n4\t1\t12\t5\t4\t0\t13\t4170\t471\t34\t-1\t\r\n5\t1\t12\t5\t4\t1\t13\t4174\t55\t23\t96.689331\tnot\r\n5\t1\t12\t5\t4\t2\t80\t4170\t117\t34\t96.618561\tupload\r\n5\t1\t12\t5\t4\t3\t209\t4170\t111\t27\t96.277069\tdetails\r\n5\t1\t12\t5\t4\t4\t332\t4170\t35\t27\t95.810699\tof\r\n5\t1\t12\t5\t4\t5\t376\t4178\t40\t19\t93.278748\tan\r\n5\t1\t12\t5\t4\t6\t428\t4178\t56\t19\t91.297424\tun-\r\n4\t1\t12\t5\t5\t0\t13\t4212\t472\t34\t-1\t\r\n5\t1\t12\t5\t5\t1\t13\t4212\t157\t27\t96.614281\tidentified\r\n5\t1\t12\t5\t5\t2\t178\t4212\t81\t34\t96.657799\tbody\r\n5\t1\t12\t5\t5\t3\t267\t4220\t41\t19\t92.338425\ton\r\n5\t1\t12\t5\t5\t4\t316\t4214\t129\t25\t92.134689\tZIPNET\r\n5\t1\t12\t5\t5\t5\t453\t4213\t32\t26\t96.521141\tin\r\n4\t1\t12\t5\t6\t0\t13\t4254\t472\t27\t-1\t\r\n5\t1\t12\t5\t6\t1\t13\t4262\t82\t19\t96.632652\tcases\r\n5\t1\t12\t5\t6\t2\t105\t4254\t33\t27\t96.792511\tof\r\n5\t1\t12\t5\t6\t3\t144\t4254\t121\t27\t96.071823\tmurder\r\n5\t1\t12\t5\t6\t4\t273\t4262\t33\t19\t96.159370\tor\r\n5\t1\t12\t5\t6\t5\t314\t4254\t171\t27\t96.363472\totherwise?\r\n4\t1\t12\t5\t7\t0\t13\t4296\t471\t34\t-1\t\r\n5\t1\t12\t5\t7\t1\t13\t4296\t72\t27\t96.725426\tIsn't\r\n5\t1\t12\t5\t7\t2\t98\t4296\t67\t27\t96.736305\tthat\r\n5\t1\t12\t5\t7\t3\t177\t4296\t54\t27\t96.804596\tthe\r\n5\t1\t12\t5\t7\t4\t244\t4296\t171\t34\t93.282448\tprocedure\r\n5\t1\t12\t5\t7\t5\t429\t4296\t55\t27\t93.236214\tfol-\r\n4\t1\t12\t5\t8\t0\t13\t4338\t438\t34\t-1\t\r\n5\t1\t12\t5\t8\t1\t13\t4338\t94\t27\t97.004089\tlowed\r\n5\t1\t12\t5\t8\t2\t114\t4338\t39\t34\t93.278214\tby\r\n5\t1\t12\t5\t8\t3\t159\t4340\t162\t32\t93.007256\tGurugram\r\n5\t1\t12\t5\t8\t4\t329\t4338\t122\t27\t96.306213\tPolice?”\r\n3\t1\t12\t6\t0\t0\t12\t4381\t474\t491\t-1\t\r\n4\t1\t12\t6\t1\t0\t63\t4381\t422\t34\t-1\t\r\n5\t1\t12\t6\t1\t1\t63\t4381\t123\t34\t87.235100\tYuvraj’s\r\n5\t1\t12\t6\t1\t2\t193\t4381\t110\t31\t96.614929\tdetails,\r\n5\t1\t12\t6\t1\t3\t311\t4381\t151\t34\t0.000000\tincluding\r\n5\t1\t12\t6\t1\t4\t468\t4389\t17\t19\t0.000000\ta\r\n4\t1\t12\t6\t2\t0\t13\t4423\t473\t34\t-1\t\r\n5\t1\t12\t6\t2\t1\t13\t4423\t192\t34\t96.537712\tphotograph,\r\n5\t1\t12\t6\t2\t2\t211\t4431\t76\t19\t96.788597\twere\r\n5\t1\t12\t6\t2\t3\t293\t4423\t148\t34\t96.280937\tuploaded\r\n5\t1\t12\t6\t2\t4\t447\t4423\t39\t34\t96.421967\tby\r\n4\t1\t12\t6\t3\t0\t12\t4465\t472\t27\t-1\t\r\n5\t1\t12\t6\t3\t1\t12\t4465\t51\t27\t96.659012\tthe\r\n5\t1\t12\t6\t3\t2\t72\t4465\t84\t27\t95.787346\tDelhi\r\n5\t1\t12\t6\t3\t3\t165\t4465\t94\t27\t95.787346\tPolice\r\n5\t1\t12\t6\t3\t4\t268\t4473\t40\t19\t93.296448\ton\r\n5\t1\t12\t6\t3\t5\t316\t4467\t127\t25\t89.871796\tZIPNET\r\n5\t1\t12\t6\t3\t6\t452\t4480\t32\t2\t90.944672\t—\r\n4\t1\t12\t6\t4\t0\t14\t4507\t470\t34\t-1\t\r\n5\t1\t12\t6\t4\t1\t14\t4515\t38\t19\t84.091263\tan\r\n5\t1\t12\t6\t4\t2\t58\t4508\t146\t26\t84.091263\tinterstate\r\n5\t1\t12\t6\t4\t3\t210\t4507\t93\t34\t96.592232\tpolice\r\n5\t1\t12\t6\t4\t4\t309\t4507\t136\t27\t93.225189\tdatabase\r\n5\t1\t12\t6\t4\t5\t452\t4522\t32\t2\t93.225189\t—\r\n4\t1\t12\t6\t5\t0\t13\t4549\t472\t34\t-1\t\r\n5\t1\t12\t6\t5\t1\t13\t4557\t40\t19\t96.010796\ton\r\n5\t1\t12\t6\t5\t2\t59\t4549\t168\t34\t96.010796\tSeptember\r\n5\t1\t12\t6\t5\t3\t232\t4551\t37\t29\t96.190025\t12,\r\n5\t1\t12\t6\t5\t4\t276\t4553\t57\t23\t96.883766\ttwo\r\n5\t1\t12\t6\t5\t5\t339\t4549\t69\t34\t96.521126\tdays\r\n5\t1\t12\t6\t5\t6\t415\t4549\t70\t27\t96.521126\tafter\r\n4\t1\t12\t6\t6\t0\t13\t4592\t472\t34\t-1\t\r\n5\t1\t12\t6\t6\t1\t13\t4594\t163\t32\t92.424950\tGurugram\r\n5\t1\t12\t6\t6\t2\t183\t4592\t94\t27\t96.561760\tPolice\r\n5\t1\t12\t6\t6\t3\t284\t4592\t155\t27\t96.440346\trecovered\r\n5\t1\t12\t6\t6\t4\t447\t4600\t38\t19\t96.923157\tan\r\n4\t1\t12\t6\t7\t0\t13\t4634\t472\t34\t-1\t\r\n5\t1\t12\t6\t7\t1\t13\t4634\t195\t27\t96.411415\tunidentified\r\n5\t1\t12\t6\t7\t2\t213\t4634\t79\t34\t95.421410\tbody\r\n5\t1\t12\t6\t7\t3\t297\t4634\t76\t27\t94.053520\tfroma\r\n5\t1\t12\t6\t7\t4\t402\t4634\t83\t27\t94.076317\tdrain\r\n4\t1\t12\t6\t8\t0\t13\t4676\t471\t34\t-1\t\r\n5\t1\t12\t6\t8\t1\t13\t4677\t32\t26\t93.291138\tin\r\n5\t1\t12\t6\t8\t2\t54\t4676\t206\t34\t92.826530\tBadshahpur.\r\n5\t1\t12\t6\t8\t3\t271\t4678\t152\t29\t95.806755\tHowever,\r\n5\t1\t12\t6\t8\t4\t432\t4676\t52\t27\t96.635857\tthe\r\n4\t1\t12\t6\t9\t0\t13\t4718\t471\t34\t-1\t\r\n5\t1\t12\t6\t9\t1\t13\t4718\t83\t34\t96.088402\tbody,\r\n5\t1\t12\t6\t9\t2\t103\t4718\t98\t27\t96.650375\twhich\r\n5\t1\t12\t6\t9\t3\t207\t4718\t71\t27\t93.801254\tlater\r\n5\t1\t12\t6\t9\t4\t283\t4718\t107\t27\t93.801254\tturned\r\n5\t1\t12\t6\t9\t5\t396\t4722\t52\t23\t96.252296\tout\r\n5\t1\t12\t6\t9\t6\t454\t4722\t30\t23\t96.933090\tto\r\n4\t1\t12\t6\t10\t0\t13\t4760\t472\t34\t-1\t\r\n5\t1\t12\t6\t10\t1\t13\t4760\t37\t27\t93.281197\tbe\r\n5\t1\t12\t6\t10\t2\t59\t4760\t139\t34\t90.993553\tYuvraj’s,\r\n5\t1\t12\t6\t10\t3\t208\t4768\t62\t19\t96.830482\twas\r\n5\t1\t12\t6\t10\t4\t280\t4760\t154\t27\t96.683632\tcremated\r\n5\t1\t12\t6\t10\t5\t444\t4768\t41\t19\t95.391014\ton\r\n4\t1\t12\t6\t11\t0\t13\t4802\t472\t34\t-1\t\r\n5\t1\t12\t6\t11\t1\t13\t4802\t182\t34\t96.969612\tSeptember\r\n5\t1\t12\t6\t11\t2\t206\t4804\t33\t25\t96.297661\t14\r\n5\t1\t12\t6\t11\t3\t249\t4802\t132\t27\t96.389153\twithout\r\n5\t1\t12\t6\t11\t4\t392\t4802\t93\t34\t96.324341\tbeing\r\n4\t1\t12\t6\t12\t0\t13\t4845\t160\t27\t-1\t\r\n5\t1\t12\t6\t12\t1\t13\t4845\t160\t27\t96.014183\tidentified.\r\n3\t1\t12\t7\t0\t0\t12\t4887\t474\t245\t-1\t\r\n4\t1\t12\t7\t1\t0\t63\t4887\t422\t34\t-1\t\r\n5\t1\t12\t7\t1\t1\t63\t4887\t64\t27\t96.761246\tThe\r\n5\t1\t12\t7\t1\t2\t137\t4891\t88\t23\t94.590073\tcourt\r\n5\t1\t12\t7\t1\t3\t234\t4895\t62\t19\t95.257515\twas\r\n5\t1\t12\t7\t1\t4\t306\t4887\t129\t34\t96.558540\thearing\r\n5\t1\t12\t7\t1\t5\t445\t4895\t40\t19\t96.939339\tan\r\n4\t1\t12\t7\t2\t0\t14\t4929\t472\t34\t-1\t\r\n5\t1\t12\t7\t2\t1\t14\t4929\t186\t34\t96.693428\tapplication\r\n5\t1\t12\t7\t2\t2\t210\t4929\t112\t27\t96.588509\tmoved\r\n5\t1\t12\t7\t2\t3\t331\t4929\t106\t27\t95.835487\tearlier\r\n5\t1\t12\t7\t2\t4\t446\t4929\t40\t34\t96.756279\tby\r\n4\t1\t12\t7\t3\t0\t12\t4971\t473\t34\t-1\t\r\n5\t1\t12\t7\t3\t1\t12\t4971\t120\t34\t89.211823\tYuvraj's\r\n5\t1\t12\t7\t3\t2\t138\t4972\t87\t30\t96.964607\tsister,\r\n5\t1\t12\t7\t3\t3\t232\t4972\t31\t26\t96.466080\tin\r\n5\t1\t12\t7\t3\t4\t267\t4971\t96\t27\t96.155441\twhich\r\n5\t1\t12\t7\t3\t5\t368\t4971\t52\t27\t94.194855\tshe\r\n5\t1\t12\t7\t3\t6\t426\t4971\t59\t27\t94.194855\thad\r\n4\t1\t12\t7\t4\t0\t13\t5013\t471\t27\t-1\t\r\n5\t1\t12\t7\t4\t1\t13\t5013\t95\t27\t96.136185\traised\r\n5\t1\t12\t7\t4\t2\t114\t5021\t141\t19\t96.253723\tconcerns\r\n5\t1\t12\t7\t4\t3\t262\t5021\t68\t19\t96.196289\tover\r\n5\t1\t12\t7\t4\t4\t335\t5013\t50\t27\t93.268143\tthe\r\n5\t1\t12\t7\t4\t5\t392\t5013\t92\t27\t93.043083\thand-\r\n4\t1\t12\t7\t5\t0\t13\t5056\t472\t34\t-1\t\r\n5\t1\t12\t7\t5\t1\t13\t5056\t61\t34\t96.740158\tling\r\n5\t1\t12\t7\t5\t2\t83\t5056\t34\t27\t96.737762\tof\r\n5\t1\t12\t7\t5\t3\t122\t5056\t51\t27\t96.552864\tthe\r\n5\t1\t12\t7\t5\t4\t183\t5056\t80\t34\t96.076851\tbody\r\n5\t1\t12\t7\t5\t5\t271\t5056\t40\t34\t93.288177\tby\r\n5\t1\t12\t7\t5\t6\t319\t5058\t166\t32\t90.301270\tGurugram\r\n4\t1\t12\t7\t6\t0\t13\t5098\t471\t34\t-1\t\r\n5\t1\t12\t7\t6\t1\t13\t5098\t101\t27\t96.323547\tPolice\r\n5\t1\t12\t7\t6\t2\t127\t5098\t62\t27\t96.522408\tand\r\n5\t1\t12\t7\t6\t3\t201\t5098\t119\t34\t95.425903\talleged\r\n5\t1\t12\t7\t6\t4\t331\t5098\t68\t27\t96.710007\tthat\r\n5\t1\t12\t7\t6\t5\t410\t5098\t74\t27\t96.710007\tvital\r\n2\t1\t13\t0\t0\t0\t17\t2870\t3\t399\t-1\t\r\n3\t1\t13\t1\t0\t0\t17\t2870\t3\t399\t-1\t\r\n4\t1\t13\t1\t1\t0\t17\t2870\t3\t399\t-1\t\r\n5\t1\t13\t1\t1\t1\t17\t2870\t3\t399\t95.000000\t \r\n2\t1\t14\t0\t0\t0\t532\t2690\t484\t418\t-1\t\r\n3\t1\t14\t1\t0\t0\t532\t2690\t484\t418\t-1\t\r\n4\t1\t14\t1\t1\t0\t532\t2690\t484\t418\t-1\t\r\n5\t1\t14\t1\t1\t1\t532\t2690\t484\t418\t95.000000\t \r\n2\t1\t15\t0\t0\t0\t537\t3155\t365\t36\t-1\t\r\n3\t1\t15\t1\t0\t0\t537\t3155\t365\t36\t-1\t\r\n4\t1\t15\t1\t1\t0\t537\t3155\t365\t36\t-1\t\r\n5\t1\t15\t1\t1\t1\t537\t3156\t91\t35\t96.656601\tYuvraj\r\n5\t1\t15\t1\t1\t2\t636\t3155\t83\t36\t93.283974\tSingh\r\n5\t1\t15\t1\t1\t3\t729\t3155\t173\t29\t92.575867\tManchanda\r\n2\t1\t16\t0\t0\t0\t536\t3242\t473\t1890\t-1\t\r\n3\t1\t16\t1\t0\t0\t536\t3242\t473\t202\t-1\t\r\n4\t1\t16\t1\t1\t0\t537\t3242\t471\t34\t-1\t\r\n5\t1\t16\t1\t1\t1\t537\t3242\t124\t27\t96.763412\tforensic\r\n5\t1\t16\t1\t1\t2\t667\t3242\t138\t27\t96.331551\tevidence\r\n5\t1\t16\t1\t1\t3\t811\t3242\t59\t27\t96.331551\tand\r\n5\t1\t16\t1\t1\t4\t875\t3242\t133\t34\t96.388206\tpersonal\r\n4\t1\t16\t1\t2\t0\t537\t3284\t472\t34\t-1\t\r\n5\t1\t16\t1\t2\t1\t537\t3284\t167\t34\t96.556831\tbelongings\r\n5\t1\t16\t1\t2\t2\t709\t3292\t74\t19\t95.675682\twere\r\n5\t1\t16\t1\t2\t3\t789\t3284\t183\t27\t96.649605\tmishandled\r\n5\t1\t16\t1\t2\t4\t977\t3292\t32\t19\t96.311676\tor\r\n4\t1\t16\t1\t3\t0\t537\t3326\t471\t34\t-1\t\r\n5\t1\t16\t1\t3\t1\t537\t3326\t164\t34\t96.832092\tdestroyed\r\n5\t1\t16\t1\t3\t2\t710\t3326\t112\t34\t96.666885\tduring\r\n5\t1\t16\t1\t3\t3\t830\t3326\t53\t27\t93.279442\tthe\r\n5\t1\t16\t1\t3\t4\t894\t3334\t114\t19\t92.318222\tcrema-\r\n4\t1\t16\t1\t4\t0\t536\t3368\t472\t27\t-1\t\r\n5\t1\t16\t1\t4\t1\t536\t3369\t71\t26\t94.175865\ttion.\r\n5\t1\t16\t1\t4\t2\t614\t3370\t23\t25\t93.184540\tIt\r\n5\t1\t16\t1\t4\t3\t643\t3368\t133\t27\t93.184540\treserved\r\n5\t1\t16\t1\t4\t4\t782\t3369\t36\t26\t95.888718\tits\r\n5\t1\t16\t1\t4\t5\t824\t3368\t84\t27\t94.561867\torder\r\n5\t1\t16\t1\t4\t6\t913\t3376\t40\t19\t94.561867\ton\r\n5\t1\t16\t1\t4\t7\t958\t3368\t50\t27\t96.533989\tthe\r\n4\t1\t16\t1\t5\t0\t538\t3410\t184\t34\t-1\t\r\n5\t1\t16\t1\t5\t1\t538\t3410\t184\t34\t96.370178\tapplication.\r\n3\t1\t16\t2\t0\t0\t536\t3452\t473\t622\t-1\t\r\n4\t1\t16\t2\t1\t0\t587\t3452\t421\t34\t-1\t\r\n5\t1\t16\t2\t1\t1\t587\t3452\t162\t34\t87.547791\tAccording\r\n5\t1\t16\t2\t1\t2\t754\t3456\t30\t23\t87.547791\tto\r\n5\t1\t16\t2\t1\t3\t791\t3454\t63\t29\t93.297379\tPTI,\r\n5\t1\t16\t2\t1\t4\t861\t3453\t147\t33\t91.867310\tquestion-\r\n4\t1\t16\t2\t2\t0\t537\t3495\t471\t34\t-1\t\r\n5\t1\t16\t2\t2\t1\t537\t3496\t50\t33\t45.334759\ting\r\n5\t1\t16\t2\t2\t2\t593\t3503\t38\t19\t45.334759\tan\r\n5\t1\t16\t2\t2\t3\t637\t3495\t100\t27\t96.537750\tofficer\r\n5\t1\t16\t2\t2\t4\t743\t3495\t76\t27\t91.958870\tfrom\r\n5\t1\t16\t2\t2\t5\t825\t3495\t183\t34\t88.697372\tGurugram's\r\n4\t1\t16\t2\t3\t0\t537\t3537\t471\t34\t-1\t\r\n5\t1\t16\t2\t3\t1\t537\t3537\t193\t34\t92.416534\tBadshahpur\r\n5\t1\t16\t2\t3\t2\t736\t3537\t93\t34\t96.573105\tpolice\r\n5\t1\t16\t2\t3\t3\t836\t3538\t115\t30\t96.265251\tstation,\r\n5\t1\t16\t2\t3\t4\t958\t3537\t50\t27\t96.766174\tthe\r\n4\t1\t16\t2\t4\t0\t536\t3579\t473\t34\t-1\t\r\n5\t1\t16\t2\t4\t1\t536\t3579\t92\t34\t96.553596\tjudge\r\n5\t1\t16\t2\t4\t2\t639\t3579\t95\t27\t96.553596\tasked\r\n5\t1\t16\t2\t4\t3\t743\t3579\t70\t34\t96.579857\twhy\r\n5\t1\t16\t2\t4\t4\t822\t3579\t53\t27\t96.579857\tthe\r\n5\t1\t16\t2\t4\t5\t886\t3583\t123\t23\t96.882820\tnearest\r\n4\t1\t16\t2\t5\t0\t537\t3621\t471\t34\t-1\t\r\n5\t1\t16\t2\t5\t1\t537\t3622\t147\t26\t96.485657\texecutive\r\n5\t1\t16\t2\t5\t2\t690\t3622\t165\t33\t96.384598\tmagistrate\r\n5\t1\t16\t2\t5\t3\t861\t3629\t32\t19\t92.375099\tor\r\n5\t1\t16\t2\t5\t4\t898\t3621\t110\t27\t92.375099\tsub-di-\r\n4\t1\t16\t2\t6\t0\t536\t3663\t472\t34\t-1\t\r\n5\t1\t16\t2\t6\t1\t536\t3663\t123\t27\t91.821304\tvisional\r\n5\t1\t16\t2\t6\t2\t667\t3664\t166\t33\t96.047028\tmagistrate\r\n5\t1\t16\t2\t6\t3\t839\t3671\t60\t19\t96.984612\twas\r\n5\t1\t16\t2\t6\t4\t907\t3667\t52\t23\t92.998787\tnot\r\n5\t1\t16\t2\t6\t5\t966\t3664\t42\t26\t91.479095\tin-\r\n4\t1\t16\t2\t7\t0\t537\t3706\t472\t34\t-1\t\r\n5\t1\t16\t2\t7\t1\t537\t3706\t115\t27\t96.954506\tformed\r\n5\t1\t16\t2\t7\t2\t658\t3714\t40\t19\t94.498642\ton\r\n5\t1\t16\t2\t7\t3\t703\t3706\t50\t27\t34.828743\tthe\r\n5\t1\t16\t2\t7\t4\t759\t3706\t111\t27\t34.828743\tsecond\r\n5\t1\t16\t2\t7\t5\t876\t3706\t56\t34\t96.196365\tday\r\n5\t1\t16\t2\t7\t6\t938\t3706\t71\t27\t96.443687\tafter\r\n4\t1\t16\t2\t8\t0\t537\t3748\t472\t34\t-1\t\r\n5\t1\t16\t2\t8\t1\t537\t3756\t146\t26\t96.629059\trecovery\r\n5\t1\t16\t2\t8\t2\t693\t3748\t34\t27\t96.917099\tof\r\n5\t1\t16\t2\t8\t3\t734\t3748\t53\t27\t96.944336\tthe\r\n5\t1\t16\t2\t8\t4\t797\t3748\t212\t27\t96.448402\tunidentified\r\n4\t1\t16\t2\t9\t0\t537\t3790\t471\t34\t-1\t\r\n5\t1\t16\t2\t9\t1\t537\t3790\t80\t34\t96.111687\tbody\r\n5\t1\t16\t2\t9\t2\t626\t3790\t45\t27\t95.318474\tfor\r\n5\t1\t16\t2\t9\t3\t678\t3790\t52\t27\t95.318474\tthe\r\n5\t1\t16\t2\t9\t4\t740\t3791\t119\t33\t93.257858\tinquest\r\n5\t1\t16\t2\t9\t5\t868\t3790\t140\t34\t92.946968\tproceed-\r\n4\t1\t16\t2\t10\t0\t537\t3832\t472\t34\t-1\t\r\n5\t1\t16\t2\t10\t1\t537\t3833\t70\t33\t74.957123\tings.\r\n5\t1\t16\t2\t10\t2\t615\t3832\t157\t27\t74.957123\tIsn'titthe",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 24,
+    "kind": "text",
+    "bbox": [
+      4.355103969573975,
+      1756.187255859375,
+      174.8628692626953,
+      1844.91455078125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "The court was hearing an\r\napplication moved earlier by\r\nYuvraj's sister, in which she had\r\nraised concerns over the hand-\r\nling of the body by Gurugram\r\nPolice and alleged that vital",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 25,
+    "kind": "text",
+    "bbox": [
+      192.9834747314453,
+      1163.87255859375,
+      363.86431884765625,
+      1844.912109375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "norm toinform the nearest executive magis- trate... regarding inquest pro- ceedings for the unidentified body? Why wasn't it carried out,\" the court said. The judge further raised serious questions over the post- mortem process, noting that two reports appeared to con- tain materially different find- ings. While one report men- tioned bullet injuries, the other attributed the cause of death to asphyxia due to antemortem drowning. The\r\n5\t1\t16\t4\t1\t2\t674\t4511\t206\t30\t96.002449\tpostmortem\r\n5\t1\t16\t4\t1\t3\t890\t4511\t118\t30\t95.421173\treports\r\n4\t1\t16\t4\t2\t0\t538\t4549\t471\t27\t-1\t\r\n5\t1\t16\t4\t2\t1\t538\t4557\t49\t19\t96.997284\tare\r\n5\t1\t16\t4\t2\t2\t597\t4549\t172\t27\t96.367424\tdifferent...\r\n5\t1\t16\t4\t2\t3\t780\t4551\t76\t25\t94.754776\tHow\r\n5\t1\t16\t4\t2\t4\t865\t4557\t58\t19\t94.754776\tcan\r\n5\t1\t16\t4\t2\t5\t932\t4549\t77\t27\t96.850723\tsuch\r\n4\t1\t16\t4\t3\t0\t537\t4592\t471\t34\t-1\t\r\n5\t1\t16\t4\t3\t1\t537\t4592\t81\t27\t96.968971\tbasic\r\n5\t1\t16\t4\t3\t2\t627\t4592\t178\t34\t96.169273\tprocedures\r\n5\t1\t16\t4\t3\t3\t814\t4592\t37\t27\t96.169273\tbe\r\n5\t1\t16\t4\t3\t4\t861\t4592\t147\t34\t52.272984\tskipped, the court asked, while also tak- ing note that the viscera had not been preserved. The court observed that the lapses had resulted in Man- chanda's family being deprived of the right to perform his last rites. The\r\n5\t1\t16\t5\t5\t3\t727\t4929\t212\t34\t96.167206\tcomplainant\r\n5\t1\t16\t5\t5\t4\t954\t4933\t55\t23\t96.656830\tnot\r\n4\t1\t16\t5\t6\t0\t537\t4971\t470\t34\t-1\t\r\n5\t1\t16\t5\t6\t1\t537\t4971\t69\t34\t95.725349\tonly\r\n5\t1\t16\t5\t6\t2\t611\t4971\t54\t27\t95.725349\tlost\r\n5\t1\t16\t5\t6\t3\t670\t4971\t52\t27\t96.137718\ther\r\n5\t1\t16\t5\t6\t4\t726\t4971\t116\t27\t94.688896\tbrother\r\n5\t1\t16\t5\t6\t5\t846\t4971\t39\t34\t93.197792\tby\r\n5\t1\t16\t5\t6\t6\t889\t4975\t118\t23\t92.915413\tcremat-\r\n4\t1\t16\t5\t7\t0\t537\t5013\t472\t34\t-1\t\r\n5\t1\t16\t5\t7\t1\t537\t5014\t49\t33\t93.749603\ting\r\n5\t1\t16\t5\t7\t2\t590\t5013\t45\t27\t93.749603\this\r\n5\t1\t16\t5\t7\t3\t640\t5013\t81\t34\t96.666962\tbody,\r\n5\t1\t16\t5\t7\t4\t726\t5021\t57\t26\t96.524185\tyou\r\n5\t1\t16\t5\t7\t5\t789\t5013\t138\t27\t95.794563\tsnatched\r\n5\t1\t16\t5\t7\t6\t932\t5021\t77\t26\t96.957176\taway\r\n4\t1\t16\t5\t8\t0\t537\t5056\t472\t34\t-1\t\r\n5\t1\t16\t5\t8\t1\t537\t5056\t54\t27\t95.945587\ther\r\n5\t1\t16\t5\t8\t2\t600\t5056\t128\t34\t95.874573\tfamily's\r\n5\t1\t16\t5\t8\t3\t738\t5056\t78\t34\t95.874573\tright\r\n5\t1\t16\t5\t8\t4\t825\t5060\t31\t23\t96.747330\tto\r\n5\t1\t16\t5\t8\t5\t866\t5056\t143\t34\t96.499191\tdutifully\r\n4\t1\t16\t5\t9\t0\t537\t5098\t450\t34\t-1\t\r\n5\t1\t16\t5\t9\t1\t537\t5106\t81\t26\t96.649147\tcarry\r\n5\t1\t16\t5\t9\t2\t624\t5102\t51\t23\t95.495506\tout\r\n5\t1\t16\t5\t9\t3\t682\t5098\t45\t27\t95.495506\this\r\n5\t1\t16\t5\t9\t4\t734\t5098\t53\t27\t95.587151\tlast\r\n5\t1\t16\t5\t9\t5\t794\t5098\t87\t31\t90.525963\trites, it said.",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 26,
+    "kind": "text",
+    "bbox": [
+      1136.14501953125,
+      294.32586669921875,
+      1278.748291015625,
+      326.1589660644531
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Express News Service\r\nNew Delhi. Sentember 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 27,
+    "kind": "text",
+    "bbox": [
+      1136.1453857421875,
+      343.74456787109375,
+      1307.03955078125,
+      1070.34912109375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "/ Be Updated\" alert for light showers and lightning. IMD officials attributed the weather system to a depression centered over Northeast Mad- hya Pradesh and adjoining north Chhattisgarh. This was seen moving north-northwest- ward toward southeastern Uttar Pradesh, alongside a mid- tropospheric Western Disturb- ance, meaning a low pressure area, IMD officials said.",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 28,
+    "kind": "text",
+    "bbox": [
+      1324.7767333984375,
+      860.121337890625,
+      1495.534423828125,
+      1070.3492431640625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "Air quality index (AQI) in the Capital also remained in the satisfactory category. The 24- hour average air quality index was 72 at 4 pm, compared to 78 on Friday, as per CPCB data. Dry conditions are set to re- turn withthe IMD forecasting a generally cloudy sky on Sun- day. Come next week, the city is set to see mainly\r\n5\t1\t58\t2\t5\t5\t3985\t2820\t81\t27\t96.071869\tclear\r\n5\t1\t58\t2\t5\t6\t4076\t2820\t75\t34\t95.619232\tsky, and prevailing northwesterly winds by October that bring cooler air.",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 29,
+    "kind": "text",
+    "bbox": [
+      1136.1434326171875,
+      1418.205078125,
+      1278.746337890625,
+      1450.0382080078125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Express News Service New Delhi, September 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 30,
+    "kind": "text",
+    "bbox": [
+      1136.1434326171875,
+      1467.623779296875,
+      1307.0250244140625,
+      1844.913330078125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "MAINTAINING THAT tempor- ary measures taken only during winter would not be enough to address Delhi’s pollution prob- lem, Chief Minister Rekha Gupta said on Saturday that the government will launch an en- forcement drive against ve- hicles with invalid Pollution Under Control Certificates (PUCC) from October 1. Gupta, who inaugurated a five-lane Automated Testing Station (ATS) in Burari — witha capacity to test one lakh vehicles a year — said modernising ve- hicle testing is part of a year-\r\n4\t1\t63\t2\t7\t0\t3157\t4802\t471\t34\t-1\t\r\n5\t1\t63\t2\t7\t1\t3157\t4802\t103\t27\t96.507751\tround approach to tackling pol- lution issues in the Capital. Temporary\r\n5\t1\t63\t3\t1\t2\t3470\t4895\t158\t19\t88.500061\tmeasures\r\n4\t1\t63\t3\t2\t0\t3156\t4929\t473\t34\t-1\t\r\n5\t1\t63\t3\t2\t1\t3156\t4929\t87\t27\t96.329094\ttaken\r\n5\t1\t63\t3\t2\t2\t3248\t4929\t68\t34\t95.661736\tonly\r\n5\t1\t63\t3\t2\t3\t3321\t4929\t103\t34\t95.632637\tduring\r\n5\t1\t63\t3\t2\t4\t3428\t4930\t100\t26\t95.632637\twinter\r\n5\t1\t63\t3\t2\t5\t3532\t4929\t97\t27\t96.672195\twould\r\n4\t1\t63\t3\t3\t0\t3157\t4971\t471\t34\t-1\t\r\n5\t1\t63\t3\t3\t1\t3157\t4975\t55\t23\t96.049828\tnot\r\n5\t1\t63\t3\t3\t2\t3235\t4971\t38\t27\t96.902863\tbe\r\n5\t1\t63\t3\t3\t3\t3297\t4971\t125\t34\t96.132050\tenough\r\n5\t1\t63\t3\t3\t4\t3445\t4975\t32\t23\t96.917824\tto\r\n5\t1\t63\t3\t3\t5\t3501\t4971\t127\t27\t96.681839\taddress\r\n4\t1\t63\t3\t4\t0\t3157\t5013\t471\t34\t-1\t\r\n5\t1\t63\t3\t4\t1\t3157\t5013\t106\t27\t87.626389\tDelhi’s\r\n5\t1\t63\t3\t4\t2\t3269\t5013\t145\t34\t96.162117\tpollution\r\n5\t1\t63\t3\t4\t3\t3420\t5013\t140\t34\t96.420387\tproblem.\r\n5\t1\t63\t3\t4\t4\t3568\t5013\t60\t27\t96.933327\tThe\r\n4\t1\t63\t3\t5\t0\t3157\t5056\t471\t34\t-1\t\r\n5\t1\t63\t3\t5\t1\t3157\t5060\t200\t30\t96.197807\tgovernment\r\n5\t1\t63\t3\t5\t2\t3367\t5056\t55\t27\t94.377022\thas\r\n5\t1\t63\t3\t5\t3\t3431\t5056\t92\t27\t89.392418\ttaken\r\n5\t1\t63\t3\t5\t4\t3532\t5056\t96\t34\t89.392418\tpollu-\r\n4\t1\t63\t3\t6\t0\t3156\t5098\t471\t34\t-1\t\r\n5\t1\t63\t3\t6\t1\t3156\t5099\t63\t26\t96.401978\ttion\r\n5\t1\t63\t3\t6\t2\t3224\t5098\t110\t27\t95.513611\tcontrol\r\n5\t1\t63\t3\t6\t3\t3339\t5106\t40\t26\t95.513611\tup\r\n5\t1\t63\t3\t6\t4\t3386\t5106\t31\t19\t87.267944\tas\r\n5\t1\t63\t3\t6\t5\t3423\t5106\t17\t19\t74.412560\ta\r\n5\t1\t63\t3\t6\t6\t3445\t5099\t182\t30\t74.412560\tcontinuous,\r\n2\t1\t64\t0\t0\t0\t3680\t3959\t474\t1173\t-1\t\r\n3\t1\t64\t1\t0\t0\t3680\t3959\t473\t287\t-1\t\r\n4\t1\t64\t1\t1\t0\t3680\t3959\t472\t34\t-1\t\r\n5\t1\t64\t1\t1\t1\t3680\t3959\t189\t34\t96.277618\tyear-round\r\n5\t1\t64\t1\t1\t2\t3892\t3967\t125\t26\t96.341614\tprocess\r\n5\t1\t64\t1\t1\t3\t4041\t3959\t63\t27\t96.738991\tand\r\n5\t1\t64\t1\t1\t4\t4127\t3960\t25\t26\t96.705284\tis\r\n4\t1\t64\t1\t2\t0\t3680\t4001\t472\t34\t-1\t\r\n5\t1\t64\t1\t2\t1\t3680\t4001\t128\t34\t96.598511\tworking\r\n5\t1\t64\t1\t2\t2\t3814\t4001\t239\t34\t95.907730\tsimultaneously\r\n5\t1\t64\t1\t2\t3\t4058\t4009\t94\t19\t96.651031\tacross\r\n4\t1\t64\t1\t3\t0\t3682\t4043\t470\t34\t-1\t\r\n5\t1\t64\t1\t3\t1\t3682\t4051\t88\t23\t96.859123\tareas,\r\n5\t1\t64\t1\t3\t2\t3781\t4043\t152\t34\t96.078934\tincluding\r\n5\t1\t64\t1\t3\t3\t3941\t4047\t155\t30\t93.252937\ttransport,\r\n5\t1\t64\t1\t3\t4\t4106\t4051\t46\t19\t91.579132\tex-\r\n4\t1\t64\t1\t4\t0\t3681\t4085\t471\t34\t-1\t\r\n5\t1\t64\t1\t4\t1\t3681\t4086\t126\t33\t95.893852\tpansion\r\n5\t1\t64\t1\t4\t2\t3812\t4085\t33\t27\t94.836670\tof\r\n5\t1\t64\t1\t4\t3\t3848\t4093\t88\t26\t94.836670\tgreen\r\n5\t1\t64\t1\t4\t4\t3941\t4093\t91\t23\t96.910690\tcover,\r\n5\t1\t64\t1\t4\t5\t4039\t4085\t113\t27\t96.834496\telectric\r\n4\t1\t64\t1\t5\t0\t3681\t4127\t472\t34\t-1\t\r\n5\t1\t64\t1\t5\t1\t3681\t4127\t144\t34\t96.735649\tmobility,\r\n5\t1\t64\t1\t5\t2\t3835\t4131\t92\t23\t95.986053\twaste\r\n5\t1\t64\t1\t5\t3\t3937\t4131\t216\t30\t95.888420\tmanagement\r\n4\t1\t64\t1\t6\t0\t3682\t4170\t470\t34\t-1\t\r\n5\t1\t64\t1\t6\t1\t3682\t4170\t61\t27\t95.501587\tand\r\n5\t1\t64\t1\t6\t2\t3751\t4170\t294\t34\t92.039841\ttechnology-based\r\n5\t1\t64\t1\t6\t3\t4054\t4171\t98\t26\t92.039841\tmoni-\r\n4\t1\t64\t1\t7\t0\t3680\t4212\t471\t34\t-1\t\r\n5\t1\t64\t1\t7\t1\t3680\t4212\t116\t34\t87.806747\ttoring,",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 31,
+    "kind": "text",
+    "bbox": [
+      1324.7720947265625,
+      1422.059814453125,
+      1495.5262451171875,
+      1844.91455078125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "she said ina statement. Pollution\r\n5\t1\t64\t2\t1\t2\t3898\t4254\t71\t27\t96.783302\tdoes\r\n5\t1\t64\t2\t1\t3\t3978\t4258\t53\t23\t96.851540\tnot\r\n5\t1\t64\t2\t1\t4\t4039\t4255\t114\t26\t96.478836\tremain\r\n4\t1\t64\t2\t2\t0\t3681\t4296\t472\t34\t-1\t\r\n5\t1\t64\t2\t2\t1\t3681\t4296\t140\t27\t96.014191\tconfined\r\n5\t1\t64\t2\t2\t2\t3828\t4300\t31\t23\t96.543472\tto\r\n5\t1\t64\t2\t2\t3\t3868\t4304\t57\t26\t96.354500\tany\r\n5\t1\t64\t2\t2\t4\t3933\t4304\t57\t19\t96.377510\tone\r\n5\t1\t64\t2\t2\t5\t3999\t4296\t154\t34\t96.377510\tboundary\r\n4\t1\t64\t2\t3\t0\t3682\t4338\t470\t34\t-1\t\r\n5\t1\t64\t2\t3\t1\t3682\t4338\t60\t27\t91.676712\tand\r\n5\t1\t64\t2\t3\t2\t3751\t4338\t195\t27\t89.505585\tDelhi-NCR’s\r\n5\t1\t64\t2\t3\t3\t3956\t4339\t42\t26\t96.846779\tair\r\n5\t1\t64\t2\t3\t4\t4007\t4338\t113\t34\t95.673309\tquality\r\n5\t1\t64\t2\t3\t5\t4128\t4339\t24\t26\t96.971420\tis\r\n4\t1\t64\t2\t4\t0\t3682\t4381\t471\t34\t-1\t\r\n5\t1\t64\t2\t4\t1\t3682\t4381\t125\t27\t96.335831\taffected\r\n5\t1\t64\t2\t4\t2\t3813\t4381\t39\t34\t96.193954\tby\r\n5\t1\t64\t2\t4\t3\t3859\t4381\t108\t27\t96.930717\tseveral\r\n5\t1\t64\t2\t4\t4\t3975\t4389\t88\t23\t96.681801\tareas,\r\n5\t1\t64\t2\t4\t5\t4071\t4381\t53\t27\t96.806793\tbut\r\n5\t1\t64\t2\t4\t6\t4131\t4382\t22\t26\t96.806793\tit\r\n4\t1\t64\t2\t5\t0\t3681\t4423\t471\t34\t-1\t\r\n5\t1\t64\t2\t5\t1\t3681\t4424\t25\t26\t96.419502\tis\r\n5\t1\t64\t2\t5\t2\t3714\t4423\t52\t27\t93.271156\tthe\r\n5\t1\t64\t2\t5\t3\t3775\t4423\t220\t34\t90.210510\tgovernment’s\r\n5\t1\t64\t2\t5\t4\t4005\t4424\t147\t33\t92.382729\tresponsi-\r\n4\t1\t64\t2\t6\t0\t3681\t4465\t471\t34\t-1\t\r\n5\t1\t64\t2\t6\t1\t3681\t4465\t80\t34\t96.659782\tbility\r\n5\t1\t64\t2\t6\t2\t3765\t4469\t31\t23\t95.322685\tto\r\n5\t1\t64\t2\t6\t3\t3801\t4465\t65\t27\t95.322685\ttake\r\n5\t1\t64\t2\t6\t4\t3871\t4465\t50\t27\t95.376488\tthe\r\n5\t1\t64\t2\t6\t5\t3927\t4473\t153\t26\t91.223755\tnecessary\r\n5\t1\t64\t2\t6\t6\t4085\t4473\t67\t19\t91.223755\tcon-\r\n4\t1\t64\t2\t7\t0\t3681\t4507\t472\t34\t-1\t\r\n5\t1\t64\t2\t7\t1\t3681\t4511\t76\t23\t96.536453\tcrete\r\n5\t1\t64\t2\t7\t2\t3766\t4511\t79\t30\t96.528374\tsteps\r\n5\t1\t64\t2\t7\t3\t3853\t4511\t31\t23\t96.370544\tto\r\n5\t1\t64\t2\t7\t4\t3893\t4507\t107\t27\t96.376518\treduce\r\n5\t1\t64\t2\t7\t5\t4008\t4507\t145\t34\t96.376518\tpollution\r\n4\t1\t64\t2\t8\t0\t3681\t4549\t316\t31\t-1\t\r\n5\t1\t64\t2\t8\t1\t3681\t4550\t32\t26\t96.751900\tin\r\n5\t1\t64\t2\t8\t2\t3719\t4549\t105\t31\t92.387115\tDelhi, she added. We\r\n5\t1\t64\t3\t1\t2\t3810\t4596\t83\t23\t95.678642\twant\r\n5\t1\t64\t3\t1\t3\t3908\t4596\t32\t23\t95.678642\tto\r\n5\t1\t64\t3\t1\t4\t3957\t4600\t112\t19\t96.485825\tensure\r\n5\t1\t64\t3\t1\t5\t4085\t4592\t68\t27\t96.968147\tthat\r\n4\t1\t64\t3\t2\t0\t3681\t4634\t472\t34\t-1\t\r\n5\t1\t64\t3\t2\t1\t3681\t4642\t85\t26\t96.536484\tevery\r\n5\t1\t64\t3\t2\t2\t3770\t4642\t106\t26\t94.504639\tperson\r\n5\t1\t64\t3\t2\t3\t3881\t4635\t31\t26\t94.504639\tin\r\n5\t1\t64\t3\t2\t4\t3917\t4634\t82\t27\t96.829628\tDelhi\r\n5\t1\t64\t3\t2\t5\t4005\t4638\t60\t30\t96.829628\tgets\r\n5\t1\t64\t3\t2\t6\t4071\t4634\t82\t27\t96.787910\tclean\r\n4\t1\t64\t3\t3\t0\t3682\t4676\t471\t27\t-1\t\r\n5\t1\t64\t3\t3\t1\t3682\t4677\t43\t26\t96.927803\tair\r\n5\t1\t64\t3\t3\t2\t3735\t4680\t32\t23\t96.583565\tto\r\n5\t1\t64\t3\t3\t3\t3779\t4676\t137\t27\t96.558655\tbreathe.\r\n5\t1\t64\t3\t3\t4\t3929\t4676\t73\t27\t92.546982\tThis\r\n5\t1\t64\t3\t3\t5\t4014\t4676\t139\t27\t92.546982\tenforce-\r\n4\t1\t64\t3\t4\t0\t3681\t4718\t473\t27\t-1\t\r\n5\t1\t64\t3\t4\t1\t3681\t4722\t87\t23\t96.419899\tment\r\n5\t1\t64\t3\t4\t2\t3782\t4718\t62\t27\t96.581375\twill\r\n5\t1\t64\t3\t4\t3\t3859\t4718\t37\t27\t96.892166\tbe\r\n5\t1\t64\t3\t4\t4\t3912\t4718\t82\t27\t96.518661\tdone\r\n5\t1\t64\t3\t4\t5\t4008\t4722\t32\t23\t96.447464\tto\r\n5\t1\t64\t3\t4\t6\t4056\t4718\t98\t27\t96.764877\tcheck\r\n4\t1\t64\t3\t5\t0\t3680\t4760\t461\t27\t-1\t\r\n5\t1\t64\t3\t5\t1\t3680\t4760\t131\t27\t96.522354\twhether\r\n5\t1\t64\t3\t5\t2\t3817\t4760\t51\t27\t93.257759\tthe\r\n5\t1\t64\t3\t5\t3\t3875\t4762\t106\t25\t92.456657\tPUCCs\r\n5\t1\t64\t3\t5\t4\t3989\t4768\t47\t19\t96.506462\tare\r\n5\t1\t64\t3\t5\t5\t4043\t4760\t98\t27\t95.870300\tvalid.”\r\n3\t1\t64\t4\t0\t0\t3680\t4802\t473\t330\t-1\t\r\n4\t1\t64\t4\t1\t0\t3731\t4802\t421\t27\t-1\t\r\n5\t1\t64\t4\t1\t1\t3731\t4802\t68\t27\t12.737457\tThis\r\n5\t1\t64\t4\t1\t2\t3805\t4802\t80\t27\t12.737457\tisthe\r\n5\t1\t64\t4\t1\t3\t3890\t4802\t78\t27\t32.896706\tthird\r\n5\t1\t64\t4\t1\t4\t3974\t4802\t73\t27\t77.720039\tsuch\r\n5\t1\t64\t4\t1\t5\t4052\t4804\t64\t25\t38.846287\tATS\r\n5\t1\t64\t4\t1\t6\t4121\t4806\t31\t23\t38.846287\tto\r\n4\t1\t64\t4\t2\t0\t3681\t4845\t471\t34\t-1\t\r\n5\t1\t64\t4\t2\t1\t3681\t4845\t85\t34\t96.967522\tbegin\r\n5\t1\t64\t4\t2\t2\t3772\t4846\t162\t33\t92.022636\toperations\r\n5\t1\t64\t4\t2\t3\t3939\t4846\t31\t26\t92.022636\tin\r\n5\t1\t64\t4\t2\t4\t3975\t4845\t90\t27\t92.452881\tDelhi.\r\n5\t1\t64\t4\t2\t5\t4072\t4846\t80\t26\t91.895782\tSimi-\r\n4\t1\t64\t4\t3\t0\t3681\t4887\t472\t34\t-1\t\r\n5\t1\t64\t4\t3\t1\t3681\t4887\t40\t27\t95.344368\tlar\r\n5\t1\t64\t4\t3\t2\t3726\t4888\t119\t26\t95.344368\tstations\r\n5\t1\t64\t4\t3\t3\t3850\t4895\t74\t19\t96.937912\twere\r\n5\t1\t64\t4\t3\t4\t3929\t4887\t188\t34\t96.424019\tinaugurated\r\n5\t1\t64\t4\t3\t5\t4122\t4888\t31\t26\t96.770294\tin\r\n4\t1\t64\t4\t4\t0\t3681\t4929\t471\t34\t-1\t\r\n5\t1\t64\t4\t4\t1\t3681\t4929\t88\t27\t93.278107\tNand\r\n5\t1\t64\t4\t4\t2\t3777\t4930\t87\t33\t90.815941\tNagri\r\n5\t1\t64\t4\t4\t3\t3874\t4929\t60\t27\t93.292778\tand\r\n5\t1\t64\t4\t4\t4\t3942\t4929\t141\t27\t91.627411\tTekhand\r\n5\t1\t64\t4\t4\t5\t4092\t4937\t60\t19\t92.972572\tear-\r\n4\t1\t64\t4\t5\t0\t3681\t4971\t472\t34\t-1\t\r\n5\t1\t64\t4\t5\t1\t3681\t4971\t50\t27\t96.799042\tlier\r\n5\t1\t64\t4\t5\t2\t3736\t4971\t58\t27\t96.799042\tthis\r\n5\t1\t64\t4\t5\t3\t3799\t4979\t72\t26\t96.884781\tyear.\r\n5\t1\t64\t4\t5\t4\t3878\t4971\t60\t27\t93.252472\tThe\r\n5\t1\t64\t4\t5\t5\t3944\t4972\t97\t26\t93.107635\tBurari\r\n5\t1\t64\t4\t5\t6\t4047\t4971\t106\t34\t96.866692\tfacility\r\n4\t1\t64\t4\t6\t0\t3680\t5013\t473\t34\t-1\t\r\n5\t1\t64\t4\t6\t1\t3680\t5013\t98\t27\t95.124107\twillbe\r\n5\t1\t64\t4\t6\t2\t3784\t5013\t62\t27\t95.995155\table\r\n5\t1\t64\t4\t6\t3\t3851\t5017\t30\t23\t95.960983\tto\r\n5\t1\t64\t4\t6\t4\t3887\t5017\t55\t23\t95.960983\ttest\r\n5\t1\t64\t4\t6\t5\t3947\t5015\t109\t29\t96.342056\t40,000\r\n5\t1\t64\t4\t6\t6\t4062\t5013\t91\t34\t96.342056\theavy\r\n4\t1\t64\t4\t7\t0\t3681\t5056\t471\t31\t-1\t\r\n5\t1\t64\t4\t7\t1\t3681\t5060\t102\t23\t96.600075\tmotor\r\n5\t1\t64\t4\t7\t2\t3800\t5056\t137\t27\t96.007919\tvehicles\r\n5\t1\t64\t4\t7\t3\t3956\t5056\t62\t27\t96.493393\tand\r\n5\t1\t64\t4\t7\t4\t4036\t5058\t116\t29\t96.873001\t60,000\r\n4\t1\t64\t4\t8\t0\t3681\t5098\t458\t34\t-1\t\r\n5\t1\t64\t4\t8\t1\t3681\t5098\t71\t34\t96.296471\tlight\r\n5\t1\t64\t4\t8\t2\t3759\t5102\t97\t23\t96.897011\tmotor\r\n5\t1\t64\t4\t8\t3\t3861\t5098\t127\t27\t96.487923\tvehicles\r\n5\t1\t64\t4\t8\t4\t3996\t5098\t143\t34\t96.487923\tannually.\r\n2\t1\t65\t0\t0\t0\t14\t5198\t4129\t5\t-1\t\r\n3\t1\t65\t1\t0\t0\t14\t5198\t4129\t5\t-1\t\r\n4\t1\t65\t1\t1\t0\t14\t5198\t4129\t5\t-1\t\r\n5\t1\t65\t1\t1\t1\t14\t5198\t4129\t5\t95.000000\t \r\n2\t1\t66\t0\t0\t0\t19\t5207\t4135\t4\t-1\t\r\n3\t1\t66\t1\t0\t0\t19\t5207\t4135\t4\t-1\t\r\n4\t1\t66\t1\t1\t0\t19\t5207\t4135\t4\t-1\t\r\n5\t1\t66\t1\t1\t1\t19\t5207\t4135\t4\t95.000000\t \r\n2\t1\t67\t0\t0\t0\t14\t5220\t4137\t5\t-1\t\r\n3\t1\t67\t1\t0\t0\t14\t5220\t4137\t5\t-1\t\r\n4\t1\t67\t1\t1\t0\t14\t5220\t4137\t5\t-1\t\r\n5\t1\t67\t1\t1\t1\t14\t5220\t4137\t5\t95.000000\t \r\n2\t1\t68\t0\t0\t0\t15\t5245\t1822\t36\t-1\t\r\n3\t1\t68\t1\t0\t0\t15\t5245\t1822\t36\t-1\t\r\n4\t1\t68\t1\t1\t0\t15\t5245\t1822\t36\t-1\t\r\n5\t1\t68\t1\t1\t1\t15\t5254\t21\t20\t78.688034\te\r\n5\t1\t68\t1\t1\t2\t48\t5245\t69\t32\t95.968712\tTHE\r\n5\t1\t68\t1\t1\t3\t129\t5245\t105\t32\t94.275520\tGAME\r\n5\t1\t68\t1\t1\t4\t247\t5245\t31\t32\t94.275520\tIS\r\n5\t1\t68\t1\t1\t5\t291\t5245\t89\t32\t96.652649\tNOW\r\n5\t1\t68\t1\t1\t6\t392\t5245\t110\t32\t96.516541\tBEING\r\n5\t1\t68\t1\t1\t7\t513\t5245\t148\t32\t96.396317\tTAUGHT\r\n5\t1\t68\t1\t1\t8\t672\t5245\t304\t36\t95.350929\tCOMMERCIALLY,\r\n5\t1\t68\t1\t1\t9\t990\t5245\t136\t32\t96.022354\tPLAYED\r\n5\t1\t68\t1\t1\t10\t1138\t5245\t43\t32\t96.875748\tAT\r\n5\t1\t68\t1\t1\t11\t1193\t5245\t261\t32\t95.937149\tRESTAURANTS\r\n5\t1\t68\t1\t1\t12\t1466\t5245\t77\t32\t96.143829\tAND\r\n5\t1\t68\t1\t1\t13\t1555\t5245\t282\t32\t96.143829\tTOURNAMENTS\r\n2\t1\t69\t0\t0\t0\t16\t5300\t4132\t133\t-1\t\r\n3\t1\t69\t1\t0\t0\t16\t5300\t4132\t133\t-1\t\r\n4\t1\t69\t1\t1\t0\t16\t5300\t4132\t133\t-1\t\r\n5\t1\t69\t1\t1\t1\t16\t5309\t298\t96\t29.155342\tOnce\r\n5\t1\t69\t1\t1\t2\t319\t5296\t49\t142\t29.155342\ta\r\n5\t1\t69\t1\t1\t3\t423\t5300\t382\t133\t82.810036\tfamily\r\n5\t1\t69\t1\t1\t4\t823\t5303\t504\t129\t95.983932\tpastime,\r\n5\t1\t69\t1\t1\t5\t1350\t5300\t461\t133\t96.137833\tMahjong\r\n5\t1\t69\t1\t1\t6\t1900\t5300\t303\t105\t96.238304\tfinds\r\n5\t1\t69\t1\t1\t7\t2227\t5332\t68\t73\t96.704208\ta\r\n5\t1\t69\t1\t1\t8\t2314\t5332\t250\t73\t96.758133\tnew\r\n5\t1\t69\t1\t1\t9\t2582\t5300\t293\t105\t94.531937\ttable\r\n5\t1\t69\t1\t1\t10\t2898\t5303\t118\t101\t96.031578\tin\r\n5\t1\t69\t1\t1\t11\t3038\t5300\t397\t105\t23.557312\tDelhi's\r\n5\t1\t69\t1\t1\t12\t3461\t5300\t336\t105\t95.981873\tsocial\r\n5\t1\t69\t1\t1\t13\t3822\t5332\t326\t73\t96.881348\tscene\r\n2\t1\t70\t0\t0\t0\t12\t5472\t395\t82\t-1\t\r\n3\t1\t70\t1\t0\t0\t12\t5472\t395\t82\t-1\t\r\n4\t1\t70\t1\t1\t0\t15\t5472\t222\t32\t-1\t\r\n5\t1\t70\t1\t1\t1\t15\t5474\t79\t30\t95.153854\tReva\r\n5\t1\t70\t1\t1\t2\t102\t5472\t135\t32\t95.153854\tThakkar\r\n4\t1\t70\t1\t2\t0\t12\t5520\t395\t34\t-1\t\r\n5\t1\t70\t1\t2\t1\t12\t5522\t71\t25\t96.640335\tNew\r\n5\t1\t70\t1\t2\t2\t88\t5520\t93\t32\t95.877167\tDelhi,\r\n5\t1\t70\t1\t2\t3\t192\t5520\t215\t34\t93.897453\tSeptember\r\n5\t1\t70\t1\t2\t4\t372\t5516\t39\t42\t93.897453\t26\r\n2\t1\t71\t0\t0\t0\t12\t5604\t473\t920\t-1\t\r\n3\t1\t71\t1\t0\t0\t12\t5604\t473\t920\t-1\t\r\n4\t1\t71\t1\t1\t0\t13\t5604\t472\t34\t-1\t\r\n5\t1\t71\t1\t1\t1\t13\t5606\t53\t25\t95.606323\tON\r\n5\t1\t71\t1\t1\t2\t73\t5606\t26\t25\t95.606323\tA\r\n5\t1\t71\t1\t1\t3\t106\t5604\t135\t34\t96.479530\tTuesday\r\n5\t1\t71\t1\t1\t4\t249\t5605\t138\t33\t96.536827\tmorning\r\n5\t1\t71\t1\t1\t5\t395\t5605\t32\t26\t96.696899\tin\r\n5\t1\t71\t1\t1\t6\t434\t5606\t51\t25\t95.503250\tJor\r\n4\t1\t71\t1\t2\t0\t13\t5646\t472\t34\t-1\t\r\n5\t1\t71\t1\t2\t1\t13\t5646\t87\t34\t93.294312\tBagh,\r\n5\t1\t71\t1\t2\t2\t109\t5646\t99\t27\t90.517082\tFerida\r\n5\t1\t71\t1\t2\t3\t216\t5646\t134\t34\t90.517082\tChopra’s\r\n5\t1\t71\t1\t2\t4\t358\t5646\t127\t34\t96.588402\tdrawing\r\n4\t1\t71\t1\t3\t0\t13\t5688\t472\t27\t-1\t\r\n5\t1\t71\t1\t3\t1\t13\t5696\t84\t19\t95.660789\troom\r\n5\t1\t71\t1\t3\t2\t105\t5689\t24\t26\t95.495567\tis\r\n5\t1\t71\t1\t3\t3\t137\t5688\t59\t27\t95.619720\tfull.\r\n5\t1\t71\t1\t3\t4\t206\t5690\t73\t25\t96.518356\tFour\r\n5\t1\t71\t1\t3\t5\t286\t5696\t118\t19\t89.837471\twomen\r\n5\t1\t71\t1\t3\t6\t413\t5703\t32\t2\t89.837471\t—\r\n5\t1\t71\t1\t3\t7\t454\t5689\t31\t26\t96.844841\tin\r\n4\t1\t71\t1\t4\t0\t12\t5731\t473\t27\t-1\t\r\n5\t1\t71\t1\t4\t1\t12\t5731\t76\t27\t96.369675\ttheir\r\n5\t1\t71\t1\t4\t2\t95\t5733\t54\t25\t96.703194\t20s\r\n5\t1\t71\t1\t4\t3\t157\t5735\t31\t23\t96.574860\tto\r\n5\t1\t71\t1\t4\t4\t196\t5733\t53\t25\t92.900742\t70s\r\n5\t1\t71\t1\t4\t5\t258\t5746\t32\t2\t92.900742\t—\r\n5\t1\t71\t1\t4\t6\t300\t5732\t36\t26\t96.558426\tsit\r\n5\t1\t71\t1\t4\t7\t345\t5731\t114\t27\t95.682434\taround\r\n5\t1\t71\t1\t4\t8\t468\t5739\t17\t19\t95.682434\ta\r\n4\t1\t71\t1\t5\t0\t13\t5773\t471\t34\t-1\t\r\n5\t1\t71\t1\t5\t1\t13\t5781\t103\t26\t95.372620\tsquare\r\n5\t1\t71\t1\t5\t2\t121\t5773\t85\t31\t95.372620\ttable,\r\n5\t1\t71\t1\t5\t3\t212\t5773\t75\t27\t96.605019\ttheir\r\n5\t1\t71\t1\t5\t4\t292\t5773\t106\t34\t93.204155\tfingers\r\n5\t1\t71\t1\t5\t5\t404\t5781\t80\t19\t92.891930\tmov-\r\n4\t1\t71\t1\t6\t0\t13\t5815\t470\t34\t-1\t\r\n5\t1\t71\t1\t6\t1\t13\t5816\t49\t33\t6.789215\ting\r\n5\t1\t71\t1\t6\t2\t67\t5823\t92\t19\t6.789215\tacross\r\n5\t1\t71\t1\t6\t3\t165\t5823\t71\t19\t95.462471\trows\r\n5\t1\t71\t1\t6\t4\t242\t5815\t32\t27\t93.262253\tof\r\n5\t1\t71\t1\t6\t5\t275\t5815\t208\t34\t89.400246\tMahjongtiles.\r\n4\t1\t71\t1\t7\t0\t13\t5857\t472\t34\t-1\t\r\n5\t1\t71\t1\t7\t1\t13\t5857\t62\t27\t96.810799\tThe\r\n5\t1\t71\t1\t7\t2\t84\t5857\t114\t34\t96.164604\tplayers\r\n5\t1\t71\t1\t7\t3\t208\t5857\t80\t27\t96.232521\tdraw\r\n5\t1\t71\t1\t7\t4\t297\t5857\t60\t27\t96.319489\tand\r\n5\t1\t71\t1\t7\t5\t366\t5857\t119\t27\t96.519760\tdiscard\r\n4\t1\t71\t1\t8\t0\t13\t5899\t471\t34\t-1\t\r\n5\t1\t71\t1\t8\t1\t13\t5899\t79\t27\t93.753380\tfrom\r\n5\t1\t71\t1\t8\t2\t102\t5901\t54\t25\t96.866119\t144\r\n5\t1\t71\t1\t8\t3\t165\t5899\t77\t31\t96.333832\ttiles,\r\n5\t1\t71\t1\t8\t4\t252\t5900\t101\t33\t96.042389\ttrying\r\n5\t1\t71\t1\t8\t5\t361\t5903\t31\t23\t92.314499\tto\r\n5\t1\t71\t1\t8\t6\t402\t5907\t82\t19\t92.314499\tcom-\r\n4\t1\t71\t1\t9\t0\t13\t5942\t450\t34\t-1\t\r\n5\t1\t71\t1\t9\t1\t13\t5942\t76\t34\t96.879478\tplete\r\n5\t1\t71\t1\t9\t2\t97\t5950\t17\t19\t95.055824\ta\r\n5\t1\t71\t1\t9\t3\t119\t5943\t130\t33\t95.055824\twinning\r\n5\t1\t71\t1\t9\t4\t256\t5942\t207\t27\t96.114685\tcombination.\r\n4\t1\t71\t1\t10\t0\t63\t5984\t420\t34\t-1\t\r\n5\t1\t71\t1\t10\t1\t63\t5984\t139\t34\t96.700462\tMahjong\r\n5\t1\t71\t1\t10\t2\t210\t5992\t103\t19\t95.865524\tmeans\r\n5\t1\t71\t1\t10\t3\t322\t5984\t161\t34\t92.380859\t“sparrow”,\r\n4\t1\t71\t1\t11\t0\t13\t6026\t471\t27\t-1\t\r\n5\t1\t71\t1\t11\t1\t13\t6026\t68\t27\t95.582382\tsaid\r\n5\t1\t71\t1\t11\t2\t90\t6030\t32\t23\t95.582382\tto\r\n5\t1\t71\t1\t11\t3\t133\t6034\t89\t19\t96.776001\tcome\r\n5\t1\t71\t1\t11\t4\t233\t6026\t99\t27\t96.368027\teither\r\n5\t1\t71\t1\t11\t5\t341\t6026\t81\t27\t95.963089\tfrom\r\n5\t1\t71\t1\t11\t6\t431\t6026\t53\t27\t96.914093\tthe\r\n4\t1\t71\t1\t12\t0\t13\t6068\t471\t27\t-1\t\r\n5\t1\t71\t1\t12\t1\t13\t6068\t63\t27\t94.001297\tbird\r\n5\t1\t71\t1\t12\t2\t82\t6068\t103\t27\t94.001297\tcarved\r\n5\t1\t71\t1\t12\t3\t190\t6076\t40\t19\t65.321602\ton\r\n5\t1\t71\t1\t12\t4\t235\t6076\t82\t19\t9.898972\tsome\r\n5\t1\t71\t1\t12\t5\t322\t6068\t162\t27\t9.898972\ttraditional\r\n4\t1\t71\t1\t13\t0\t12\t6110\t472\t27\t-1\t\r\n5\t1\t71\t1\t13\t1\t12\t6110\t70\t27\t96.078102\ttiles\r\n5\t1\t71\t1\t13\t2\t99\t6118\t33\t19\t96.173416\tor\r\n5\t1\t71\t1\t13\t3\t148\t6110\t80\t27\t96.418427\tfrom\r\n5\t1\t71\t1\t13\t4\t243\t6110\t54\t27\t96.800781\tthe\r\n5\t1\t71\t1\t13\t5\t313\t6110\t103\t27\t95.975250\tsound\r\n5\t1\t71\t1\t13\t6\t431\t6110\t53\t27\t96.880844\tthe\r\n4\t1\t71\t1\t14\t0\t13\t6152\t427\t34\t-1\t\r\n5\t1\t71\t1\t14\t1\t13\t6153\t97\t33\t96.761406\tpieces\r\n5\t1\t71\t1\t14\t2\t117\t6152\t86\t27\t96.847870\tmake\r\n5\t1\t71\t1\t14\t3\t209\t6152\t88\t27\t96.572556\twhen\r\n5\t1\t71\t1\t14\t4\t304\t6152\t136\t27\t96.365677\tshuffled.\r\n4\t1\t71\t1\t15\t0\t63\t6195\t421\t34\t-1\t\r\n5\t1\t71\t1\t15\t1\t63\t6195\t131\t34\t92.028015\tAlawyer\r\n5\t1\t71\t1\t15\t2\t198\t6195\t67\t27\t95.641479\twho\r\n5\t1\t71\t1\t15\t3\t270\t6195\t94\t34\t93.149208\tbegan\r\n5\t1\t71\t1\t15\t4\t369\t6196\t115\t33\t91.962631\tpractis-\r\n4\t1\t71\t1\t16\t0\t13\t6237\t472\t34\t-1\t\r\n5\t1\t71\t1\t16\t1\t13\t6238\t49\t33\t75.351334\ting\r\n5\t1\t71\t1\t16\t2\t68\t6241\t28\t23\t75.351334\tat\r\n5\t1\t71\t1\t16\t3\t101\t6239\t43\t29\t90.275406\t50,\r\n5\t1\t71\t1\t16\t4\t151\t6237\t98\t27\t0.000000\tFerida\r\n5\t1\t71\t1\t16\t5\t253\t6237\t90\t27\t0.000000\tlearnt\r\n5\t1\t71\t1\t16\t6\t348\t6237\t137\t34\t96.660683\tMahjong\r\n4\t1\t71\t1\t17\t0\t13\t6279\t471\t34\t-1\t\r\n5\t1\t71\t1\t17\t1\t13\t6279\t74\t34\t95.992760\tonly\r\n5\t1\t71\t1\t17\t2\t96\t6279\t143\t34\t96.287781\trecently,\r\n5\t1\t71\t1\t17\t3\t249\t6279\t106\t34\t96.300217\ttaking\r\n5\t1\t71\t1\t17\t4\t365\t6279\t119\t27\t96.609703\tlessons\r\n4\t1\t71\t1\t18\t0\t13\t6321\t472\t27\t-1\t\r\n5\t1\t71\t1\t18\t1\t13\t6321\t80\t27\t96.885780\tfrom\r\n5\t1\t71\t1\t18\t2\t102\t6325\t59\t23\t96.449356\ttwo\r\n5\t1\t71\t1\t18\t3\t171\t6321\t139\t27\t96.209511\tteachers\r\n5\t1\t71\t1\t18\t4\t320\t6322\t33\t26\t96.393211\tin\r\n5\t1\t71\t1\t18\t5\t362\t6323\t123\t25\t96.965179\tGreater\r\n4\t1\t71\t1\t19\t0\t13\t6363\t471\t34\t-1\t\r\n5\t1\t71\t1\t19\t1\t13\t6363\t121\t27\t96.674751\tKailash.\r\n5\t1\t71\t1\t19\t2\t141\t6365\t59\t25\t49.891510\tHer\r\n5\t1\t71\t1\t19\t3\t205\t6363\t173\t34\t49.891510\t10-year-old\r\n5\t1\t71\t1\t19\t4\t383\t6363\t101\t34\t91.156578\tgrand-\r\n4\t1\t71\t1\t20\t0\t13\t6406\t472\t34\t-1\t\r\n5\t1\t71\t1\t20\t1\t13\t6414\t56\t19\t92.870964\tson\r\n5\t1\t71\t1\t20\t2\t74\t6406\t60\t27\t92.674934\thad\r\n5\t1\t71\t1\t20\t3\t139\t6406\t108\t27\t92.674934\tstarted\r\n5\t1\t71\t1\t20\t4\t253\t6406\t130\t34\t91.804642\tlearning\r\n5\t1\t71\t1\t20\t5\t389\t6407\t29\t30\t91.804642\tit,\r\n5\t1\t71\t1\t20\t6\t426\t6406\t59\t27\t96.090027\tand\r\n4\t1\t71\t1\t21\t0\t13\t6448\t471\t34\t-1\t\r\n5\t1\t71\t1\t21\t1\t13\t6448\t53\t27\t96.432724\tshe\r\n5\t1\t71\t1\t21\t2\t73\t6448\t117\t27\t96.329422\twanted\r\n5\t1\t71\t1\t21\t3\t198\t6448\t168\t34\t96.106384\tsomething\r\n5\t1\t71\t1\t21\t4\t372\t6452\t31\t23\t96.398239\tto\r\n5\t1\t71\t1\t21\t5\t411\t6448\t73\t34\t96.398239\tkeep\r\n4\t1\t71\t1\t22\t0\t13\t6490\t472\t34\t-1\t\r\n5\t1\t71\t1\t22\t1\t13\t6490\t51\t27\t94.054558\ther\r\n5\t1\t71\t1\t22\t2\t69\t6490\t81\t27\t94.054558\tbrain\r\n5\t1\t71\t1\t22\t3\t156\t6491\t96\t30\t96.070625\tactive;\r\n5\t1\t71\t1\t22\t4\t259\t6490\t51\t27\t95.864853\ther\r\n5\t1\t71\t1\t22\t5\t315\t6490\t170\t34\t95.864853\t97-year-old\r\n2\t1\t72\t0\t0\t0\t146\t6558\t258\t58\t-1\t\r\n3\t1\t72\t1\t0\t0\t146\t6558\t258\t58\t-1\t\r\n4\t1\t72\t1\t1\t0\t146\t6558\t258\t58\t-1\t\r\n5\t1\t72\t1\t1\t1\t146\t6558\t1\t58\t95.000000\t \r\n5\t1\t72\t1\t1\t2\t403\t6558\t1\t58\t95.000000\t \r\n2\t1\t73\t0\t0\t0\t536\t5477\t474\t1047\t-1\t\r\n3\t1\t73\t1\t0\t0\t537\t5477\t470\t27\t-1\t\r\n4\t1\t73\t1\t1\t0\t537\t5477\t470\t27\t-1\t\r\n5\t1\t73\t1\t1\t1\t537\t5477\t225\t27\t91.717178\tmothersuffers\r\n5\t1\t73\t1\t1\t2\t769\t5477\t76\t27\t96.703674\tfrom\r\n5\t1\t73\t1\t1\t3\t850\t5477\t157\t27\t96.107109\tdementia.\r\n3\t1\t73\t2\t0\t0\t536\t5520\t473\t498\t-1\t\r\n4\t1\t73\t2\t1\t0\t588\t5520\t420\t34\t-1\t\r\n5\t1\t73\t2\t1\t1\t588\t5522\t58\t25\t92.096024\tHer\r\n5\t1\t73\t2\t1\t2\t651\t5520\t161\t34\t91.130157\tWhatsApp\r\n5\t1\t73\t2\t1\t3\t818\t5528\t90\t26\t96.425858\tgroup\r\n5\t1\t73\t2\t1\t4\t914\t5520\t94\t27\t96.377472\twhere\r\n4\t1\t73\t2\t2\t0\t537\t5562\t470\t34\t-1\t\r\n5\t1\t73\t2\t2\t1\t537\t5570\t116\t19\t92.964096\tonecan\r\n5\t1\t73\t2\t2\t2\t659\t5562\t70\t27\t95.945435\tbook\r\n5\t1\t73\t2\t2\t3\t743\t5558\t116\t42\t25.975433\tMahjong\r\n5\t1\t73\t2\t2\t4\t877\t5563\t130\t30\t25.975433\tsessions,\r\n4\t1\t73\t2\t3\t0\t537\t5604\t471\t34\t-1\t\r\n5\t1\t73\t2\t3\t1\t537\t5604\t114\t27\t96.806290\tnamed\r\n5\t1\t73\t2\t3\t2\t668\t5604\t146\t34\t19.011543\t‘Lutyens’\r\n5\t1\t73\t2\t3\t3\t832\t5604\t103\t31\t26.022789\tDelhi’,\r\n5\t1\t73\t2\t3\t4\t954\t5604\t54\t27\t96.440765\thas\r\n4\t1\t73\t2\t4\t0\t537\t5646\t470\t34\t-1\t\r\n5\t1\t73\t2\t4\t1\t537\t5646\t144\t27\t95.227844\tmembers\r\n5\t1\t73\t2\t4\t2\t688\t5646\t74\t27\t96.028999\tfrom\r\n5\t1\t73\t2\t4\t3\t769\t5654\t93\t19\t96.573456\tacross\r\n5\t1\t73\t2\t4\t4\t867\t5648\t50\t25\t96.825462\tJor\r\n5\t1\t73\t2\t4\t5\t922\t5646\t85\t34\t96.975220\tBagh,\r\n4\t1\t73\t2\t5\t0\t537\t5688\t472\t31\t-1\t\r\n5\t1\t73\t2\t5\t1\t537\t5688\t202\t31\t91.913635\tNizamuddin,\r\n5\t1\t73\t2\t5\t2\t747\t5690\t104\t25\t96.599083\tVasant\r\n5\t1\t73\t2\t5\t3\t857\t5688\t86\t27\t95.576721\tVihar\r\n5\t1\t73\t2\t5\t4\t951\t5688\t58\t27\t95.576721\tand\r\n4\t1\t73\t2\t6\t0\t537\t5731\t471\t34\t-1\t\r\n5\t1\t73\t2\t6\t1\t537\t5731\t87\t27\t96.743523\tKhan\r\n5\t1\t73\t2\t6\t2\t632\t5731\t124\t27\t96.646027\tMarket.\r\n5\t1\t73\t2\t6\t3\t766\t5731\t77\t27\t96.672676\tSlots\r\n5\t1\t73\t2\t6\t4\t852\t5731\t45\t27\t96.369331\tfor\r\n5\t1\t73\t2\t6\t5\t905\t5739\t103\t26\t96.721687\tgames\r\n4\t1\t73\t2\t7\t0\t537\t5773\t472\t34\t-1\t\r\n5\t1\t73\t2\t7\t1\t537\t5773\t108\t34\t96.531281\tplayed\r\n5\t1\t73\t2\t7\t2\t657\t5777\t29\t23\t96.767052\tat\r\n5\t1\t73\t2\t7\t3\t698\t5773\t54\t27\t96.650665\ther\r\n5\t1\t73\t2\t7\t4\t763\t5773\t92\t27\t96.912125\thome\r\n5\t1\t73\t2\t7\t5\t868\t5773\t43\t27\t96.491226\tfill\r\n5\t1\t73\t2\t7\t6\t923\t5781\t41\t26\t96.887863\tup\r\n5\t1\t73\t2\t7\t7\t977\t5774\t32\t26\t96.955879\tin\r\n4\t1\t73\t2\t8\t0\t537\t5815\t470\t31\t-1\t\r\n5\t1\t73\t2\t8\t1\t537\t5815\t91\t27\t78.168800\tunder\r\n5\t1\t73\t2\t8\t2\t632\t5815\t99\t27\t78.168800\thalfan\r\n5\t1\t73\t2\t8\t3\t736\t5815\t76\t31\t96.556038\thour,\r\n5\t1\t73\t2\t8\t4\t817\t5816\t80\t26\t26.163429\ttwice\r\n5\t1\t73\t2\t8\t5\t905\t5823\t14\t19\t1.879379\ta\r\n5\t1\t73\t2\t8\t6\t922\t5815\t85\t31\t1.879379\tweek,\r\n4\t1\t73\t2\t9\t0\t537\t5857\t471\t34\t-1\t\r\n5\t1\t73\t2\t9\t1\t537\t5865\t90\t26\t96.250671\tevery\r\n5\t1\t73\t2\t9\t2\t640\t5857\t93\t27\t96.780983\tweek.\r\n5\t1\t73\t2\t9\t3\t751\t5857\t80\t27\t96.905464\t“The\r\n5\t1\t73\t2\t9\t4\t847\t5865\t89\t26\t96.735680\tgame\r\n5\t1\t73\t2\t9\t5\t953\t5857\t55\t27\t96.611900\thas\r\n4\t1\t73\t2\t10\t0\t537\t5899\t471\t34\t-1\t\r\n5\t1\t73\t2\t10\t1\t537\t5899\t108\t34\t95.539314\thelped\r\n5\t1\t73\t2\t10\t2\t652\t5907\t49\t19\t96.830032\tme\r\n5\t1\t73\t2\t10\t3\t710\t5903\t156\t23\t96.419861\treconnect\r\n5\t1\t73\t2\t10\t4\t873\t5899\t71\t27\t93.285912\twith\r\n5\t1\t73\t2\t10\t5\t952\t5899\t56\t27\t92.717529\tdis-\r\n4\t1\t73\t2\t11\t0\t536\t5942\t472\t34\t-1\t\r\n5\t1\t73\t2\t11\t1\t536\t5946\t68\t23\t96.499641\ttant\r\n5\t1\t73\t2\t11\t2\t614\t5942\t150\t31\t96.268600\trelatives,\r\n5\t1\t73\t2\t11\t3\t775\t5942\t107\t34\t96.092583\tfamily\r\n5\t1\t73\t2\t11\t4\t892\t5942\t116\t27\t96.092583\tfriends\r\n4\t1\t73\t2\t12\t0\t538\t5984\t453\t34\t-1\t\r\n5\t1\t73\t2\t12\t1\t538\t5984\t59\t27\t96.215164\tand\r\n5\t1\t73\t2\t12\t2\t604\t5984\t247\t34\t96.262833\tacquaintances,”\r\n5\t1\t73\t2\t12\t3\t859\t5984\t53\t27\t96.885658\tshe\r\n5\t1\t73\t2\t12\t4\t919\t5992\t72\t26\t96.916443\tsays.\r\n3\t1\t73\t3\t0\t0\t536\t6026\t474\t414\t-1\t\r\n4\t1\t73\t3\t1\t0\t588\t6026\t421\t34\t-1\t\r\n5\t1\t73\t3\t1\t1\t588\t6026\t101\t27\t92.971352\tFerida\r\n5\t1\t73\t3\t1\t2\t697\t6027\t24\t26\t96.545815\tis\r\n5\t1\t73\t3\t1\t3\t730\t6030\t65\t30\t96.545815\tpart\r\n5\t1\t73\t3\t1\t4\t804\t6026\t33\t27\t96.700874\tof\r\n5\t1\t73\t3\t1\t5\t853\t6034\t7\t19\t96.146614\ta\r\n5\t1\t73\t3\t1\t6\t868\t6026\t141\t34\t96.023544\tMahjong\r\n4\t1\t73\t3\t2\t0\t537\t6068\t472\t34\t-1\t\r\n5\t1\t73\t3\t2\t1\t537\t6068\t90\t27\t96.588394\tboom\r\n5\t1\t73\t3\t2\t2\t631\t6068\t63\t27\t95.502144\tthat\r\n5\t1\t73\t3\t2\t3\t700\t6068\t53\t27\t96.094986\thas\r\n5\t1\t73\t3\t2\t4\t758\t6068\t137\t34\t95.972923\tgathered\r\n5\t1\t73\t3\t2\t5\t900\t6076\t72\t26\t0.000000\tpace\r\n5\t1\t73\t3\t2\t6\t978\t6069\t31\t26\t0.000000\tin\r\n4\t1\t73\t3\t3\t0\t537\t6110\t473\t34\t-1\t\r\n5\t1\t73\t3\t3\t1\t537\t6110\t84\t27\t96.438164\tDelhi\r\n5\t1\t73\t3\t3\t2\t629\t6118\t68\t19\t95.843758\tover\r\n5\t1\t73\t3\t3\t3\t703\t6110\t51\t27\t96.806152\tthe\r\n5\t1\t73\t3\t3\t4\t762\t6110\t54\t27\t96.911331\tlast\r\n5\t1\t73\t3\t3\t5\t823\t6110\t57\t27\t96.900497\tfive\r\n5\t1\t73\t3\t3\t6\t887\t6118\t89\t26\t95.470306\tyears.\r\n5\t1\t73\t3\t3\t7\t984\t6112\t26\t25\t96.967430\tA\r\n4\t1\t73\t3\t4\t0\t537\t6152\t472\t34\t-1\t\r\n5\t1\t73\t3\t4\t1\t537\t6160\t88\t26\t94.786232\tgame\r\n5\t1\t73\t3\t4\t2\t635\t6160\t76\t19\t96.401733\tonce\r\n5\t1\t73\t3\t4\t3\t722\t6152\t111\t34\t95.270203\tlargely\r\n5\t1\t73\t3\t4\t4\t841\t6152\t108\t34\t93.269707\tplayed\r\n5\t1\t73\t3\t4\t5\t958\t6152\t51\t27\t93.185493\tbe-\r\n4\t1\t73\t3\t5\t0\t536\t6195\t473\t34\t-1\t\r\n5\t1\t73\t3\t5\t1\t536\t6199\t97\t23\t96.631645\ttween\r\n5\t1\t73\t3\t5\t2\t642\t6195\t133\t31\t96.541489\tfamilies,\r\n5\t1\t73\t3\t5\t3\t784\t6195\t185\t34\t96.652359\tparticularly\r\n5\t1\t73\t3\t5\t4\t978\t6196\t31\t26\t96.002525\tin\r\n4\t1\t73\t3\t6\t0\t536\t6237\t473\t34\t-1\t\r\n5\t1\t73\t3\t6\t1\t536\t6239\t90\t32\t95.180153\tArmy\r\n5\t1\t73\t3\t6\t2\t635\t6237\t60\t27\t95.980927\tand\r\n5\t1\t73\t3\t6\t3\t703\t6238\t77\t26\t96.735306\tParsi\r\n5\t1\t73\t3\t6\t4\t790\t6237\t108\t31\t96.925156\tcircles,\r\n5\t1\t73\t3\t6\t5\t908\t6238\t24\t26\t96.139076\tis\r\n5\t1\t73\t3\t6\t6\t941\t6245\t68\t19\t96.171326\tnow\r\n4\t1\t73\t3\t7\t0\t537\t6279\t470\t34\t-1\t\r\n5\t1\t73\t3\t7\t1\t537\t6279\t93\t34\t95.936691\tbeing\r\n5\t1\t73\t3\t7\t2\t644\t6279\t110\t34\t96.531097\ttaught\r\n5\t1\t73\t3\t7\t3\t770\t6279\t237\t34\t95.842979\tcommercially,\r\n4\t1\t73\t3\t8\t0\t537\t6321\t471\t34\t-1\t\r\n5\t1\t73\t3\t8\t1\t537\t6321\t109\t34\t96.145363\tplayed\r\n5\t1\t73\t3\t8\t2\t656\t6325\t29\t23\t96.145363\tat\r\n5\t1\t73\t3\t8\t3\t695\t6325\t187\t23\t96.307045\trestaurants\r\n5\t1\t73\t3\t8\t4\t892\t6321\t62\t27\t93.275650\tand\r\n5\t1\t73\t3\t8\t5\t963\t6329\t45\t19\t93.275650\tor-\r\n4\t1\t73\t3\t9\t0\t537\t6363\t471\t34\t-1\t\r\n5\t1\t73\t3\t9\t1\t537\t6363\t130\t34\t92.905174\tganised\r\n5\t1\t73\t3\t9\t2\t682\t6363\t136\t34\t93.228088\tthrough\r\n5\t1\t73\t3\t9\t3\t833\t6363\t175\t34\t93.060257\tWhatsApp\r\n4\t1\t73\t3\t10\t0\t537\t6406\t392\t34\t-1\t\r\n5\t1\t73\t3\t10\t1\t537\t6414\t107\t26\t95.793610\tgroups\r\n5\t1\t73\t3\t10\t2\t652\t6406\t59\t27\t95.793610\tand\r\n5\t1\t73\t3\t10\t3\t717\t6410\t212\t23\t96.240585\ttournaments.\r\n3\t1\t73\t4\t0\t0\t537\t6448\t472\t76\t-1\t\r\n4\t1\t73\t4\t1\t0\t587\t6448\t422\t27\t-1\t\r\n5\t1\t73\t4\t1\t1\t587\t6448\t64\t27\t96.926819\tThe\r\n5\t1\t73\t4\t1\t2\t663\t6456\t127\t19\t96.540283\treasons\r\n5\t1\t73\t4\t1\t3\t803\t6456\t50\t19\t96.552277\tare\r\n5\t1\t73\t4\t1\t4\t864\t6448\t114\t27\t94.862198\tvaried:\r\n5\t1\t73\t4\t1\t5\t992\t6456\t17\t19\t94.862198\ta\r\n4\t1\t73\t4\t2\t0\t537\t6490\t472\t34\t-1\t\r\n5\t1\t73\t4\t2\t1\t537\t6490\t253\t34\t91.635139\tpost-pandemic\r\n5\t1\t73\t4\t2\t2\t808\t6491\t137\t33\t96.547592\tappetite\r\n5\t1\t73\t4\t2\t3\t962\t6490\t47\t27\t96.821777\tfor\r\n2\t1\t74\t0\t0\t0\t1060\t5477\t474\t1047\t-1\t\r\n3\t1\t74\t1\t0\t0\t1061\t5477\t472\t161\t-1\t\r\n4\t1\t74\t1\t1\t0\t1061\t5477\t471\t34\t-1\t\r\n5\t1\t74\t1\t1\t1\t1061\t5478\t138\t33\t96.905220\tmeeting\r\n5\t1\t74\t1\t1\t2\t1215\t5477\t111\t34\t96.183311\tpeople\r\n5\t1\t74\t1\t1\t3\t1343\t5477\t119\t31\t96.183311\toffline,\r\n5\t1\t74\t1\t1\t4\t1479\t5477\t53\t27\t96.923439\tthe\r\n4\t1\t74\t1\t2\t0\t1061\t5520\t471\t34\t-1\t\r\n5\t1\t74\t1\t2\t1\t1061\t5520\t114\t34\t90.613785\tgame’s\r\n5\t1\t74\t1\t2\t2\t1198\t5520\t150\t34\t96.315048\tvisibility\r\n5\t1\t74\t1\t2\t3\t1371\t5528\t42\t19\t96.148476\ton\r\n5\t1\t74\t1\t2\t4\t1437\t5520\t95\t27\t96.148476\tsocial\r\n4\t1\t74\t1\t3\t0\t1061\t5562\t472\t34\t-1\t\r\n5\t1\t74\t1\t3\t1\t1061\t5562\t107\t31\t96.529747\tmedia,\r\n5\t1\t74\t1\t3\t2\t1179\t5562\t59\t27\t96.127655\tand\r\n5\t1\t74\t1\t3\t3\t1246\t5562\t133\t27\t96.365997\tteachers\r\n5\t1\t74\t1\t3\t4\t1387\t5563\t120\t33\t96.080841\tturning\r\n5\t1\t74\t1\t3\t5\t1516\t5570\t17\t19\t96.715927\ta\r\n4\t1\t74\t1\t4\t0\t1061\t5604\t470\t34\t-1\t\r\n5\t1\t74\t1\t4\t1\t1061\t5604\t100\t34\t96.816505\tfamily\r\n5\t1\t74\t1\t4\t2\t1165\t5605\t123\t33\t96.475372\tpastime\r\n5\t1\t74\t1\t4\t3\t1294\t5605\t60\t26\t96.402397\tinto\r\n5\t1\t74\t1\t4\t4\t1365\t5605\t166\t26\t96.507462\tbusinesses.\r\n3\t1\t74\t2\t0\t0\t1061\t5646\t472\t112\t-1\t\r\n4\t1\t74\t2\t1\t0\t1111\t5646\t422\t34\t-1\t\r\n5\t1\t74\t2\t1\t1\t1111\t5646\t139\t34\t96.361786\tMahjong\r\n5\t1\t74\t2\t1\t2\t1258\t5646\t162\t34\t95.795029\toriginated\r\n5\t1\t74\t2\t1\t3\t1428\t5647\t31\t26\t95.116852\tin\r\n5\t1\t74\t2\t1\t4\t1467\t5646\t66\t27\t95.116852\t19th\r\n4\t1\t74\t2\t2\t0\t1061\t5688\t471\t34\t-1\t\r\n5\t1\t74\t2\t2\t1\t1061\t5692\t122\t30\t96.226151\tcentury\r\n5\t1\t74\t2\t2\t2\t1190\t5688\t101\t27\t96.318336\tChina.\r\n5\t1\t74\t2\t2\t3\t1300\t5690\t74\t25\t96.831604\tHow\r\n5\t1\t74\t2\t2\t4\t1382\t5689\t21\t26\t95.932343\tit\r\n5\t1\t74\t2\t2\t5\t1411\t5696\t83\t19\t95.932343\tcame\r\n5\t1\t74\t2\t2\t6\t1502\t5692\t30\t23\t96.764534\tto\r\n4\t1\t74\t2\t3\t0\t1061\t5731\t470\t27\t-1\t\r\n5\t1\t74\t2\t3\t1\t1061\t5731\t79\t27\t73.106491\tIndia\r\n5\t1\t74\t2\t3\t2\t1144\t5731\t51\t27\t73.106491\thas\r\n5\t1\t74\t2\t3\t3\t1199\t5731\t153\t27\t89.034943\tmorethan\r\n5\t1\t74\t2\t3\t4\t1356\t5732\t175\t26\t86.204796\toneversion.\r\n3\t1\t74\t3\t0\t0\t1060\t5773\t474\t456\t-1\t\r\n4\t1\t74\t3\t1\t0\t1112\t5773\t420\t31\t-1\t\r\n5\t1\t74\t3\t1\t1\t1112\t5773\t114\t31\t92.243080\tFerida,\r\n5\t1\t74\t3\t1\t2\t1243\t5781\t17\t19\t96.110977\ta\r\n5\t1\t74\t3\t1\t3\t1274\t5774\t90\t30\t96.110977\tParsi,\r\n5\t1\t74\t3\t1\t4\t1380\t5777\t99\t23\t96.520004\ttraces\r\n5\t1\t74\t3\t1\t5\t1494\t5774\t38\t26\t96.578766\tits\r\n4\t1\t74\t3\t2\t0\t1061\t5815\t471\t34\t-1\t\r\n5\t1\t74\t3\t2\t1\t1061\t5823\t134\t26\t94.527481\tpresence\r\n5\t1\t74\t3\t2\t2\t1201\t5816\t30\t26\t94.527481\tin\r\n5\t1\t74\t3\t2\t3\t1236\t5815\t127\t34\t93.501694\tBombay\r\n5\t1\t74\t3\t2\t4\t1366\t5819\t30\t23\t77.170509\tto\r\n5\t1\t74\t3\t2\t5\t1401\t5815\t49\t27\t77.170509\tthe\r\n5\t1\t74\t3\t2\t6\t1455\t5823\t77\t19\t92.517616\tcom-\r\n4\t1\t74\t3\t3\t0\t1061\t5857\t472\t34\t-1\t\r\n5\t1\t74\t3\t3\t1\t1061\t5857\t138\t34\t91.989510\tmunity’s\r\n5\t1\t74\t3\t3\t2\t1205\t5857\t74\t27\t96.717239\tlinks\r\n5\t1\t74\t3\t3\t3\t1285\t5857\t70\t27\t96.514931\twith\r\n5\t1\t74\t3\t3\t4\t1361\t5857\t100\t27\t96.139191\tChina.\r\n5\t1\t74\t3\t3\t5\t1470\t5857\t63\t34\t95.215691\t“My\r\n4\t1\t74\t3\t4\t0\t1061\t5899\t470\t34\t-1\t\r\n5\t1\t74\t3\t4\t1\t1061\t5899\t181\t34\t96.583878\tgrandfather\r\n5\t1\t74\t3\t4\t2\t1246\t5899\t73\t27\t96.097443\tused\r\n5\t1\t74\t3\t4\t3\t1323\t5903\t30\t23\t96.097443\tto\r\n5\t1\t74\t3\t4\t4\t1358\t5899\t65\t34\t96.943909\tplay\r\n5\t1\t74\t3\t4\t5\t1427\t5899\t104\t34\t96.941299\tbridge,\r\n4\t1\t74\t3\t5\t0\t1060\t5942\t473\t34\t-1\t\r\n5\t1\t74\t3\t5\t1\t1060\t5942\t85\t27\t96.248680\twhile\r\n5\t1\t74\t3\t5\t2\t1151\t5950\t50\t26\t96.849983\tmy\r\n5\t1\t74\t3\t5\t3\t1205\t5942\t206\t34\t96.396484\tgrandmother\r\n5\t1\t74\t3\t5\t4\t1416\t5942\t117\t27\t96.666695\tdressed\r\n4\t1\t74\t3\t6\t0\t1061\t5984\t472\t34\t-1\t\r\n5\t1\t74\t3\t6\t1\t1061\t5985\t33\t26\t93.206673\tin\r\n5\t1\t74\t3\t6\t2\t1103\t5984\t133\t27\t91.928818\tchiffons\r\n5\t1\t74\t3\t6\t3\t1246\t5984\t61\t27\t96.608284\tand\r\n5\t1\t74\t3\t6\t4\t1316\t5984\t98\t34\t96.608284\tpearls\r\n5\t1\t74\t3\t6\t5\t1423\t5988\t32\t23\t96.349335\tto\r\n5\t1\t74\t3\t6\t6\t1464\t5984\t69\t34\t96.935249\tplay\r\n4\t1\t74\t3\t7\t0\t1060\t6026\t473\t34\t-1\t\r\n5\t1\t74\t3\t7\t1\t1060\t6026\t139\t34\t96.424316\tMahjong\r\n5\t1\t74\t3\t7\t2\t1205\t6026\t70\t27\t96.825157\twith\r\n5\t1\t74\t3\t7\t3\t1283\t6034\t17\t19\t96.933640\ta\r\n5\t1\t74\t3\t7\t4\t1306\t6026\t140\t27\t96.749321\tbeautiful\r\n5\t1\t74\t3\t7\t5\t1453\t6027\t80\t33\t96.355141\tivory\r\n4\t1\t74\t3\t8\t0\t1061\t6068\t471\t31\t-1\t\r\n5\t1\t74\t3\t8\t1\t1061\t6072\t46\t23\t96.563782\tset\r\n5\t1\t74\t3\t8\t2\t1120\t6069\t32\t26\t96.116440\tin\r\n5\t1\t74\t3\t8\t3\t1165\t6076\t17\t19\t96.250191\ta\r\n5\t1\t74\t3\t8\t4\t1194\t6068\t111\t27\t96.776405\tcarved\r\n5\t1\t74\t3\t8\t5\t1317\t6068\t147\t31\t95.998383\tcabinet,”\r\n5\t1\t74\t3\t8\t6\t1477\t6068\t55\t27\t96.612083\tshe\r\n4\t1\t74\t3\t9\t0\t1061\t6110\t471\t34\t-1\t\r\n5\t1\t74\t3\t9\t1\t1061\t6118\t77\t26\t96.711082\tsays.\r\n5\t1\t74\t3\t9\t2\t1152\t6110\t79\t27\t96.729942\t“The\r\n5\t1\t74\t3\t9\t3\t1243\t6111\t81\t26\t96.800194\tParsi\r\n5\t1\t74\t3\t9\t4\t1334\t6110\t118\t27\t96.466576\ttraders\r\n5\t1\t74\t3\t9\t5\t1462\t6110\t70\t27\t96.466576\twho\r\n4\t1\t74\t3\t10\t0\t1060\t6152\t474\t34\t-1\t\r\n5\t1\t74\t3\t10\t1\t1060\t6156\t82\t23\t96.171844\twent\r\n5\t1\t74\t3\t10\t2\t1154\t6156\t32\t23\t96.781578\tto\r\n5\t1\t74\t3\t10\t3\t1200\t6152\t99\t27\t96.888336\tChina\r\n5\t1\t74\t3\t10\t4\t1310\t6152\t133\t34\t96.576141\tbrought\r\n5\t1\t74\t3\t10\t5\t1456\t6152\t78\t27\t96.374222\tback\r\n4\t1\t74\t3\t11\t0\t1061\t6195\t363\t34\t-1\t\r\n5\t1\t74\t3\t11\t1\t1061\t6195\t68\t27\t96.885864\tsilks\r\n5\t1\t74\t3\t11\t2\t1136\t6195\t59\t27\t96.791039\tand\r\n5\t1\t74\t3\t11\t3\t1201\t6195\t138\t34\t96.537247\tMahjong\r\n5\t1\t74\t3\t11\t4\t1345\t6195\t79\t27\t95.883408\tsets.”\r\n3\t1\t74\t4\t0\t0\t1060\t6237\t473\t287\t-1\t\r\n4\t1\t74\t4\t1\t0\t1111\t6237\t422\t34\t-1\t\r\n5\t1\t74\t4\t1\t1\t1111\t6237\t62\t27\t96.327431\tThe\r\n5\t1\t74\t4\t1\t2\t1182\t6245\t86\t26\t95.172180\tgame\r\n5\t1\t74\t4\t1\t3\t1278\t6237\t54\t27\t96.065308\thas\r\n5\t1\t74\t4\t1\t4\t1341\t6237\t78\t27\t95.542679\tbeen\r\n5\t1\t74\t4\t1\t5\t1427\t6237\t106\t34\t95.542679\tplayed\r\n4\t1\t74\t4\t2\t0\t1061\t6279\t472\t34\t-1\t\r\n5\t1\t74\t4\t2\t1\t1061\t6279\t44\t27\t96.913841\tfor\r\n5\t1\t74\t4\t2\t2\t1113\t6280\t184\t33\t96.505783\tgenerations\r\n5\t1\t74\t4\t2\t3\t1306\t6280\t32\t26\t96.174026\tin\r\n5\t1\t74\t4\t2\t4\t1345\t6279\t142\t27\t96.244843\tMumbai.\r\n5\t1\t74\t4\t2\t5\t1496\t6281\t37\t25\t96.679756\tAt\r\n4\t1\t74\t4\t3\t0\t1060\t6321\t471\t34\t-1\t\r\n5\t1\t74\t4\t3\t1\t1060\t6321\t54\t27\t96.884018\tthe\r\n5\t1\t74\t4\t3\t2\t1126\t6321\t189\t34\t95.713699\tWillingdon\r\n5\t1\t74\t4\t3\t3\t1328\t6323\t105\t32\t96.901436\tSports\r\n5\t1\t74\t4\t3\t4\t1446\t6321\t85\t31\t96.031403\tClub,\r\n4\t1\t74\t4\t4\t0\t1061\t6363\t472\t34\t-1\t\r\n5\t1\t74\t4\t4\t1\t1061\t6371\t82\t19\t93.242615\tmore\r\n5\t1\t74\t4\t4\t2\t1149\t6363\t73\t27\t89.476021\tthan\r\n5\t1\t74\t4\t4\t3\t1227\t6365\t60\t25\t89.476021\t200\r\n5\t1\t74\t4\t4\t4\t1294\t6363\t104\t34\t92.070320\tpeople\r\n5\t1\t74\t4\t4\t5\t1405\t6371\t56\t19\t92.070320\tcan\r\n5\t1\t74\t4\t4\t6\t1467\t6363\t66\t34\t96.180832\tplay\r\n4\t1\t74\t4\t5\t0\t1062\t6406\t470\t27\t-1\t\r\n5\t1\t74\t4\t5\t1\t1062\t6414\t95\t19\t96.771423\tacross\r\n5\t1\t74\t4\t5\t2\t1165\t6408\t33\t25\t96.771423\t10\r\n5\t1\t74\t4\t5\t3\t1205\t6410\t30\t23\t96.290482\tto\r\n5\t1\t74\t4\t5\t4\t1243\t6408\t29\t25\t96.290482\t15\r\n5\t1\t74\t4\t5\t5\t1279\t6406\t100\t27\t96.440308\ttables.\r\n5\t1\t74\t4\t5\t6\t1387\t6406\t56\t27\t93.215736\tShe\r\n5\t1\t74\t4\t5\t7\t1450\t6414\t82\t19\t92.037010\tmen-\r\n4\t1\t74\t4\t6\t0\t1060\t6448\t473\t27\t-1\t\r\n5\t1\t74\t4\t6\t1\t1060\t6449\t82\t26\t96.273560\ttions\r\n5\t1\t74\t4\t6\t2\t1152\t6448\t69\t27\t96.125793\thow\r\n5\t1\t74\t4\t6\t3\t1230\t6448\t121\t27\t96.125793\tofficers\r\n5\t1\t74\t4\t6\t4\t1361\t6448\t34\t27\t96.482727\tof\r\n5\t1\t74\t4\t6\t5\t1401\t6448\t52\t27\t96.770798\tthe\r\n5\t1\t74\t4\t6\t6\t1463\t6450\t70\t25\t96.915344\tEast\r\n4\t1\t74\t4\t7\t0\t1061\t6490\t472\t34\t-1\t\r\n5\t1\t74\t4\t7\t1\t1061\t6490\t83\t27\t96.691650\tIndia\r\n5\t1\t74\t4\t7\t2\t1152\t6492\t154\t32\t96.605606\tCompany\r\n5\t1\t74\t4\t7\t3\t1314\t6490\t106\t34\t96.559807\tduring\r\n5\t1\t74\t4\t7\t4\t1428\t6490\t105\t27\t96.380981\tBritish\r\n2\t1\t75\t0\t0\t0\t1365\t5330\t7\t300\t-1\t\r\n3\t1\t75\t1\t0\t0\t1365\t5330\t7\t300\t-1\t\r\n4\t1\t75\t1\t1\t0\t1365\t5330\t7\t300\t-1\t\r\n5\t1\t75\t1\t1\t1\t1365\t5330\t7\t300\t95.000000\t \r\n2\t1\t76\t0\t0\t0\t1417\t6558\t1\t58\t-1\t\r\n3\t1\t76\t1\t0\t0\t1417\t6558\t1\t58\t-1\t\r\n4\t1\t76\t1\t1\t0\t1417\t6558\t1\t58\t-1\t\r\n5\t1\t76\t1\t1\t1\t1417\t6558\t1\t58\t95.000000\t \r\n2\t1\t77\t0\t0\t0\t1580\t5464\t1008\t596\t-1\t\r\n3\t1\t77\t1\t0\t0\t1580\t5464\t1008\t596\t-1\t\r\n4\t1\t77\t1\t1\t0\t1580\t5464\t1008\t596\t-1\t\r\n5\t1\t77\t1\t1\t1\t1580\t5464\t1008\t596\t95.000000\t   \r\n2\t1\t78\t0\t0\t0\t1585\t6108\t977\t71\t-1\t\r\n3\t1\t78\t1\t0\t0\t1585\t6108\t977\t71\t-1\t\r\n4\t1\t78\t1\t1\t0\t1586\t6108\t976\t36\t-1\t\r\n5\t1\t78\t1\t1\t1\t1586\t6108\t78\t34\t96.743202\t(Left)\r\n5\t1\t78\t1\t1\t2\t1671\t6110\t32\t27\t95.811737\tAt\r\n5\t1\t78\t1\t1\t3\t1710\t6117\t34\t20\t95.811737\tan\r\n5\t1\t78\t1\t1\t4\t1753\t6113\t82\t24\t96.434814\tevent\r\n5\t1\t78\t1\t1\t5\t1842\t6108\t161\t29\t96.604683\tconducted\r\n5\t1\t78\t1\t1\t6\t2013\t6108\t34\t36\t95.484230\tby\r\n5\t1\t78\t1\t1\t7\t2054\t6108\t54\t29\t95.484230\tThe\r\n5\t1\t78\t1\t1\t8\t2117\t6108\t127\t36\t96.366737\tMahjong\r\n5\t1\t78\t1\t1\t9\t2253\t6108\t134\t33\t96.033249\tNetwork;\r\n5\t1\t78\t1\t1\t10\t2395\t6108\t47\t29\t96.033249\tthe\r\n5\t1\t78\t1\t1\t11\t2450\t6113\t82\t31\t95.510704\tstage\r\n5\t1\t78\t1\t1\t12\t2540\t6109\t22\t28\t95.510704\tis\r\n4\t1\t78\t1\t2\t0\t1585\t6150\t588\t29\t-1\t\r\n5\t1\t78\t1\t2\t1\t1585\t6155\t45\t24\t95.700836\tset\r\n5\t1\t78\t1\t2\t2\t1637\t6155\t28\t24\t95.700836\tat\r\n5\t1\t78\t1\t2\t3\t1673\t6150\t121\t29\t96.153786\tLatitude\r\n5\t1\t78\t1\t2\t4\t1801\t6152\t37\t27\t95.232269\t28\r\n5\t1\t78\t1\t2\t5\t1846\t6151\t24\t28\t95.232269\tin\r\n5\t1\t78\t1\t2\t6\t1880\t6150\t72\t29\t96.552803\tKhan\r\n5\t1\t78\t1\t2\t7\t1962\t6150\t110\t29\t95.567535\tMarket.\r\n5\t1\t78\t1\t2\t8\t2081\t6160\t92\t19\t86.762146\texpress\r\n2\t1\t79\t0\t0\t0\t1584\t6237\t473\t287\t-1\t\r\n3\t1\t79\t1\t0\t0\t1584\t6237\t473\t287\t-1\t\r\n4\t1\t79\t1\t1\t0\t1585\t6237\t472\t34\t-1\t\r\n5\t1\t79\t1\t1\t1\t1585\t6237\t63\t27\t96.531082\trule\r\n5\t1\t79\t1\t1\t2\t1658\t6237\t107\t34\t96.461983\tplayed\r\n5\t1\t79\t1\t1\t3\t1774\t6237\t144\t34\t96.296577\tMahjong\r\n5\t1\t79\t1\t1\t4\t1927\t6237\t69\t31\t93.286438\tand,\r\n5\t1\t79\t1\t1\t5\t2007\t6237\t50\t27\t93.241051\tbe-\r\n4\t1\t79\t1\t2\t0\t1585\t6279\t472\t31\t-1\t\r\n5\t1\t79\t1\t2\t1\t1585\t6287\t88\t19\t96.002686\tcause\r\n5\t1\t79\t1\t2\t2\t1683\t6279\t33\t27\t96.002686\tof\r\n5\t1\t79\t1\t2\t3\t1721\t6279\t72\t31\t96.577324\tthat,\r\n5\t1\t79\t1\t2\t4\t1803\t6279\t83\t27\t96.419380\tclubs\r\n5\t1\t79\t1\t2\t5\t1895\t6280\t32\t26\t96.807648\tin\r\n5\t1\t79\t1\t2\t6\t1936\t6279\t121\t27\t96.645584\tKolkata\r\n4\t1\t79\t1\t3\t0\t1585\t6321\t472\t34\t-1\t\r\n5\t1\t79\t1\t3\t1\t1585\t6321\t59\t27\t96.814964\tlike\r\n5\t1\t79\t1\t3\t2\t1653\t6321\t52\t27\t93.295784\tthe\r\n5\t1\t79\t1\t3\t3\t1715\t6321\t185\t34\t91.545166\tTollygunge\r\n5\t1\t79\t1\t3\t4\t1910\t6321\t75\t27\t96.330437\tClub\r\n5\t1\t79\t1\t3\t5\t1995\t6321\t62\t27\t96.829147\thad\r\n4\t1\t79\t1\t4\t0\t1585\t6363\t371\t34\t-1\t\r\n5\t1\t79\t1\t4\t1\t1585\t6364\t91\t26\t91.605339\tParsis\r\n5\t1\t79\t1\t4\t2\t1683\t6363\t117\t34\t96.744370\tplaying\r\n5\t1\t79\t1\t4\t3\t1806\t6363\t50\t27\t96.508057\tthe\r\n5\t1\t79\t1\t4\t4\t1863\t6371\t93\t26\t96.746643\tgame.\r\n4\t1\t79\t1\t5\t0\t1635\t6406\t303\t34\t-1\t\r\n5\t1\t79\t1\t5\t1\t1635\t6406\t139\t27\t88.763985\tAnother\r\n5\t1\t79\t1\t5\t2\t1817\t6406\t121\t34\t87.105103\tlineage\r\n4\t1\t79\t1\t6\t0\t1584\t6448\t362\t34\t-1\t\r\n5\t1\t79\t1\t6\t1\t1584\t6448\t128\t34\t96.693726\tthrough\r\n5\t1\t79\t1\t6\t2\t1718\t6450\t89\t32\t96.385056\tArmy\r\n5\t1\t79\t1\t6\t3\t1814\t6448\t132\t27\t94.957306\tfamilies.\r\n4\t1\t79\t1\t7\t0\t1635\t6490\t421\t34\t-1\t\r\n5\t1\t79\t1\t7\t1\t1635\t6490\t218\t34\t91.735115\tVijaylakshmi\r\n5\t1\t79\t1\t7\t2\t1870\t6490\t57\t32\t96.147194\t(73)\r\n5\t1\t79\t1\t7\t3\t1943\t6498\t62\t19\t96.147194\twas\r\n5\t1\t79\t1\t7\t4\t2021\t6492\t35\t25\t96.713379\t10\r\n2\t1\t80\t0\t0\t0\t1982\t6414\t74\t19\t-1\t\r\n3\t1\t80\t1\t0\t0\t1982\t6414\t74\t19\t-1\t\r\n4\t1\t80\t1\t1\t0\t1982\t6414\t74\t19\t-1\t\r\n5\t1\t80\t1\t1\t1\t1982\t6414\t74\t19\t95.922707\truns\r\n2\t1\t81\t0\t0\t0\t1823\t6543\t786\t78\t-1\t\r\n3\t1\t81\t1\t0\t0\t1823\t6543\t786\t78\t-1\t\r\n4\t1\t81\t1\t1\t0\t1823\t6543\t786\t78\t-1\t\r\n5\t1\t81\t1\t1\t1\t1823\t6543\t516\t66\t75.432770\tepaper.indianexpress:com\r\n5\t1\t81\t1\t1\t2\t2353\t6558\t64\t63\t42.011086\t|\r\n5\t1\t81\t1\t1\t3\t2480\t6558\t47\t63\t32.815369\ta\r\n5\t1\t81\t1\t1\t4\t2566\t6558\t43\t61\t60.609303\t|\r\n2\t1\t82\t0\t0\t0\t2108\t6237\t473\t287\t-1\t\r\n3\t1\t82\t1\t0\t0\t2108\t6237\t473\t287\t-1\t\r\n4\t1\t82\t1\t1\t0\t2108\t6237\t472\t34\t-1\t\r\n5\t1\t82\t1\t1\t1\t2108\t6237\t89\t27\t96.600304\twhen\r\n5\t1\t82\t1\t1\t2\t2205\t6237\t53\t27\t96.769783\tshe\r\n5\t1\t82\t1\t1\t3\t2267\t6237\t93\t27\t95.670151\tlearnt\r\n5\t1\t82\t1\t1\t4\t2367\t6241\t31\t23\t96.982170\tto\r\n5\t1\t82\t1\t1\t5\t2407\t6237\t72\t34\t96.433350\tplay.\r\n5\t1\t82\t1\t1\t6\t2489\t6239\t33\t25\t96.143143\tIn\r\n5\t1\t82\t1\t1\t7\t2529\t6237\t51\t27\t96.976868\tthe\r\n4\t1\t82\t1\t2\t0\t2109\t6279\t472\t31\t-1\t\r\n5\t1\t82\t1\t2\t1\t2109\t6281\t102\t29\t96.402443\t1960s,\r\n5\t1\t82\t1\t2\t2\t2227\t6279\t92\t27\t96.691963\twhen\r\n5\t1\t82\t1\t2\t3\t2334\t6279\t55\t27\t96.513771\ther\r\n5\t1\t82\t1\t2\t4\t2404\t6279\t100\t27\t96.910080\tfather\r\n5\t1\t82\t1\t2\t5\t2519\t6279\t62\t27\t96.445511\tand\r\n4\t1\t82\t1\t3\t0\t2109\t6321\t471\t34\t-1\t\r\n5\t1\t82\t1\t3\t1\t2109\t6321\t89\t27\t96.547577\tother\r\n5\t1\t82\t1\t3\t2\t2207\t6321\t123\t27\t96.746628\tofficers\r\n5\t1\t82\t1\t3\t3\t2340\t6329\t78\t19\t96.746628\twere\r\n5\t1\t82\t1\t3\t4\t2428\t6321\t111\t34\t96.440529\tposted\r\n5\t1\t82\t1\t3\t5\t2548\t6325\t32\t23\t96.551483\tto\r\n4\t1\t82\t1\t4\t0\t2109\t6363\t472\t34\t-1\t\r\n5\t1\t82\t1\t4\t1\t2109\t6363\t170\t34\t91.220833\tnon-family\r\n5\t1\t82\t1\t4\t2\t2283\t6364\t124\t30\t96.776985\tstations,\r\n5\t1\t82\t1\t4\t3\t2414\t6363\t50\t27\t93.846115\ther\r\n5\t1\t82\t1\t4\t4\t2469\t6363\t112\t27\t93.846115\tmother\r\n4\t1\t82\t1\t5\t0\t2109\t6406\t472\t34\t-1\t\r\n5\t1\t82\t1\t5\t1\t2109\t6406\t136\t34\t96.221443\tgathered\r\n5\t1\t82\t1\t5\t2\t2249\t6406\t50\t27\t96.718376\tthe\r\n5\t1\t82\t1\t5\t3\t2305\t6406\t119\t27\t96.050034\tofficers’\r\n5\t1\t82\t1\t5\t4\t2430\t6407\t86\t26\t95.664368\twives\r\n5\t1\t82\t1\t5\t5\t2522\t6406\t59\t27\t95.664368\tand\r\n4\t1\t82\t1\t6\t0\t2109\t6448\t472\t34\t-1\t\r\n5\t1\t82\t1\t6\t1\t2109\t6448\t141\t27\t96.040787\tchildren\r\n5\t1\t82\t1\t6\t2\t2283\t6448\t119\t27\t96.260796\taround\r\n5\t1\t82\t1\t6\t3\t2434\t6448\t147\t34\t96.798622\tMahjong\r\n4\t1\t82\t1\t7\t0\t2108\t6490\t382\t34\t-1\t\r\n5\t1\t82\t1\t7\t1\t2108\t6490\t91\t27\t96.268295\ttables\r\n5\t1\t82\t1\t7\t2\t2206\t6494\t30\t23\t96.314537\tto\r\n5\t1\t82\t1\t7\t3\t2243\t6490\t73\t34\t96.725700\tkeep\r\n5\t1\t82\t1\t7\t4\t2322\t6490\t83\t27\t96.381706\tthem\r\n5\t1\t82\t1\t7\t5\t2411\t6490\t79\t34\t96.186157\tbusy.\r\n2\t1\t83\t0\t0\t0\t2632\t5477\t473\t749\t-1\t\r\n3\t1\t83\t1\t0\t0\t2633\t5477\t472\t161\t-1\t\r\n4\t1\t83\t1\t1\t0\t2685\t5477\t419\t34\t-1\t\r\n5\t1\t83\t1\t1\t1\t2685\t5477\t109\t27\t96.528625\t“When\r\n5\t1\t83\t1\t1\t2\t2802\t5477\t53\t27\t96.571861\tshe\r\n5\t1\t83\t1\t1\t3\t2863\t5477\t60\t27\t96.339699\thad\r\n5\t1\t83\t1\t1\t4\t2931\t5481\t30\t23\t96.463036\tto\r\n5\t1\t83\t1\t1\t5\t2970\t5485\t36\t26\t96.703079\tgo\r\n5\t1\t83\t1\t1\t6\t3015\t5481\t30\t23\t95.615326\tto\r\n5\t1\t83\t1\t1\t7\t3054\t5477\t50\t27\t96.731400\tthe\r\n4\t1\t83\t1\t2\t0\t2633\t5520\t472\t31\t-1\t\r\n5\t1\t83\t1\t2\t1\t2633\t5520\t135\t31\t96.597488\tkitchen,\r\n5\t1\t83\t1\t2\t2\t2779\t5520\t55\t27\t96.647400\tshe\r\n5\t1\t83\t1\t2\t3\t2843\t5520\t104\t27\t96.730591\twould\r\n5\t1\t83\t1\t2\t4\t2956\t5520\t85\t27\t96.674324\thand\r\n5\t1\t83\t1\t2\t5\t3051\t5520\t54\t27\t96.674400\ther\r\n4\t1\t83\t1\t3\t0\t2633\t5562\t472\t34\t-1\t\r\n5\t1\t83\t1\t3\t1\t2633\t5570\t83\t26\t90.990189\tgame\r\n5\t1\t83\t1\t3\t2\t2722\t5566\t100\t23\t90.990189\toverto\r\n5\t1\t83\t1\t3\t3\t2827\t5570\t56\t23\t96.429451\tme,\r\n5\t1\t83\t1\t3\t4\t2890\t5562\t58\t27\t94.820976\tand\r\n5\t1\t83\t1\t3\t5\t2952\t5562\t82\t27\t94.820976\tthat’s\r\n5\t1\t83\t1\t3\t6\t3039\t5562\t66\t27\t96.666573\thow\r\n4\t1\t83\t1\t4\t0\t2633\t5604\t444\t34\t-1\t\r\n5\t1\t83\t1\t4\t1\t2633\t5604\t156\t31\t89.818062\tIlearned,”\r\n5\t1\t83\t1\t4\t2\t2796\t5612\t64\t26\t93.285233\tsays\r\n5\t1\t83\t1\t4\t3\t2866\t5604\t211\t34\t92.137161\tVijaylakshmi.\r\n3\t1\t83\t2\t0\t0\t2632\t5646\t473\t498\t-1\t\r\n4\t1\t83\t2\t1\t0\t2684\t5646\t421\t34\t-1\t\r\n5\t1\t83\t2\t1\t1\t2684\t5648\t109\t29\t80.427307\t1n2015,\r\n5\t1\t83\t2\t1\t2\t2798\t5646\t198\t34\t92.112076\tVijaylakshmi\r\n5\t1\t83\t2\t1\t3\t3001\t5646\t104\t27\t96.464005\tstarted\r\n4\t1\t83\t2\t2\t0\t2633\t5688\t472\t34\t-1\t\r\n5\t1\t83\t2\t2\t1\t2633\t5688\t120\t34\t96.665138\toffering\r\n5\t1\t83\t2\t2\t2\t2756\t5688\t185\t34\t92.582016\tprofessional\r\n5\t1\t83\t2\t2\t3\t2946\t5689\t159\t26\t90.762344\tsessionsin\r\n4\t1\t83\t2\t3\t0\t2633\t5731\t471\t34\t-1\t\r\n5\t1\t83\t2\t3\t1\t2633\t5731\t133\t27\t96.819733\tDefence\r\n5\t1\t83\t2\t3\t2\t2777\t5731\t121\t34\t95.937057\tColony.\r\n5\t1\t83\t2\t3\t3\t2912\t5731\t26\t27\t95.300507\t“I\r\n5\t1\t83\t2\t3\t4\t2948\t5739\t62\t19\t96.759552\twas\r\n5\t1\t83\t2\t3\t5\t3021\t5732\t83\t33\t96.766769\tquite\r\n4\t1\t83\t2\t4\t0\t2634\t5773\t471\t34\t-1\t\r\n5\t1\t83\t2\t4\t1\t2634\t5773\t160\t27\t96.576714\tastounded\r\n5\t1\t83\t2\t4\t2\t2799\t5777\t28\t23\t91.455605\tat\r\n5\t1\t83\t2\t4\t3\t2831\t5773\t49\t27\t91.455605\tthe\r\n5\t1\t83\t2\t4\t4\t2885\t5773\t132\t34\t96.663368\tdiversity\r\n5\t1\t83\t2\t4\t5\t3022\t5773\t32\t27\t95.238205\tof\r\n5\t1\t83\t2\t4\t6\t3056\t5781\t49\t26\t95.238205\tmy\r\n4\t1\t83\t2\t5\t0\t2633\t5815\t472\t34\t-1\t\r\n5\t1\t83\t2\t5\t1\t2633\t5815\t138\t27\t93.293098\tstudents\r\n5\t1\t83\t2\t5\t2\t2780\t5830\t32\t2\t93.194511\t—\r\n5\t1\t83\t2\t5\t3\t2821\t5815\t242\t34\t94.502647\tgeographically,\r\n5\t1\t83\t2\t5\t4\t3073\t5816\t32\t26\t96.954506\tin\r\n4\t1\t83\t2\t6\t0\t2634\t5857\t471\t34\t-1\t\r\n5\t1\t83\t2\t6\t1\t2634\t5865\t62\t26\t96.648560\tage,\r\n5\t1\t83\t2\t6\t2\t2710\t5857\t61\t27\t96.446625\tand\r\n5\t1\t83\t2\t6\t3\t2782\t5858\t33\t26\t93.933060\tin\r\n5\t1\t83\t2\t6\t4\t2825\t5857\t79\t27\t96.909782\ttheir\r\n5\t1\t83\t2\t6\t5\t2915\t5865\t116\t19\t96.159248\tcareers\r\n5\t1\t83\t2\t6\t6\t3044\t5857\t61\t27\t96.172470\tand\r\n4\t1\t83\t2\t7\t0\t2633\t5899\t471\t34\t-1\t\r\n5\t1\t83\t2\t7\t1\t2633\t5899\t216\t34\t96.117996\tbackgrounds,”\r\n5\t1\t83\t2\t7\t2\t2854\t5899\t51\t27\t75.810211\tshe\r\n5\t1\t83\t2\t7\t3\t2910\t5907\t70\t26\t75.810211\tsays.\r\n5\t1\t83\t2\t7\t4\t2986\t5901\t118\t25\t84.872894\tHerstu-\r\n4\t1\t83\t2\t8\t0\t2633\t5942\t302\t27\t-1\t\r\n5\t1\t83\t2\t8\t1\t2633\t5942\t84\t27\t96.848663\tdents\r\n5\t1\t83\t2\t8\t2\t2723\t5942\t71\t27\t93.062271\thave\r\n5\t1\t83\t2\t8\t3\t2800\t5942\t135\t27\t93.062271\tincluded\r\n4\t1\t83\t2\t9\t0\t2634\t5985\t301\t26\t-1\t\r\n5\t1\t83\t2\t9\t1\t2634\t5992\t39\t19\t96.690460\tan\r\n5\t1\t83\t2\t9\t2\t2749\t5985\t186\t26\t96.402588\tinvestment\r\n4\t1\t83\t2\t10\t0\t2633\t6026\t301\t31\t-1\t\r\n5\t1\t83\t2\t10\t1\t2633\t6026\t113\t31\t96.830109\tbanker,\r\n5\t1\t83\t2\t10\t2\t2755\t6034\t17\t19\t96.505623\ta\r\n5\t1\t83\t2\t10\t3\t2779\t6027\t95\t26\t96.500702\tsenior\r\n5\t1\t83\t2\t10\t4\t2881\t6028\t53\t25\t94.456116\tIAS\r\n4\t1\t83\t2\t11\t0\t2633\t6068\t302\t31\t-1\t\r\n5\t1\t83\t2\t11\t1\t2633\t6068\t125\t27\t93.167862\tofficer’s\r\n5\t1\t83\t2\t11\t2\t2765\t6068\t75\t31\t96.193459\twife,\r\n5\t1\t83\t2\t11\t3\t2850\t6068\t85\t27\t94.715042\tanda\r\n4\t1\t83\t2\t12\t0\t2632\t6110\t124\t34\t-1\t\r\n5\t1\t83\t2\t12\t1\t2632\t6110\t124\t34\t96.704239\tjeweller.\r\n3\t1\t83\t3\t0\t0\t2634\t6152\t301\t74\t-1\t\r\n4\t1\t83\t3\t1\t0\t2684\t6152\t250\t27\t-1\t\r\n5\t1\t83\t3\t1\t1\t2684\t6154\t33\t25\t96.676041\tIn\r\n5\t1\t83\t3\t1\t2\t2727\t6154\t122\t25\t93.249702\tGreater\r\n5\t1\t83\t3\t1\t3\t2858\t6152\t76\t27\t92.297485\tKail-\r\n4\t1\t83\t3\t2\t0\t2634\t6195\t301\t31\t-1\t\r\n5\t1\t83\t3\t2\t1\t2634\t6195\t64\t31\t93.102982\tash,\r\n5\t1\t83\t3\t2\t2\t2731\t6195\t204\t27\t92.368134\tVasundhara\r\n2\t1\t84\t0\t0\t0\t3049\t5970\t161\t172\t-1\t\r\n3\t1\t84\t1\t0\t0\t3049\t5970\t161\t172\t-1\t\r\n4\t1\t84\t1\t1\t0\t3049\t5970\t161\t172\t-1\t\r\n5\t1\t84\t1\t1\t1\t3049\t5970\t161\t172\t95.000000\t \r\n2\t1\t85\t0\t0\t0\t2996\t6147\t266\t32\t-1\t\r\n3\t1\t85\t1\t0\t0\t2996\t6147\t266\t32\t-1\t\r\n4\t1\t85\t1\t1\t0\t2996\t6147\t266\t32\t-1\t\r\n5\t1\t85\t1\t1\t1\t2996\t6147\t70\t32\t96.747292\tTHE\r\n5\t1\t85\t1\t1\t2\t3076\t6147\t186\t32\t95.904503\tEVENTFUL\r\n2\t1\t86\t0\t0\t0\t3043\t6189\t173\t98\t-1\t\r\n3\t1\t86\t1\t0\t0\t3043\t6189\t173\t98\t-1\t\r\n4\t1\t86\t1\t1\t0\t3043\t6189\t173\t98\t-1\t\r\n5\t1\t86\t1\t1\t1\t3043\t6189\t173\t98\t94.416008\tcity\r\n2\t1\t87\t0\t0\t0\t2978\t6300\t303\t11\t-1\t\r\n3\t1\t87\t1\t0\t0\t2978\t6300\t303\t11\t-1\t\r\n4\t1\t87\t1\t1\t0\t2978\t6300\t303\t11\t-1\t\r\n5\t1\t87\t1\t1\t1\t2978\t6300\t303\t11\t95.000000\t \r\n2\t1\t88\t0\t0\t0\t3156\t5477\t473\t749\t-1\t\r\n3\t1\t88\t1\t0\t0\t3156\t5477\t473\t749\t-1\t\r\n4\t1\t88\t1\t1\t0\t3156\t5477\t472\t27\t-1\t\r\n5\t1\t88\t1\t1\t1\t3156\t5477\t79\t27\t91.858452\ttised\r\n5\t1\t88\t1\t1\t2\t3245\t5477\t54\t27\t96.842224\tlaw\r\n5\t1\t88\t1\t1\t3\t3309\t5477\t45\t27\t96.317963\tfor\r\n5\t1\t88\t1\t1\t4\t3364\t5485\t17\t19\t96.576302\ta\r\n5\t1\t88\t1\t1\t5\t3390\t5477\t114\t27\t96.740562\tdecade\r\n5\t1\t88\t1\t1\t6\t3515\t5477\t60\t27\t93.287933\tand\r\n5\t1\t88\t1\t1\t7\t3585\t5485\t43\t19\t92.435410\tre-\r\n4\t1\t88\t1\t2\t0\t3157\t5520\t471\t34\t-1\t\r\n5\t1\t88\t1\t2\t1\t3157\t5520\t100\t34\t96.248032\tcently\r\n5\t1\t88\t1\t2\t2\t3265\t5520\t145\t34\t96.406372\tqualified\r\n5\t1\t88\t1\t2\t3\t3418\t5520\t45\t27\t96.479164\tfor\r\n5\t1\t88\t1\t2\t4\t3470\t5520\t52\t27\t93.285393\tthe\r\n5\t1\t88\t1\t2\t5\t3530\t5520\t98\t27\t93.044777\tAdvo-\r\n4\t1\t88\t1\t3\t0\t3157\t5562\t470\t27\t-1\t\r\n5\t1\t88\t1\t3\t1\t3157\t5562\t262\t27\t92.103821\tcates-on-Records\r\n5\t1\t88\t1\t3\t2\t3427\t5563\t200\t26\t96.402092\texamination.\r\n4\t1\t88\t1\t4\t0\t3157\t5604\t445\t34\t-1\t\r\n5\t1\t88\t1\t4\t1\t3157\t5604\t73\t27\t95.902542\tBoth\r\n5\t1\t88\t1\t4\t2\t3236\t5604\t71\t27\t96.468842\thave\r\n5\t1\t88\t1\t4\t3\t3312\t5608\t52\t30\t96.425774\tput\r\n5\t1\t88\t1\t4\t4\t3370\t5612\t106\t19\t96.442696\tcareers\r\n5\t1\t88\t1\t4\t5\t3482\t5612\t40\t19\t96.328720\ton\r\n5\t1\t88\t1\t4\t6\t3527\t5604\t75\t27\t96.427750\thold.\r\n4\t1\t88\t1\t5\t0\t3209\t5646\t418\t34\t-1\t\r\n5\t1\t88\t1\t5\t1\t3209\t5646\t62\t27\t96.382149\t“We\r\n5\t1\t88\t1\t5\t2\t3276\t5646\t63\t27\t96.542831\tlove\r\n5\t1\t88\t1\t5\t3\t3344\t5646\t134\t34\t95.808372\tteaching\r\n5\t1\t88\t1\t5\t4\t3482\t5646\t145\t34\t96.732643\tMahjong,\r\n4\t1\t88\t1\t6\t0\t3157\t5688\t471\t34\t-1\t\r\n5\t1\t88\t1\t6\t1\t3157\t5688\t79\t27\t92.718758\tithas\r\n5\t1\t88\t1\t6\t2\t3241\t5688\t120\t27\t96.878059\tbecome\r\n5\t1\t88\t1\t6\t3\t3367\t5696\t53\t19\t96.704277\tour\r\n5\t1\t88\t1\t6\t4\t3425\t5688\t132\t27\t73.314201\tfull-time\r\n5\t1\t88\t1\t6\t5\t3562\t5688\t66\t34\t73.314201\tjob,”\r\n4\t1\t88\t1\t7\t0\t3157\t5731\t472\t34\t-1\t\r\n5\t1\t88\t1\t7\t1\t3157\t5739\t67\t26\t93.246246\tsays\r\n5\t1\t88\t1\t7\t2\t3233\t5731\t206\t27\t90.851624\tVasundhara.\r\n5\t1\t88\t1\t7\t3\t3449\t5731\t83\t34\t96.873352\tThey\r\n5\t1\t88\t1\t7\t4\t3540\t5731\t89\t27\t96.326820\tteach\r\n4\t1\t88\t1\t8\t0\t3156\t5773\t471\t31\t-1\t\r\n5\t1\t88\t1\t8\t1\t3156\t5773\t50\t27\t96.559769\tthe\r\n5\t1\t88\t1\t8\t2\t3213\t5773\t103\t27\t96.186165\tIndian\r\n5\t1\t88\t1\t8\t3\t3321\t5773\t127\t31\t96.186447\tformats,\r\n5\t1\t88\t1\t8\t4\t3455\t5774\t172\t30\t96.639732\tTaiwanese,\r\n4\t1\t88\t1\t9\t0\t3156\t5815\t473\t31\t-1\t\r\n5\t1\t88\t1\t9\t1\t3156\t5816\t162\t30\t93.571159\tAmerican,\r\n5\t1\t88\t1\t9\t2\t3326\t5815\t59\t27\t96.873299\tand\r\n5\t1\t88\t1\t9\t3\t3391\t5815\t82\t27\t96.404030\tother\r\n5\t1\t88\t1\t9\t4\t3479\t5815\t150\t27\t96.404030\tadvanced\r\n4\t1\t88\t1\t10\t0\t3156\t5857\t472\t27\t-1\t\r\n5\t1\t88\t1\t10\t1\t3156\t5858\t178\t26\t96.267204\tvariations.\r\n5\t1\t88\t1\t10\t2\t3364\t5857\t91\t27\t96.573151\tTheir\r\n5\t1\t88\t1\t10\t3\t3484\t5857\t144\t27\t96.224396\tstudents\r\n4\t1\t88\t1\t11\t0\t3157\t5899\t472\t34\t-1\t\r\n5\t1\t88\t1\t11\t1\t3157\t5907\t90\t26\t96.309113\trange\r\n5\t1\t88\t1\t11\t2\t3256\t5899\t78\t27\t92.647087\tfrom\r\n5\t1\t88\t1\t11\t3\t3343\t5899\t94\t34\t92.643616\tDiya’s\r\n5\t1\t88\t1\t11\t4\t3447\t5899\t182\t34\t96.331100\t10-year-old\r\n4\t1\t88\t1\t12\t0\t3324\t5942\t305\t34\t-1\t\r\n5\t1\t88\t1\t12\t1\t3324\t5950\t56\t19\t96.205788\tson\r\n5\t1\t88\t1\t12\t2\t3388\t5946\t30\t23\t92.918236\tto\r\n5\t1\t88\t1\t12\t3\t3428\t5950\t17\t19\t92.918236\ta\r\n5\t1\t88\t1\t12\t4\t3454\t5942\t175\t34\t94.879776\t91-year-old\r\n4\t1\t88\t1\t13\t0\t3324\t5984\t271\t27\t-1\t\r\n5\t1\t88\t1\t13\t1\t3324\t5992\t72\t19\t79.751877\tman\r\n5\t1\t88\t1\t13\t2\t3403\t5984\t60\t27\t42.428902\tand\r\n5\t1\t88\t1\t13\t3\t3469\t5984\t46\t27\t42.428902\this\r\n5\t1\t88\t1\t13\t4\t3521\t5984\t74\t27\t96.421867\twife.\r\n4\t1\t88\t1\t14\t0\t3375\t6026\t254\t34\t-1\t\r\n5\t1\t88\t1\t14\t1\t3375\t6026\t139\t34\t94.610207\tInitially,",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 32,
+    "kind": "text",
+    "bbox": [
+      381.6188049316406,
+      962.5783081054688,
+      524.2219848632812,
+      994.4114379882812
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 15.1875581741333,
+    "text": "Drishti Jain\r\nNew Delhi. Sentember 26",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 33,
+    "kind": "text",
+    "bbox": [
+      381.6188049316406,
+      1011.9969482421875,
+      552.2865600585938,
+      1844.9114990234375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "KALEEM’S DAY as a caretaker\r\nat the Delhi Race Club would\r\nbegin at 4am.\r\n\r\nHe first cleaned the stables,\r\nand gave the horses a bath and\r\na massage. “Then, I’d put the\r\nsaddles on them and take them\r\nout fora walk. The jockey would\r\nthen wait while I prepared\r\nAshwa Bravo for a race. Iwould\r\nbring it back at 3 pm. At night,\r\nI'd make rounds to refill their\r\nwater and check if they needed\r\nanything,” said Kaleem.\r\n\r\nOn a Tuesday, the 48-year-\r\nold stood amid the rubble of the\r\nhorse-wash rack, staring at the\r\nrow of partially demolished\r\nstables where he had spent 20\r\nyears caring for racehorses.\r\n\r\nFollowing the Centre’s take-\r\nover of the Delhi Race Club and\r\nJaipur Polo Ground, near the\r\nPrime Minister’s residence in\r\nLutyens’ Delhi, Kaleem and\r\nothers who live in three nearby\r\nsettlements — Bhai Ram Camp,\r\nDID and Masjid Camp — have\r\nlost the only jobs they knew.\r\n\r\nKaleem, a resident of Bhai\r\nRam Camp, said 1,500-2,000\r\nresidents of the three camps\r\nwere employed here as care-\r\ntakers, grass cutters and caddies.\r\nFrom having a fixed income,\r\nthey are now left struggling, de-\r\npending on daily-wage jobs.\r\n\r\n“T used to earn around Rs\r\n19,000 a month, but nowIam\r\ntrying to find work at construc-\r\ntion sites. A few times, I get\r\nwork at the Air Force station,\r\nbut it does not even pay Rs 500\r\na day,” Kaleem said.\r\n\r\nEarlier in the day, Kaleem\r\nand another ex-employee Tara\r\nChand, 40, had gone looking\r\nfor work together. Chand had\r\nworked at the club maintaining\r\nthe betting register and earned\r\naround Rs 18,000 a month.\r\n\r\nPicking up a small square\r\nbook with a photograph of a\r\nhorse on its cover, titled ‘BOL\r\nRace Card” he said. “We’ve",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 34,
+    "kind": "text",
+    "bbox": [
+      570.2244873046875,
+      1543.5584716796875,
+      741.0928955078125,
+      1844.9105224609375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "grown up selling these race\r\ncards at traffic signals for Rs 50.\r\nWe used to get Rs 5 as our cut.”\r\n\r\nKaleem’s own connection to\r\nthe Race Club went back even\r\nfurther. His father had worked\r\nas a Sais, a local term for people\r\nwho cared for horses. “He was\r\ntheir union leader, so I grew up\r\nwatching him care for them.”\r\n\r\n“IT was very sad when the\r\nhorses — 200-250 of them —\r\nwere sold,” he added.\r\n\r\nOn August 11, the Estate Of-\r\nficer of the Land and Develop-\r\nment Office (L&DO), which\r\ncomes under the Union Minis-\r\ntry of Housing and Urban Af-\r\nfairs, issued an eviction order to\r\nthe Club under the Public",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 35,
+    "kind": "text",
+    "bbox": [
+      758.8302612304688,
+      1543.5574951171875,
+      929.4934692382812,
+      1844.9095458984375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "Premises (Eviction of Unauth-\r\norized Occupants) Act. It di-\r\nrected the club to vacate the\r\npremises within 15 days, ter-\r\nming them to be “unauthorised\r\noccupant” of the land.\r\n\r\nLast month, the Supreme\r\nCourt dismissed the Club’s ap-\r\npeal against a High Court order,\r\nwhich had vacated a stay on the\r\neviction proceedings initiated\r\nby the Centre. A district court\r\nalso refused to grant any interim\r\nstay on the eviction proceedings.\r\n\r\nFor several former staff, the\r\nuncertainty surrounding their\r\nhomes has dealt a double blow.\r\n\r\nNearly 700 families across\r\nthree camps have got eviction\r\nnotices. In court. the Centre",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 36,
+    "kind": "text",
+    "bbox": [
+      947.4359130859375,
+      966.4292602539062,
+      1118.1767578125,
+      1844.906494140625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "said clearing these unauth-\r\norised structures was necessary\r\nto strengthen defence infra-\r\nstructure and protect high-se-\r\ncurity installations.\r\n\r\nTheir new homes are 45 km\r\naway in Savda Ghevra, a re-\r\nsettlement colony in Northwest\r\nDelhi. That distance has be-\r\ncome a problem for those still\r\nlooking for work around Lu-\r\ntyens’ Delhi. “How will we\r\ntravel for work here from\r\nthere?” asked Chand. “My\r\nchildren are in school... Every-\r\nthing has ended for us.”\r\n\r\nAsof May 2026, while the liti-\r\ngations were pending at Delhi\r\nHigh Court, 192 dwellers had ac-\r\ncepted the allotment letters and\r\n136 had taken possession of the\r\nflats at Savda Ghevra.\r\n\r\nFor one family in Masjid\r\nCamp, the move proved diffi-\r\ncult.\r\n\r\nAwoman in her late 40s was\r\nwaiting anxiously for her hus-\r\nband. He had lost his job at the\r\nclub and was now working asa\r\ncaddie at the nearby Delhi Golf\r\nClub. But he was paid only\r\nwhen he assisted someone.\r\n\r\n“T sit here hoping that his\r\nturn will come, but it hasn’t for\r\nthe past three days. He must be\r\nwaiting,” she said.\r\n\r\nThe family had shifted to\r\nSavda Ghevra three months\r\nago, but her husband was un-\r\nable to find work there. “Heisa\r\nBA graduate from Dyal Singh\r\nCollege but hasn’t been able to\r\nfind a skilled job,” she said.\r\n\r\nThen, there was the question\r\nofherson’s school. “Mysonisin\r\nClass12. We would leave at 6am\r\nfor school but couldn’t reach\r\neven by8am. So weshifted back\r\nlast month,” she said.\r\n\r\nMeanwhile, a bouncer who\r\nhad been hired on contract still\r\nhad a job. But his duties had\r\nchanged: he now guarded the\r\nsecurity staff and iron rods at\r\nthe site. “There used to be 10 of\r\nus, but now we’re just three\r\nleft,” he said, speaking on con-\r\ndition of anonvmitv.",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 37,
+    "kind": "text",
+    "bbox": [
+      406.9361572265625,
+      735.28759765625,
+      1092.615966796875,
+      953.0392456054688
+    ],
+    "font_min": 25.579044342041016,
+    "font_max": 52.75678253173828,
+    "text": "— EXPRESS special\r\n‘The horses are gone, So is our\r\nwork’: Workers at Delhi Race\r\nClub look for daily-wage jobs",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 38,
+    "kind": "text",
+    "bbox": [
+      570.1717529296875,
+      1465.6014404296875,
+      927.8175659179688,
+      1528.8431396484375
+    ],
+    "font_min": 9.592142105102539,
+    "font_max": 13.588868141174316,
+    "text": "(Top) Kaleem (in blue) and Tara Chand used to work as caretakers at\r\nthe Delhi Race Club; the iron benches where spectators once sat\r\nwere rusted and, in places, uprooted, with tall grass growing\r\naround them. aBHINAV SAHA",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 39,
+    "kind": "text",
+    "bbox": [
+      4.346487045288086,
+      743.8143920898438,
+      361.2215881347656,
+      936.0707397460938
+    ],
+    "font_min": 20.782974243164062,
+    "font_max": 38.368568420410156,
+    "text": "YUVRAJ SINGH MANCHANDA MURDER How cana body be cremated along with belongings: Court raps Gurugram Police",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 40,
+    "kind": "text",
+    "bbox": [
+      192.98838806152344,
+      1131.47509765625,
+      325.3846435546875,
+      1149.154296875
+    ],
+    "font_min": 13.588868141174316,
+    "font_max": 13.588868141174316,
+    "text": "Yuvraj Singh Manchanda",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 41,
+    "kind": "text",
+    "bbox": [
+      1136.1453857421875,
+      192.42869567871094,
+      1483.4049072265625,
+      282.7547302246094
+    ],
+    "font_min": 43.16463851928711,
+    "font_max": 43.16463851928711,
+    "text": "Rain lashes Delhi,\r\ntemvnerature drons",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 42,
+    "kind": "text",
+    "bbox": [
+      1136.15283203125,
+      1334.2327880859375,
+      1492.4041748046875,
+      1402.1771240234375
+    ],
+    "font_min": 31.973806381225586,
+    "font_max": 31.973806381225586,
+    "text": "Now open, 3rd automated testing station for vehicles",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 43,
+    "kind": "text",
+    "bbox": [
+      1136.1434326171875,
+      1313.725830078125,
+      1492.9500732421875,
+      1331.405029296875
+    ],
+    "font_min": 9.592142105102539,
+    "font_max": 13.588868141174316,
+    "text": "Chief Minister Rekha Gupta at the launch on Saturday. PRAVEEN KHANNA",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 44,
+    "kind": "text",
+    "bbox": [
+      381.6920166015625,
+      353.16094970703125,
+      646.3120727539062,
+      378.48419189453125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 19.184284210205078,
+    "text": "e HOW THE DEADLINE HAS MOVED",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 45,
+    "kind": "text",
+    "bbox": [
+      523.6827392578125,
+      385.5826721191406,
+      719.0172119140625,
+      421.3829345703125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "REVISION | DATE DEADLINE",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 46,
+    "kind": "text",
+    "bbox": [
+      530.2244262695312,
+      424.0303955078125,
+      708.2291870117188,
+      440.5672302246094
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "Second August 4 Oct 27",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 47,
+    "kind": "text",
+    "bbox": [
+      533.0828857421875,
+      443.2146911621094,
+      706.4833984375,
+      478.83587646484375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "Third | August 19 Nov4\r\nFourth Sept 26 Dec 4",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 48,
+    "kind": "text",
+    "bbox": [
+      4.346438884735107,
+      188.90536499023438,
+      1087.499755859375,
+      336.57958984375
+    ],
+    "font_min": 65.54630279541016,
+    "font_max": 65.54630279541016,
+    "text": "Delhi SIR deadline revised for fourth time, final electoral roll now on Dec 4",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 49,
+    "kind": "text",
+    "bbox": [
+      1324.926513671875,
+      612.7313232421875,
+      1390.002685546875,
+      658.500732421875
+    ],
+    "font_min": 12.789539337158203,
+    "font_max": 12.789539337158203,
+    "text": "Anand Vihar Satisfactory AQI:64",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 50,
+    "kind": "text",
+    "bbox": [
+      1418.5330810546875,
+      613.103759765625,
+      1477.4190673828125,
+      658.798095703125
+    ],
+    "font_min": 12.789539337158203,
+    "font_max": 12.789539337158203,
+    "text": "JNU Satisfactory AQI:45",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 51,
+    "kind": "text",
+    "bbox": [
+      1325.0220947265625,
+      705.9088745117188,
+      1383.8544921875,
+      751.5673828125
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "Dwarka Satisfactory AQI:71",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 52,
+    "kind": "text",
+    "bbox": [
+      1418.5224609375,
+      705.775390625,
+      1477.3548583984375,
+      751.433837890625
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 12.789523124694824,
+    "text": "Najafgarh Satisfactory AQI:49",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 53,
+    "kind": "text",
+    "bbox": [
+      1324.77685546875,
+      298.16058349609375,
+      1424.630126953125,
+      321.1433410644531
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 19.184284210205078,
+    "text": "e Skywatch",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 54,
+    "kind": "text",
+    "bbox": [
+      1324.77685546875,
+      364.1907653808594,
+      1469.080810546875,
+      476.5981750488281
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 17.585594177246094,
+    "text": "Forecast: September 27, 2026 Generally cloudy sky; no rain expected MAX: 30-32 2.3°C below normal",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 55,
+    "kind": "text",
+    "bbox": [
+      1324.77685546875,
+      485.1634521484375,
+      1456.2132568359375,
+      522.7791137695312
+    ],
+    "font_min": 14.388213157653809,
+    "font_max": 17.585594177246094,
+    "text": "MIN: 21-23 2.9°C below normal",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 56,
+    "kind": "text",
+    "bbox": [
+      1325.0552978515625,
+      541.4447021484375,
+      1445.7393798828125,
+      564.427490234375
+    ],
+    "font_min": 12.789523124694824,
+    "font_max": 19.184284210205078,
+    "text": "e AQI Tracker",
+    "text_source": "tesseract_ocr"
+  },
+  {
+    "id": 57,
+    "kind": "text",
+    "bbox": [
+      1325.3206787109375,
+      754.3423461914062,
+      1429.086669921875,
+      837.7899780273438
+    ],
+    "font_min": 11.990178108215332,
+    "font_max": 11.990178108215332,
+    "text": "® Good (0-50) © Satisfactory (51-100) © Moderate (101-200) © Poor (201-300) @ Very Poor (301-400) @ Severe (401-500)",
+    "text_source": "tesseract_ocr"
+  }
+]

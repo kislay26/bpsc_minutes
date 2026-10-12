@@ -1,0 +1,39 @@
+[
+  {
+    "group": 1,
+    "reviews": [
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": true,
+        "issues": []
+      }
+    ]
+  },
+  {
+    "group": 2,
+    "reviews": [
+      {
+        "ok": false,
+        "issues": [
+          "Headline 'Allthree Commissioners meet' is missing a space between 'All' and 'three'.",
+          "The bottom of the crop incorrectly includes body text belonging to story A8 ('In 48 hrs, a sharp turn')."
+        ]
+      },
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": true,
+        "issues": []
+      }
+    ]
+  }
+]

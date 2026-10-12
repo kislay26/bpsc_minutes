@@ -1,0 +1,2 @@
+PyMuPDF==1.26.6
+pydantic==2.13.5

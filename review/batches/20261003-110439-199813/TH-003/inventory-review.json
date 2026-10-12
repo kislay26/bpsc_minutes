@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory-review",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 27182,
+    "candidatesTokenCount": 267,
+    "totalTokenCount": 28524,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1066
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 26116
+      }
+    ],
+    "thoughtsTokenCount": 1075,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"Delhi to enforce PUC checks from Oct. 1, says CM Gupta\",\n    \"M.P.: 4 persons electrocuted while sleeping in temple tent\",\n    \"Six killed in rain havoc in U.P. as Adityanath seeks damage assessment within 24 hours\",\n    \"Rajasthan: BJP wins deputy mayor polls in 3 urban bodies\"\n  ],\n  \"roles\": {\n    \"151\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is an independent news story with its own byline and dedicated body text.\"\n    },\n    \"154\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is an independent news story with its own byline and dedicated body text.\"\n    },\n    \"166\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is the primary independent news story on the page, featuring its own bylines and body text.\"\n    },\n    \"172\": {\n      \"role\": \"headline\",\n      \"reason\": \"This is an independent news story with its own byline and dedicated body text.\"\n    }\n  }\n}"
+}

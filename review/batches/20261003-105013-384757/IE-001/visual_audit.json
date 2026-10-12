@@ -1,0 +1,16 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "Article A3 is mixed with A4 headline"
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  }
+]

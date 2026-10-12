@@ -1,0 +1,34 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-2",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 16931,
+    "candidatesTokenCount": 1317,
+    "totalTokenCount": 23802,
+    "cachedContentTokenCount": 12057,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 14747
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2184
+      }
+    ],
+    "cacheTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 10502
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1555
+      }
+    ],
+    "thoughtsTokenCount": 5554,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"assignments\": [\n    {\n      \"component_id\": 50,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 51,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 52,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 53,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 54,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 55,\n      \"owner\": \"A8\"\n    },\n    {\n      \"component_id\": 56,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 57,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 58,\n      \"owner\": \"exclude:teaser\"\n    },\n    {\n      \"component_id\": 59,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 60,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 61,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 62,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 63,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 64,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 65,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 66,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 67,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 68,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 69,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 70,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 71,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 72,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 73,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 74,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 75,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 76,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 77,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 78,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 79,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 80,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 81,\n      \"owner\": \"A2\"\n    },\n    {\n      \"component_id\": 82,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 83,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 84,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 85,\n      \"owner\": \"exclude:teaser\"\n    },\n    {\n      \"component_id\": 86,\n      \"owner\": \"A6\"\n    },\n    {\n      \"component_id\": 87,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 88,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 89,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 90,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 91,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 93,\n      \"owner\": \"A2\"\n    },\n    {\n      \"component_id\": 94,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 96,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 97,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 99,\n      \"owner\": \"A1\"\n    },\n    {\n      \"component_id\": 100,\n      \"owner\": \"A2\"\n    },\n    {\n      \"component_id\": 101,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 102,\n      \"owner\": \"A2\"\n    }\n  ]\n}"
+}

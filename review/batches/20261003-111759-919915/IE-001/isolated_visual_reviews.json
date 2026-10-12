@@ -1,0 +1,39 @@
+[
+  {
+    "group": 1,
+    "reviews": [
+      {
+        "ok": false,
+        "issues": [
+          "The body text in the first column is clipped, ending mid-sentence with 'The decision comes as' without any continuation.",
+          "The continuation label is missing for the text block in the first column, despite it being clearly truncated."
+        ]
+      },
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": true,
+        "issues": []
+      }
+    ]
+  },
+  {
+    "group": 3,
+    "reviews": [
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": true,
+        "issues": []
+      }
+    ]
+  }
+]

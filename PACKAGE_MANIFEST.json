@@ -1,0 +1,40 @@
+{
+  "package": "BPSC Telegram Agent",
+  "selection_skill": "select-bpsc-news",
+  "selection_skill_version": "1.0.0",
+  "prepared": "2026-09-24",
+  "tests_passed": 31,
+  "live_service_activated": false,
+  "files": {
+    ".dockerignore": "c8b14fda12dd601590e40fcc3b126e320e0bb6ba6daec3d5088cbd011c035934",
+    ".env.example": "b4ee5f34d53c59081e9a87fbf9f510b443396c2db51a42406dfa9b1937d3953d",
+    ".env.ollama.example": "cca6bcb67dba0fb83d5454a2fcfa5d21d7dd7e4f77e90504961d81b169739113",
+    ".gitignore": "c6129dfb695925ac4d777f3d0d14861910258257537865cd779fcdb35617d1bd",
+    "BPSC_PYQ_Research.md": "e6ebc7346de91159a8976c84b38b4082ecb2e96151f6b47d5ca47307ce226a1f",
+    "Dockerfile": "001dd2db73978131aa5ff4e295bf38d5b5dc84b1dba300d753160bd6b12c21f3",
+    "OLLAMA_SETUP.md": "7421765b9844ee884521ea2b8aced693a739e4304c5890080c352c38f12aa4d9",
+    "README.md": "b65652a76c573a9b06ac53a99d1979781234578fde5a2e49d25627329d4d957a",
+    "VALIDATION.md": "00a9492bcd8dcfb8c441dab3b846a313c6335209d1e16198f3738ceaf6cce06b",
+    "bot.py": "143f9ab2abd782fd9e92516b4285967907227f67aa36b36dae648b191538a8fa",
+    "bpsc_rubric.md": "312f5f13cb4ca0afb155b354733ccb844932b994994753162bc622c7d1faad2a",
+    "compose.yaml": "9b1bcd34b5ddef32c4b62076c861f8b1244f630d8f2c882e05dcfae28c973f82",
+    "core.py": "623d1aadba705fc9a767f5b15ea8a0dbbb5f3cf51bb67501a27caae642dddea5",
+    "news_selection.py": "1aaaca1f02ab90606a9f0a81d57713749e462fa945a55e9fb6d5c88f36317b14",
+    "pdf_flow.py": "18e9aa9f5d82b12826bb946a4d599ebe68b09f48f58e656865b49ec41df0502b",
+    "requirements.txt": "fe2cd48f8e8ed33c630e2315190ca30bcfeef1298af51fcf8d9fa8cc432d3415",
+    "selection_skill/methodology.md": "e2b8bedb0c82adc059f5e9ea3760e0694c518fafa51853b3369228fc857f9bb9",
+    "selection_skill/question_evidence.json": "1b3c16590ce4ee723dfa1fd987e55a4e3d6bfbc01f43041b1ace85698f35917a",
+    "selection_skill/selection_policy.json": "d0acc79e032df6bed801f8a1814018ff96623f9daf7415f615c71f84db23fc46",
+    "selection_skill/sources.json": "c6da3be191f0eff962883e49028f13cafa002992e6a3da06445d3f72efeab8d8",
+    "tests/test_ollama.py": "36580374143466fb89d7c801ce851e4680ce7b4544f145f5fa85df6142e2b0ac",
+    "tests/test_selection.py": "ae05bd00b4fcb6b7cfbbb622c1a98761f5a1a5f98ef36ac69aa3a5b61ff35577",
+    "tests/test_workflow.py": "1d0556e1854d9012c3e55ad05eb2313aba33a17fb4ec7a2f6823bf304ef2b0c0",
+    "transport.py": "d822eb42c00d3095f982b779d646eb75dff6ceacad5b9f6a6ab8fcd37d848b30"
+  },
+  "providers": [
+    "openai",
+    "ollama"
+  ],
+  "ollama_live_inference_tested": false,
+  "windows_startup_tested": false
+}

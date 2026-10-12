@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-5",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 15340,
+    "candidatesTokenCount": 801,
+    "totalTokenCount": 20815,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 14248
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "thoughtsTokenCount": 4674,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"assignments\": [\n    {\n      \"component_id\": 215,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 216,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 217,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 218,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 219,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 220,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 221,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 222,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 223,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 224,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 225,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 226,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 228,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 229,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 230,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 231,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 232,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 233,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 234,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 235,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 236,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 237,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 238,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 239,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 240,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 241,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 242,\n      \"owner\": \"A9\"\n    },\n    {\n      \"component_id\": 243,\n      \"owner\": \"exclude:print_mark\"\n    },\n    {\n      \"component_id\": 244,\n      \"owner\": \"exclude:print_mark\"\n    }\n  ]\n}"
+}

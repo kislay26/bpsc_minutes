@@ -1,0 +1,14 @@
+services:
+  bpsc-agent:
+    build: .
+    env_file: .env
+    restart: unless-stopped
+    volumes:
+      - bpsc-data:/data
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    stop_grace_period: 6m
+volumes:
+  bpsc-data:

@@ -1,0 +1,21 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "Crop A2 contains incorrect content. The 'KEY DECISIONS BY COMMISSION' section belongs to the article in Crop A1, not Crop A2."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Crop A4 is incomplete; it only contains a subheading and is missing the main headline, byline, and body text belonging to the Maharashtra drought story."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Article 'Naga leaders...' (A8) contains a duplicated continuation label.",
+      "Article 'Train to nowhere...' (A9) is clipped; the final sentences and the continuation label are missing."
+    ]
+  }
+]

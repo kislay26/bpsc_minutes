@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 4516,
+    "candidatesTokenCount": 52,
+    "totalTokenCount": 6086,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 180
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 4336
+      }
+    ],
+    "thoughtsTokenCount": 1518,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"Crop A2 contains incorrect content. The 'KEY DECISIONS BY COMMISSION' section belongs to the article in Crop A1, not Crop A2.\"\n  ]\n}"
+}

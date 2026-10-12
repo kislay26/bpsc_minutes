@@ -1,0 +1,10 @@
+{
+  "accepted": false,
+  "review_type": "source-text and rendered-cut inspection",
+  "issues": [
+    "Block 14 is ECINet election-story continuation text but was repaired to drought article A3. It belongs to A1.",
+    "Block 10 election-story text remained assigned to adjacent election-analysis A2.",
+    "Printer/footer material appears in the bottom article cutting."
+  ],
+  "automated_audit_false_negative": true
+}

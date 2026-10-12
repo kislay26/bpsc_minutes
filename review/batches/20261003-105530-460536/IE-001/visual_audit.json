@@ -1,0 +1,21 @@
+[
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "A1 missing",
+      "A2 missing",
+      "A3 missing",
+      "A4 missing",
+      "A5 missing",
+      "A6 missing"
+    ]
+  }
+]

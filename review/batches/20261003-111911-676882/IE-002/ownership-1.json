@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 15411,
+    "candidatesTokenCount": 381,
+    "totalTokenCount": 18334,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 13227
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2184
+      }
+    ],
+    "thoughtsTokenCount": 2542,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"assignments\": [\n    {\n      \"component_id\": 88,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 98,\n      \"owner\": \"A5\"\n    },\n    {\n      \"component_id\": 101,\n      \"owner\": \"A2\"\n    },\n    {\n      \"component_id\": 125,\n      \"owner\": \"exclude:masthead\"\n    },\n    {\n      \"component_id\": 126,\n      \"owner\": \"exclude:masthead\"\n    },\n    {\n      \"component_id\": 127,\n      \"owner\": \"exclude:masthead\"\n    },\n    {\n      \"component_id\": 128,\n      \"owner\": \"exclude:masthead\"\n    },\n    {\n      \"component_id\": 129,\n      \"owner\": \"exclude:masthead\"\n    },\n    {\n      \"component_id\": 130,\n      \"owner\": \"exclude:masthead\"\n    },\n    {\n      \"component_id\": 131,\n      \"owner\": \"exclude:masthead\"\n    },\n    {\n      \"component_id\": 132,\n      \"owner\": \"exclude:masthead\"\n    },\n    {\n      \"component_id\": 133,\n      \"owner\": \"exclude:masthead\"\n    },\n    {\n      \"component_id\": 134,\n      \"owner\": \"exclude:masthead\"\n    }\n  ]\n}"
+}

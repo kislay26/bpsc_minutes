@@ -1,0 +1,22 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "Article A1 is clipped and missing the final sentence of the body text.",
+      "Article A2 contains content from adjacent articles (A1 and A3) and is not correctly isolated.",
+      "Article A3 is clipped and missing the continuation of the body text."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  }
+]

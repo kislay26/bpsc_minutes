@@ -1,0 +1,18 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "Crop A2: The body text is incorrect and does not belong to the article identified by the headline. The actual article text starting 'Three days ago...' is missing."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Crop A4 is incomplete and fails to capture the main headline, body text, data table, and byline belonging to the 'Maharashtra declares drought in 75% of state amid rainfall deficit' story."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.8-flash",
+  "stage": "inventory-review",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 17627,
+    "candidatesTokenCount": 929,
+    "totalTokenCount": 19965,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 16561
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1066
+      }
+    ],
+    "thoughtsTokenCount": 1409,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"EC switches to damage control mode after facing flak over SIR\",\n    \"Congress urges top court to hold CEC accountable\",\n    \"Jaishankar lashes out at Sharif in UN speech\",\n    \"Maharashtra govt. declares drought in 265 taluks\",\n    \"‘Jharkhand govt. against mines Act to aid coal theft’\",\n    \"Golden double\",\n    \"UPSC candidates challenge ‘ambiguous’ CSE questions\",\n    \"2 Naga civilians killed in Manipur’s Senapati; cowardly act, says CM\",\n    \"Out of sync: Bengaluru AI system mistakes guitar case for pillion rider, issues challan\",\n    \"China, U.S. agree to cut tariff, launch AI dialogue\"\n  ],\n  \"roles\": {\n    \"12\": {\n      \"role\": \"headline\",\n      \"reason\": \"Prominent headline for the bottom-left report on the killing of Naga civilians in Senapati.\"\n    },\n    \"21\": {\n      \"role\": \"headline\",\n      \"reason\": \"Main front-page lead headline covering the Election Commission's Special Intensive Revision.\"\n    },\n    \"27\": {\n      \"role\": \"teaser\",\n      \"reason\": \"Promotional banner teaser in the top section promoting a Magazine feature on page 1.\"\n    },\n    \"28\": {\n      \"role\": \"teaser\",\n      \"reason\": \"Blurb accompanying the Magazine teaser in the top promotional banner.\"\n    },\n    \"29\": {\n      \"role\": \"teaser\",\n      \"reason\": \"Page reference kicker line inside the top Magazine teaser.\"\n    },\n    \"31\": {\n      \"role\": \"teaser\",\n      \"reason\": \"Promotional banner teaser pointing readers to the Western Ghats FAQ on page 12.\"\n    },\n    \"32\": {\n      \"role\": \"teaser\",\n      \"reason\": \"Page pointer element for the FAQ article teaser.\"\n    },\n    \"34\": {\n      \"role\": \"teaser\",\n      \"reason\": \"Promotional banner teaser highlighting a Kremlin profile story appearing on page 13.\"\n    },\n    \"35\": {\n      \"role\": \"teaser\",\n      \"reason\": \"Page pointer element for the Profiles feature teaser.\"\n    },\n    \"37\": {\n      \"role\": \"teaser\",\n      \"reason\": \"Promotional teaser promoting India vs West Indies cricket coverage on page 16.\"\n    },\n    \"38\": {\n      \"role\": \"teaser\",\n      \"reason\": \"Page pointer element for the sports section teaser.\"\n    },\n    \"41\": {\n      \"role\": \"headline\",\n      \"reason\": \"Primary headline for the article on External Affairs Minister S. Jaishankar's UN address.\"\n    },\n    \"48\": {\n      \"role\": \"headline\",\n      \"reason\": \"Headline for a standalone news brief in the 'IN BRIEF' column regarding drought in Maharashtra.\"\n    },\n    \"51\": {\n      \"role\": \"headline\",\n      \"reason\": \"Headline for an independent news brief in the 'IN BRIEF' column reporting on remarks by Annpurna Devi.\"\n    },\n    \"59\": {\n      \"role\": \"headline\",\n      \"reason\": \"Headline for the bottom-center report on an AI camera mistakenly issuing a challan to a guitar case.\"\n    },\n    \"65\": {\n      \"role\": \"headline\",\n      \"reason\": \"Headline for the standalone photo story celebrating Indian kabaddi teams at the Asian Games.\"\n    },\n    \"72\": {\n      \"role\": \"headline\",\n      \"reason\": \"Primary headline for the report on candidates challenging CSE prelims questions.\"\n    },\n    \"76\": {\n      \"role\": \"headline\",\n      \"reason\": \"Headline for the separate sidebar report detailing the Congress party's demand regarding the CEC.\"\n    },\n    \"80\": {\n      \"role\": \"headline\",\n      \"reason\": \"Headline for the international news report in the bottom right column on U.S.-China bilateral talks.\"\n    }\n  }\n}"
+}

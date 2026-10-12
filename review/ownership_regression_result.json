@@ -1,0 +1,15 @@
+{
+  "input": "review\\failed_gemini_ownership.json",
+  "accepted": false,
+  "issues": [
+    "Promotional teaser block 27 appears as an article: ['A1']",
+    "Promotional teaser block 31 appears as an article: ['A2']",
+    "Promotional teaser block 34 appears as an article: ['A3']",
+    "Promotional teaser block 37 appears as an article: ['A4']",
+    "Headline candidate block 76 is absent from inventory: Congress urges top court to hold CEC accountable",
+    "Headline block 76 has mismatched owner A7",
+    "Continuation block 83 owner A13 differs from nearby column 71 owner A10",
+    "Continuation block 84 owner A7 differs from nearby column 40 owner A8"
+  ],
+  "live_api_calls": 0
+}

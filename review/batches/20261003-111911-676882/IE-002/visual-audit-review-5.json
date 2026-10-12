@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-review-5",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 4205,
+    "candidatesTokenCount": 77,
+    "totalTokenCount": 10052,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2184
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 2021
+      }
+    ],
+    "thoughtsTokenCount": 5770,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"The article is incomplete; column 1 is missing the text: 'to sign off on the official identity certificate.'\",\n    \"The article is incomplete; column 2 is missing the text: 'help make a video call. When we did, Shanker cried.'\"\n  ]\n}"
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "A1: Body text is clipped and the continuation label is missing.",
+      "A2: Cutting is mixed with other stories (A6, A7, A8)."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Article A1 is missing.",
+      "Article A2 is missing.",
+      "Article A3 is missing.",
+      "Article A4 is missing.",
+      "Article A5 is missing.",
+      "Article A6 is missing."
+    ]
+  }
+]

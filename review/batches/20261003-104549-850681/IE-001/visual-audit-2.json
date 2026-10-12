@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-2",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 4532,
+    "candidatesTokenCount": 65,
+    "totalTokenCount": 9654,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 4347
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 185
+      }
+    ],
+    "thoughtsTokenCount": 5057,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"Crop A4: The headline 'Marathwada worst-hit, cloud over Rabi season' does not exist on the provided source page, and the article is a misgrouped mix of text from different stories.\"\n  ]\n}"
+}

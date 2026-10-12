@@ -1,0 +1,28 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "A1: Article is mixed with unrelated content 'Rabi crop'",
+      "A2: Article is clipped and the beginning of the body text is missing",
+      "A3: Article is mixed with unrelated content 'Manipur'"
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Missing article cuts for: A1, A2, A3, A7.",
+      "A6 contains mixed content with another story (Manipur)."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Article A1 not provided",
+      "Article A2 not provided",
+      "Article A3 not provided",
+      "Article A4 not provided",
+      "Article A5 not provided",
+      "Article A6 not provided"
+    ]
+  }
+]

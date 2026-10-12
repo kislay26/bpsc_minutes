@@ -1,0 +1,7 @@
+{
+  "stage": "inventory",
+  "issues": [
+    "Headline candidate block 103 is absent from inventory: ",
+    "Headline candidate block 111 is absent from inventory: "
+  ]
+}

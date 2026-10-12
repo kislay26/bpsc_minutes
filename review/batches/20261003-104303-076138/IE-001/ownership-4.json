@@ -1,0 +1,34 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-4",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 16978,
+    "candidatesTokenCount": 863,
+    "totalTokenCount": 23629,
+    "cachedContentTokenCount": 12058,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2184
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 14794
+      }
+    ],
+    "cacheTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 10507
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1551
+      }
+    ],
+    "thoughtsTokenCount": 5788,
+    "serviceTier": "standard"
+  },
+  "content": "{\"assignments\": [{\"component_id\": 159, \"owner\": \"A3\"}, {\"component_id\": 160, \"owner\": \"A3\"}, {\"component_id\": 161, \"owner\": \"A3\"}, {\"component_id\": 162, \"owner\": \"A3\"}, {\"component_id\": 163, \"owner\": \"A3\"}, {\"component_id\": 164, \"owner\": \"A3\"}, {\"component_id\": 165, \"owner\": \"A3\"}, {\"component_id\": 166, \"owner\": \"A3\"}, {\"component_id\": 167, \"owner\": \"A3\"}, {\"component_id\": 168, \"owner\": \"A3\"}, {\"component_id\": 169, \"owner\": \"A3\"}, {\"component_id\": 170, \"owner\": \"A3\"}, {\"component_id\": 171, \"owner\": \"A3\"}, {\"component_id\": 172, \"owner\": \"A3\"}, {\"component_id\": 173, \"owner\": \"A3\"}, {\"component_id\": 174, \"owner\": \"A3\"}, {\"component_id\": 175, \"owner\": \"A3\"}, {\"component_id\": 176, \"owner\": \"A3\"}, {\"component_id\": 177, \"owner\": \"A3\"}, {\"component_id\": 178, \"owner\": \"A3\"}, {\"component_id\": 179, \"owner\": \"A3\"}, {\"component_id\": 180, \"owner\": \"A3\"}, {\"component_id\": 181, \"owner\": \"A3\"}, {\"component_id\": 182, \"owner\": \"A3\"}, {\"component_id\": 183, \"owner\": \"A3\"}, {\"component_id\": 188, \"owner\": \"exclude:masthead\"}, {\"component_id\": 190, \"owner\": \"exclude:teaser\"}, {\"component_id\": 191, \"owner\": \"exclude:teaser\"}, {\"component_id\": 192, \"owner\": \"exclude:teaser\"}, {\"component_id\": 193, \"owner\": \"exclude:masthead\"}, {\"component_id\": 194, \"owner\": \"exclude:masthead\"}, {\"component_id\": 196, \"owner\": \"A6\"}, {\"component_id\": 197, \"owner\": \"A6\"}, {\"component_id\": 198, \"owner\": \"A6\"}, {\"component_id\": 199, \"owner\": \"A6\"}, {\"component_id\": 200, \"owner\": \"A6\"}, {\"component_id\": 201, \"owner\": \"A7\"}, {\"component_id\": 202, \"owner\": \"A7\"}, {\"component_id\": 203, \"owner\": \"A7\"}, {\"component_id\": 204, \"owner\": \"A7\"}, {\"component_id\": 205, \"owner\": \"A9\"}, {\"component_id\": 206, \"owner\": \"A9\"}, {\"component_id\": 207, \"owner\": \"A9\"}, {\"component_id\": 208, \"owner\": \"A9\"}, {\"component_id\": 209, \"owner\": \"A9\"}, {\"component_id\": 210, \"owner\": \"A9\"}, {\"component_id\": 211, \"owner\": \"A9\"}, {\"component_id\": 212, \"owner\": \"A9\"}, {\"component_id\": 213, \"owner\": \"A9\"}, {\"component_id\": 214, \"owner\": \"A9\"}]}"
+}

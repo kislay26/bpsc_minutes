@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-review-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 2826,
+    "candidatesTokenCount": 36,
+    "totalTokenCount": 3213,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 654
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2172
+      }
+    ],
+    "thoughtsTokenCount": 351,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"A1: Article is mixed with unrelated content 'Rabi crop'\"\n  ]\n}"
+}

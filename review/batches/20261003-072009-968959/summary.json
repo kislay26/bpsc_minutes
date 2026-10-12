@@ -1,0 +1,22 @@
+{
+  "status": "review_required",
+  "accuracy_verified": false,
+  "bpsc_selection_tested": false,
+  "pages": [
+    {
+      "paper": "TH",
+      "pdf_page": 1,
+      "source_sha256": "5be565f7d96fadc087bd9e2416ab2026036ad240bde3bbc6bc7b6f719f33bac4",
+      "folder": "TH-001",
+      "status": "structural_checks_passed"
+    },
+    {
+      "paper": "IE",
+      "pdf_page": 1,
+      "source_sha256": "8b144af7b5b7dfb1924f326d9265440449e137fe939dfe9c2dc8d83ded944c89",
+      "folder": "IE-001",
+      "status": "needs_review"
+    }
+  ],
+  "requested_pages": 2
+}

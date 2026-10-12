@@ -1,0 +1,257 @@
+[
+  {
+    "insertId": "1raogjvf1zx56u",
+    "jsonPayload": {
+      "message": "MWLID credential refresh is not enabled, skipping run",
+      "progName": "mwlid_extension",
+      "localTimestamp": "2026-10-10T12:14:24.5016Z"
+    },
+    "resource": {
+      "type": "gce_instance",
+      "labels": {
+        "instance_id": "8334504330063751225",
+        "project_id": "august-cascade-457313-n3",
+        "zone": "us-central1-a"
+      }
+    },
+    "timestamp": "2026-10-10T12:14:24.501762535Z",
+    "severity": "INFO",
+    "labels": {
+      "instance_name": "bpsc-bot"
+    },
+    "logName": "projects/august-cascade-457313-n3/logs/MWLIDExtension",
+    "sourceLocation": {
+      "file": "certrefresh.go",
+      "line": "158",
+      "function": "main.(*Extension).runRefresher"
+    },
+    "receiveTimestamp": "2026-10-10T12:14:29.556482713Z"
+  },
+  {
+    "insertId": "11rdic6f21f7pc",
+    "jsonPayload": {
+      "progName": "mwlid_extension",
+      "message": "MWLID credential refresh is not enabled, skipping run",
+      "localTimestamp": "2026-10-10T12:24:24.5015Z"
+    },
+    "resource": {
+      "type": "gce_instance",
+      "labels": {
+        "instance_id": "8334504330063751225",
+        "project_id": "august-cascade-457313-n3",
+        "zone": "us-central1-a"
+      }
+    },
+    "timestamp": "2026-10-10T12:24:24.501696332Z",
+    "severity": "INFO",
+    "labels": {
+      "instance_name": "bpsc-bot"
+    },
+    "logName": "projects/august-cascade-457313-n3/logs/MWLIDExtension",
+    "sourceLocation": {
+      "file": "certrefresh.go",
+      "line": "158",
+      "function": "main.(*Extension).runRefresher"
+    },
+    "receiveTimestamp": "2026-10-10T12:24:29.559738129Z"
+  },
+  {
+    "insertId": "5uoyrmf1xsh0g",
+    "jsonPayload": {
+      "message": "MWLID credential refresh is not enabled, skipping run",
+      "localTimestamp": "2026-10-10T12:34:24.4953Z",
+      "progName": "mwlid_extension"
+    },
+    "resource": {
+      "type": "gce_instance",
+      "labels": {
+        "project_id": "august-cascade-457313-n3",
+        "instance_id": "8334504330063751225",
+        "zone": "us-central1-a"
+      }
+    },
+    "timestamp": "2026-10-10T12:34:24.495541142Z",
+    "severity": "INFO",
+    "labels": {
+      "instance_name": "bpsc-bot"
+    },
+    "logName": "projects/august-cascade-457313-n3/logs/MWLIDExtension",
+    "sourceLocation": {
+      "file": "certrefresh.go",
+      "line": "158",
+      "function": "main.(*Extension).runRefresher"
+    },
+    "receiveTimestamp": "2026-10-10T12:34:29.558400864Z"
+  },
+  {
+    "insertId": "x1flv2fcp3lit",
+    "jsonPayload": {
+      "progName": "mwlid_extension",
+      "localTimestamp": "2026-10-10T12:44:24.4992Z",
+      "message": "MWLID credential refresh is not enabled, skipping run"
+    },
+    "resource": {
+      "type": "gce_instance",
+      "labels": {
+        "zone": "us-central1-a",
+        "project_id": "august-cascade-457313-n3",
+        "instance_id": "8334504330063751225"
+      }
+    },
+    "timestamp": "2026-10-10T12:44:24.499358796Z",
+    "severity": "INFO",
+    "labels": {
+      "instance_name": "bpsc-bot"
+    },
+    "logName": "projects/august-cascade-457313-n3/logs/MWLIDExtension",
+    "sourceLocation": {
+      "file": "certrefresh.go",
+      "line": "158",
+      "function": "main.(*Extension).runRefresher"
+    },
+    "receiveTimestamp": "2026-10-10T12:44:29.548742009Z"
+  },
+  {
+    "insertId": "e7e7s9f1fzh15",
+    "jsonPayload": {
+      "message": "MWLID credential refresh is not enabled, skipping run",
+      "progName": "mwlid_extension",
+      "localTimestamp": "2026-10-10T12:54:24.5019Z"
+    },
+    "resource": {
+      "type": "gce_instance",
+      "labels": {
+        "instance_id": "8334504330063751225",
+        "project_id": "august-cascade-457313-n3",
+        "zone": "us-central1-a"
+      }
+    },
+    "timestamp": "2026-10-10T12:54:24.502019281Z",
+    "severity": "INFO",
+    "labels": {
+      "instance_name": "bpsc-bot"
+    },
+    "logName": "projects/august-cascade-457313-n3/logs/MWLIDExtension",
+    "sourceLocation": {
+      "file": "certrefresh.go",
+      "line": "158",
+      "function": "main.(*Extension).runRefresher"
+    },
+    "receiveTimestamp": "2026-10-10T12:54:29.549779352Z"
+  },
+  {
+    "insertId": "1kc9njhf1zyeee",
+    "jsonPayload": {
+      "progName": "mwlid_extension",
+      "localTimestamp": "2026-10-10T13:04:24.5028Z",
+      "message": "MWLID credential refresh is not enabled, skipping run"
+    },
+    "resource": {
+      "type": "gce_instance",
+      "labels": {
+        "instance_id": "8334504330063751225",
+        "project_id": "august-cascade-457313-n3",
+        "zone": "us-central1-a"
+      }
+    },
+    "timestamp": "2026-10-10T13:04:24.502988419Z",
+    "severity": "INFO",
+    "labels": {
+      "instance_name": "bpsc-bot"
+    },
+    "logName": "projects/august-cascade-457313-n3/logs/MWLIDExtension",
+    "sourceLocation": {
+      "file": "certrefresh.go",
+      "line": "158",
+      "function": "main.(*Extension).runRefresher"
+    },
+    "receiveTimestamp": "2026-10-10T13:04:29.550314880Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {},
+      "authenticationInfo": {
+        "principalEmail": "kislaykrishna26@gmail.com",
+        "principalSubject": "user:kislaykrishna26@gmail.com",
+        "oauthInfo": {
+          "oauthClientId": "618104708054-9r9s1c4alg36erliucho9t52n32n6dgq.apps.googleusercontent.com"
+        }
+      },
+      "requestMetadata": {
+        "callerIp": "34.142.154.100",
+        "callerSuppliedUserAgent": "google-api-nodejs-client/7.2.0 (gzip),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "cloudresourcemanager.googleapis.com",
+      "methodName": "SearchProjects",
+      "authorizationInfo": [
+        {
+          "resourceAttributes": {},
+          "permissionType": "DATA_READ"
+        }
+      ],
+      "resourceName": "projects/august-cascade-457313-n3",
+      "request": {
+        "@type": "type.googleapis.com/google.cloud.resourcemanager.v3.SearchProjectsRequest",
+        "pageSize": 300
+      }
+    },
+    "insertId": "-ymbgv1e2owiq",
+    "resource": {
+      "type": "project",
+      "labels": {
+        "project_id": "august-cascade-457313-n3"
+      }
+    },
+    "timestamp": "2026-10-10T13:09:17.224737Z",
+    "severity": "INFO",
+    "logName": "projects/august-cascade-457313-n3/logs/cloudaudit.googleapis.com%2Fdata_access",
+    "receiveTimestamp": "2026-10-10T13:09:17.423652993Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {},
+      "authenticationInfo": {
+        "principalEmail": "kislaykrishna26@gmail.com",
+        "principalSubject": "user:kislaykrishna26@gmail.com",
+        "oauthInfo": {
+          "oauthClientId": "618104708054-9r9s1c4alg36erliucho9t52n32n6dgq.apps.googleusercontent.com"
+        }
+      },
+      "requestMetadata": {
+        "callerIp": "34.142.154.100",
+        "callerSuppliedUserAgent": "google-api-nodejs-client/7.2.0 (gzip),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "cloudresourcemanager.googleapis.com",
+      "methodName": "SearchProjects",
+      "authorizationInfo": [
+        {
+          "resourceAttributes": {},
+          "permissionType": "DATA_READ"
+        }
+      ],
+      "resourceName": "projects/august-cascade-457313-n3",
+      "request": {
+        "pageSize": 300,
+        "query": "id:\"august-cascade-457313-n3*\" OR name:\"august-cascade-457313-n3*\"",
+        "@type": "type.googleapis.com/google.cloud.resourcemanager.v3.SearchProjectsRequest"
+      }
+    },
+    "insertId": "a9oy4qe119cg",
+    "resource": {
+      "type": "project",
+      "labels": {
+        "project_id": "august-cascade-457313-n3"
+      }
+    },
+    "timestamp": "2026-10-10T13:09:28.430838Z",
+    "severity": "INFO",
+    "logName": "projects/august-cascade-457313-n3/logs/cloudaudit.googleapis.com%2Fdata_access",
+    "receiveTimestamp": "2026-10-10T13:09:28.790936852Z"
+  }
+]

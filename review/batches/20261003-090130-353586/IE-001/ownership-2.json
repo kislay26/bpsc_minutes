@@ -1,0 +1,22 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-2",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 14389,
+    "candidatesTokenCount": 346,
+    "totalTokenCount": 14735,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 13297
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"50\": \"A8\",\n  \"51\": \"A8\",\n  \"52\": \"A8\",\n  \"53\": \"A8\",\n  \"54\": \"A9\",\n  \"55\": \"A9\",\n  \"56\": \"A9\",\n  \"57\": \"exclude:print_mark\",\n  \"58\": \"A8\",\n  \"59\": \"A3\",\n  \"60\": \"A5\",\n  \"61\": \"A6\",\n  \"62\": \"A7\",\n  \"63\": \"A11\",\n  \"64\": \"A9\",\n  \"65\": \"A9\",\n  \"66\": \"A9\",\n  \"67\": \"A3\",\n  \"68\": \"A3\",\n  \"69\": \"A11\",\n  \"70\": \"exclude:teaser\",\n  \"71\": \"A4\",\n  \"72\": \"A4\",\n  \"73\": \"A4\",\n  \"74\": \"A4\",\n  \"75\": \"A4\",\n  \"76\": \"A4\",\n  \"77\": \"exclude:print_mark\",\n  \"78\": \"A4\",\n  \"79\": \"A4\",\n  \"80\": \"A11\",\n  \"81\": \"A12\",\n  \"82\": \"exclude:teaser\"\n}"
+}

@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-3",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 3907,
+    "candidatesTokenCount": 50,
+    "totalTokenCount": 6652,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 634
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 3273
+      }
+    ],
+    "thoughtsTokenCount": 2695,
+    "serviceTier": "standard"
+  },
+  "content": "{\"ok\": false, \"issues\": [\"Article A1 not provided\", \"Article A2 not provided\", \"Article A3 not provided\", \"Article A4 not provided\", \"Article A5 not provided\", \"Article A6 not provided\"]}"
+}

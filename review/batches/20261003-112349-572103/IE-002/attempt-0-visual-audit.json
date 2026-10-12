@@ -1,0 +1,37 @@
+[
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The headline Manipur is incorrectly positioned in the middle of the cutting rather than at the top of the article.",
+      "Subsequent columns and text blocks of the article appear incorrectly above the headline and first column, resulting in a scrambled reading order."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Article A3 contains text from Article A2 (Manipur) at the top."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The cutting for A6 (Jaishankar at UN) is contaminated at the bottom with paragraphs belonging to story A3 (Train to nowhere), specifically visible in the lower sections containing text about Shanker's train journey and homecoming."
+    ]
+  }
+]

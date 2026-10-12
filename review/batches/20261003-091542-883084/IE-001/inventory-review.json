@@ -1,0 +1,22 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory-review",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 5157,
+    "candidatesTokenCount": 752,
+    "totalTokenCount": 5909,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 4065
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"Disquiet within, all three Election Commissioners meet, take first steps\",\n    \"In 48 hours, a sharp turn: Steps map two ECs’ concerns but key silences remain\",\n    \"Unmapped voters need not attend hearings, ECINet to get a review\",\n    \"Maharashtra declares drought in 75% of state amid rainfall deficit\",\n    \"Marathwada worst-hit, cloud over Rabi season\",\n    \"Havildar from Himachal ends India’s 44-year wait for a medal in marathon\",\n    \"Jaishankar hits back at Pak PM: Serial terror practitioner’s bid for immunity won't stand\",\n    \"Happening today\",\n    \"Naga leaders agree to open key Manipur highway after talks with Centre in Assam\",\n    \"Train to nowhere, Facebook reel and road home: 21-yr search for a Bihar man ends\"\n  ],\n  \"roles\": [\n    {\n      \"block_id\": 49,\n      \"role\": \"headline\",\n      \"reason\": \"Main headline for the lead story regarding Election Commissioners.\"\n    },\n    {\n      \"block_id\": 116,\n      \"role\": \"kicker\",\n      \"reason\": \"Contextual kicker above the main headline.\"\n    },\n    {\n      \"block_id\": 93,\n      \"role\": \"headline\",\n      \"reason\": \"Headline for the second part of the Election Commission coverage.\"\n    },\n    {\n      \"block_id\": 100,\n      \"role\": \"kicker\",\n      \"reason\": \"Section kicker for the Election Commission follow-up.\"\n    },\n    {\n      \"block_id\": 103,\n      \"role\": \"headline\",\n      \"reason\": \"Sub-headline/related story headline for Election Commission coverage.\"\n    },\n    {\n      \"block_id\": 62,\n      \"role\": \"headline\",\n      \"reason\": \"Main headline for the drought report.\"\n    },\n    {\n      \"block_id\": 84,\n      \"role\": \"subheadline\",\n      \"reason\": \"Sub-headline clarifying the local impact of the drought story.\"\n    },\n    {\n      \"block_id\": 64,\n      \"role\": \"headline\",\n      \"reason\": \"Main headline for the marathon runner story.\"\n    },\n    {\n      \"block_id\": 70,\n      \"role\": \"headline\",\n      \"reason\": \"Main headline for the Jaishankar story.\"\n    },\n    {\n      \"block_id\": 111,\n      \"role\": \"headline\",\n      \"reason\": \"Headline for the sidebar news brief.\"\n    },\n    {\n      \"block_id\": 107,\n      \"role\": \"headline\",\n      \"reason\": \"Headline for the Naga leaders story.\"\n    },\n    {\n      \"block_id\": 63,\n      \"role\": \"headline\",\n      \"reason\": \"Main headline for the Bihar man story.\"\n    },\n    {\n      \"block_id\": 110,\n      \"role\": \"kicker\",\n      \"reason\": \"Kicker above the final sub-section of the Bihar story.\"\n    }\n  ]\n}"
+}

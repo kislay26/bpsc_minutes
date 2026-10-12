@@ -1,0 +1,17 @@
+{
+  "stage": "inventory",
+  "issues": [
+    "Promotional teaser block 3 appears as an article: ['A1']",
+    "Promotional teaser block 5 appears as an article: ['A2']",
+    "Promotional teaser block 30 appears as an article: ['A4']",
+    "Promotional teaser block 32 appears as an article: ['A5']",
+    "Promotional teaser block 44 appears as an article: ['A12']",
+    "Promotional teaser block 46 appears as an article: ['A13']",
+    "Promotional teaser block 53 appears as an article: ['A8']",
+    "Promotional teaser block 56 appears as an article: ['A9']",
+    "Promotional teaser block 60 appears as an article: ['A6']",
+    "Promotional teaser block 61 appears as an article: ['A7']",
+    "Promotional teaser block 63 appears as an article: ['A10']",
+    "Promotional teaser block 81 appears as an article: ['A11']"
+  ]
+}

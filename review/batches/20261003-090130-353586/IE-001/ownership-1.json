@@ -1,0 +1,22 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 14447,
+    "candidatesTokenCount": 534,
+    "totalTokenCount": 14981,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 13355
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"0\": \"exclude:advertisement\",\n  \"1\": \"exclude:masthead\",\n  \"2\": \"exclude:masthead\",\n  \"3\": \"A1\",\n  \"4\": \"A2\",\n  \"5\": \"A2\",\n  \"6\": \"exclude:masthead\",\n  \"7\": \"exclude:teaser\",\n  \"8\": \"exclude:teaser\",\n  \"9\": \"A14\",\n  \"10\": \"A14\",\n  \"11\": \"A14\",\n  \"12\": \"A14\",\n  \"13\": \"A14\",\n  \"14\": \"A14\",\n  \"15\": \"A14\",\n  \"16\": \"A14\",\n  \"17\": \"A14\",\n  \"18\": \"A14\",\n  \"19\": \"A14\",\n  \"20\": \"A14\",\n  \"21\": \"A14\",\n  \"22\": \"A11\",\n  \"23\": \"A11\",\n  \"24\": \"A11\",\n  \"25\": \"A11\",\n  \"26\": \"A3\",\n  \"27\": \"A3\",\n  \"28\": \"A3\",\n  \"29\": \"A3\",\n  \"30\": \"A3\",\n  \"31\": \"A3\",\n  \"32\": \"A4\",\n  \"33\": \"A5\",\n  \"34\": \"A5\",\n  \"35\": \"A5\",\n  \"36\": \"exclude:masthead\",\n  \"37\": \"A3\",\n  \"38\": \"A10\",\n  \"39\": \"exclude:advertisement\",\n  \"40\": \"A10\",\n  \"41\": \"A10\",\n  \"42\": \"A10\",\n  \"43\": \"A10\",\n  \"44\": \"A10\",\n  \"45\": \"A10\",\n  \"46\": \"A13\",\n  \"47\": \"A13\",\n  \"48\": \"A13\",\n  \"49\": \"A8\"\n}"
+}

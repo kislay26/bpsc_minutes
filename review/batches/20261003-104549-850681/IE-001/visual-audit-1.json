@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 4566,
+    "candidatesTokenCount": 78,
+    "totalTokenCount": 7679,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 4386
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 180
+      }
+    ],
+    "thoughtsTokenCount": 3035,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"Crop A2 contains mixed content from the adjacent story 'Jaishankar hits back at PM', specifically the fragment 'ASSEMBLY SESSION'.\",\n    \"Crop A3 is missing the 'RAINFALL DEFICIT' table which is an integral part of the article.\"\n  ]\n}"
+}

@@ -1,0 +1,22 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 12673,
+    "candidatesTokenCount": 427,
+    "totalTokenCount": 13100,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1066
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 11607
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "content": "{\"0\": \"exclude:print_mark\", \"1\": \"exclude:masthead\", \"2\": \"exclude:masthead\", \"3\": \"exclude:masthead\", \"4\": \"exclude:masthead\", \"5\": \"exclude:masthead\", \"6\": \"exclude:masthead\", \"7\": \"exclude:masthead\", \"8\": \"A1\", \"9\": \"A1\", \"10\": \"A1\", \"11\": \"A1\", \"12\": \"A1\", \"13\": \"A1\", \"14\": \"A2\", \"15\": \"A2\", \"16\": \"A2\", \"17\": \"A2\", \"18\": \"A2\", \"19\": \"A2\", \"20\": \"A2\", \"21\": \"A2\", \"22\": \"A2\", \"23\": \"A2\", \"24\": \"A2\", \"25\": \"exclude:teaser\", \"26\": \"exclude:teaser\", \"27\": \"exclude:teaser\", \"28\": \"exclude:teaser\", \"29\": \"exclude:teaser\", \"30\": \"exclude:teaser\", \"31\": \"exclude:teaser\", \"32\": \"exclude:teaser\", \"33\": \"exclude:teaser\", \"34\": \"exclude:teaser\", \"35\": \"exclude:teaser\", \"36\": \"exclude:teaser\", \"37\": \"exclude:teaser\", \"38\": \"exclude:teaser\", \"39\": \"A3\", \"40\": \"A3\", \"41\": \"A3\", \"42\": \"A3\", \"43\": \"A3\", \"44\": \"A3\", \"45\": \"exclude:teaser\", \"46\": \"exclude:masthead\", \"47\": \"exclude:masthead\", \"48\": \"A4\", \"49\": \"A4\"}"
+}

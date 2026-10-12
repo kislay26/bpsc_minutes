@@ -1,0 +1,175 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "ownership_model": "gemini-3.1-flash-lite",
+  "audit_model": "gemini-3.1-flash-lite",
+  "layout_mode": "regions",
+  "footer_exclusions": {},
+  "quality_status": "automated_checks_passed",
+  "source_sha256": "5be565f7d96fadc087bd9e2416ab2026036ad240bde3bbc6bc7b6f719f33bac4",
+  "source_page": 2,
+  "native_geometry_checks_passed": true,
+  "accuracy_verified": false,
+  "bpsc_selection_tested": false,
+  "articles": {
+    "A1": "Govt. forms 3 committees for Ramlila, Durga Puja, Chhath",
+    "A2": "MCD to provide auto-tippers in all east, north-east wards",
+    "A3": "SIR deadline extended amid low applications, 93% pending hearings",
+    "A4": "At least 350 names marked ineligible; CEO warns against deletion on ‘ﬂimsy grounds’",
+    "A5": "Police step up park audits; students oppose access restrictions",
+    "A6": "Court defers women wrestlers’ plea over Brij Bhushan acquittal",
+    "A7": "Auto driver killed, another man injured in Sukhdev Vihar mishap; one arrested"
+  },
+  "owners": {
+    "1": "exclude:masthead",
+    "2": "A1",
+    "3": "A1",
+    "6": "A2",
+    "7": "A2",
+    "8": "A4",
+    "9": "A4",
+    "10": "A4",
+    "11": "A4",
+    "12": "A4",
+    "13": "A4",
+    "14": "A4",
+    "15": "A4",
+    "16": "A7",
+    "18": "A7",
+    "19": "A7",
+    "20": "exclude:advertisement",
+    "21": "exclude:advertisement",
+    "22": "exclude:advertisement",
+    "23": "exclude:advertisement",
+    "24": "exclude:advertisement",
+    "25": "exclude:advertisement",
+    "26": "exclude:advertisement",
+    "27": "exclude:advertisement",
+    "28": "exclude:advertisement",
+    "29": "exclude:advertisement",
+    "30": "exclude:advertisement",
+    "31": "exclude:advertisement",
+    "32": "exclude:advertisement",
+    "33": "exclude:advertisement",
+    "34": "exclude:advertisement",
+    "35": "exclude:advertisement",
+    "36": "exclude:advertisement",
+    "37": "exclude:advertisement",
+    "38": "exclude:advertisement",
+    "39": "exclude:advertisement",
+    "40": "exclude:advertisement",
+    "42": "exclude:advertisement",
+    "43": "exclude:advertisement",
+    "44": "exclude:advertisement",
+    "45": "exclude:advertisement",
+    "71": "exclude:advertisement",
+    "72": "exclude:advertisement",
+    "73": "exclude:advertisement",
+    "75": "exclude:advertisement",
+    "77": "exclude:advertisement",
+    "41": "exclude:advertisement",
+    "78": "exclude:advertisement",
+    "46": "A3",
+    "47": "A3",
+    "48": "A3",
+    "49": "A3",
+    "50": "A3",
+    "51": "A3",
+    "52": "A3",
+    "53": "A3",
+    "54": "A3",
+    "55": "A3",
+    "56": "A3",
+    "58": "A6",
+    "59": "A5",
+    "60": "A5",
+    "63": "A5",
+    "65": "A5",
+    "66": "A5",
+    "68": "A5",
+    "61": "A5",
+    "62": "A5",
+    "64": "A5",
+    "67": "A5",
+    "74": "exclude:advertisement",
+    "76": "exclude:advertisement",
+    "0": "exclude:print_mark",
+    "79": "exclude:print_mark",
+    "80": "exclude:print_mark",
+    "81": "exclude:print_mark",
+    "82": "exclude:print_mark",
+    "4": "A1",
+    "5": "exclude:masthead",
+    "17": "A7",
+    "57": "A6",
+    "69": "exclude:print_mark",
+    "70": "exclude:print_mark"
+  },
+  "headline_roles": {
+    "3": "headline",
+    "7": "headline",
+    "12": "headline",
+    "18": "headline",
+    "52": "headline",
+    "55": "subheadline",
+    "58": "headline"
+  },
+  "regions": {
+    "A1": [
+      [
+        28.346799850463867,
+        152.283935546875,
+        220.53680419921875,
+        442.544189453125
+      ]
+    ],
+    "A2": [
+      [
+        28.347698211669922,
+        475.3034973144531,
+        219.38040161132812,
+        662.6497802734375
+      ]
+    ],
+    "A3": [
+      [
+        265.7537841796875,
+        110.6432876586914,
+        607.7047729492188,
+        642.3338623046875
+      ]
+    ],
+    "A4": [
+      [
+        621.8590087890625,
+        108.77468872070312,
+        963.9790649414062,
+        641.7293090820312
+      ]
+    ],
+    "A5": [
+      [
+        265.75799560546875,
+        673.1141967773438,
+        963.8319702148438,
+        882.3258666992188
+      ]
+    ],
+    "A6": [
+      [
+        28.347698211669922,
+        695.3553466796875,
+        220.40931701660156,
+        882.4853515625
+      ]
+    ],
+    "A7": [
+      [
+        806.59765625,
+        914.5784301757812,
+        963.990966796875,
+        1509.9749755859375
+      ]
+    ]
+  },
+  "visual_audit_passed": true
+}

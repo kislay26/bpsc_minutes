@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "stage": "ownership-regions",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 1568,
+    "candidatesTokenCount": 438,
+    "totalTokenCount": 4755,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 476
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "thoughtsTokenCount": 2749,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"zones\": [\n    {\n      \"owner\": \"exclude:masthead\",\n      \"boxes\": [\n        [22.9, 10.1, 977.1, 80.9]\n      ]\n    },\n    {\n      \"owner\": \"A1\",\n      \"boxes\": [\n        [0.5, 80.9, 725.0, 305.0]\n      ]\n    },\n    {\n      \"owner\": \"A2\",\n      \"boxes\": [\n        [753.8, 137.0, 994.4, 509.3]\n      ]\n    },\n    {\n      \"owner\": \"A3\",\n      \"boxes\": [\n        [0.1, 312.6, 248.8, 796.5]\n      ]\n    },\n    {\n      \"owner\": \"A4\",\n      \"boxes\": [\n        [250.0, 345.5, 744.3, 796.5]\n      ]\n    },\n    {\n      \"owner\": \"A5\",\n      \"boxes\": [\n        [754.7, 411.0, 994.4, 796.5]\n      ]\n    },\n    {\n      \"owner\": \"A6\",\n      \"boxes\": [\n        [0.4, 808.6, 994.4, 994.4]\n      ]\n    },\n    {\n      \"owner\": \"exclude:print_mark\",\n      \"boxes\": [\n        [16.1, 992.1, 580.6, 999.0]\n      ]\n    }\n  ]\n}"
+}

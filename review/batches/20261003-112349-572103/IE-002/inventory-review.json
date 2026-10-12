@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "stage": "inventory-review",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 31037,
+    "candidatesTokenCount": 495,
+    "totalTokenCount": 35250,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 29945
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "thoughtsTokenCount": 3718,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"Demolitions follow spate of harassment cases in Samastipur\",\n    \"Manipur\",\n    \"Train to nowhere\",\n    \"Allthree Commissioners meet\",\n    \"Marathon\",\n    \"Jaishankar atUN\",\n    \"Maharashtra drought\",\n    \"In 48 hrs, asharp turn\",\n    \"Rabi crop\"\n  ],\n  \"roles\": {\n    \"108\": {\n      \"role\": \"subheadline\",\n      \"reason\": \"Acts as a section sub-heading within the Maharashtra drought coverage rather than an independent article.\"\n    },\n    \"110\": {\n      \"role\": \"headline\",\n      \"reason\": \"Serves as the main headline for the lead report on Samastipur demolitions.\"\n    },\n    \"114\": {\n      \"role\": \"headline\",\n      \"reason\": \"Serves as the main headline for the Manipur report.\"\n    },\n    \"115\": {\n      \"role\": \"headline\",\n      \"reason\": \"Serves as the main headline for the feature story about Shanker.\"\n    },\n    \"117\": {\n      \"role\": \"headline\",\n      \"reason\": \"Serves as the main headline for the Election Commission report.\"\n    },\n    \"118\": {\n      \"role\": \"headline\",\n      \"reason\": \"Serves as the main headline for the sports report on the marathon.\"\n    },\n    \"119\": {\n      \"role\": \"headline\",\n      \"reason\": \"Serves as the main headline for the report on Jaishankar's UN address.\"\n    },\n    \"120\": {\n      \"role\": \"headline\",\n      \"reason\": \"Serves as the main headline for the report on the Maharashtra drought.\"\n    },\n    \"121\": {\n      \"role\": \"headline\",\n      \"reason\": \"Serves as a secondary headline for the Election Commission coverage.\"\n    },\n    \"123\": {\n      \"role\": \"headline\",\n      \"reason\": \"Serves as the headline for the report on the impact on Rabi crops.\"\n    }\n  }\n}"
+}

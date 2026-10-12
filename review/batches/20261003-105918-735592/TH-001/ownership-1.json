@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 9342,
+    "candidatesTokenCount": 418,
+    "totalTokenCount": 11774,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 7210
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2132
+      }
+    ],
+    "thoughtsTokenCount": 2014,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"assignments\": [\n    {\"component_id\": 0, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 1, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 2, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 3, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 4, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 5, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 6, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 7, \"owner\": \"exclude:advertisement\"},\n    {\"component_id\": 19, \"owner\": \"A1\"},\n    {\"component_id\": 25, \"owner\": \"exclude:teaser\"},\n    {\"component_id\": 30, \"owner\": \"exclude:teaser\"},\n    {\"component_id\": 33, \"owner\": \"exclude:teaser\"},\n    {\"component_id\": 36, \"owner\": \"exclude:teaser\"},\n    {\"component_id\": 45, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 46, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 78, \"owner\": \"A1\"},\n    {\"component_id\": 85, \"owner\": \"exclude:print_mark\"},\n    {\"component_id\": 86, \"owner\": \"exclude:print_mark\"},\n    {\"component_id\": 87, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 88, \"owner\": \"exclude:masthead\"},\n    {\"component_id\": 89, \"owner\": \"exclude:masthead\"}\n  ]\n}"
+}

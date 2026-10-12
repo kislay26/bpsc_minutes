@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 15385,
+    "candidatesTokenCount": 902,
+    "totalTokenCount": 22507,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 14293
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "thoughtsTokenCount": 6220,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"assignments\": [\n    {\"component_id\": 0, \"owner\": \"A1\"},\n    {\"component_id\": 1, \"owner\": \"A1\"},\n    {\"component_id\": 2, \"owner\": \"A9\"},\n    {\"component_id\": 3, \"owner\": \"A1\"},\n    {\"component_id\": 4, \"owner\": \"A8\"},\n    {\"component_id\": 5, \"owner\": \"A9\"},\n    {\"component_id\": 6, \"owner\": \"A1\"},\n    {\"component_id\": 7, \"owner\": \"A5\"},\n    {\"component_id\": 8, \"owner\": \"A5\"},\n    {\"component_id\": 9, \"owner\": \"A3\"},\n    {\"component_id\": 10, \"owner\": \"A1\"},\n    {\"component_id\": 11, \"owner\": \"A9\"},\n    {\"component_id\": 12, \"owner\": \"A1\"},\n    {\"component_id\": 13, \"owner\": \"A9\"},\n    {\"component_id\": 14, \"owner\": \"A1\"},\n    {\"component_id\": 15, \"owner\": \"A3\"},\n    {\"component_id\": 16, \"owner\": \"A1\"},\n    {\"component_id\": 17, \"owner\": \"A5\"},\n    {\"component_id\": 18, \"owner\": \"A9\"},\n    {\"component_id\": 19, \"owner\": \"A9\"},\n    {\"component_id\": 20, \"owner\": \"A9\"},\n    {\"component_id\": 21, \"owner\": \"A6\"},\n    {\"component_id\": 22, \"owner\": \"A9\"},\n    {\"component_id\": 23, \"owner\": \"A9\"},\n    {\"component_id\": 24, \"owner\": \"A6\"},\n    {\"component_id\": 25, \"owner\": \"A6\"},\n    {\"component_id\": 26, \"owner\": \"A9\"},\n    {\"component_id\": 27, \"owner\": \"A8\"},\n    {\"component_id\": 28, \"owner\": \"A1\"},\n    {\"component_id\": 29, \"owner\": \"A9\"},\n    {\"component_id\": 30, \"owner\": \"A6\"},\n    {\"component_id\": 31, \"owner\": \"A3\"},\n    {\"component_id\": 32, \"owner\": \"A9\"},\n    {\"component_id\": 33, \"owner\": \"A5\"},\n    {\"component_id\": 34, \"owner\": \"A9\"},\n    {\"component_id\": 35, \"owner\": \"A5\"},\n    {\"component_id\": 36, \"owner\": \"A7\"},\n    {\"component_id\": 37, \"owner\": \"A1\"},\n    {\"component_id\": 38, \"owner\": \"A9\"},\n    {\"component_id\": 39, \"owner\": \"A5\"},\n    {\"component_id\": 40, \"owner\": \"A1\"},\n    {\"component_id\": 41, \"owner\": \"A6\"},\n    {\"component_id\": 42, \"owner\": \"A3\"},\n    {\"component_id\": 43, \"owner\": \"A9\"},\n    {\"component_id\": 44, \"owner\": \"A6\"},\n    {\"component_id\": 45, \"owner\": \"A5\"},\n    {\"component_id\": 46, \"owner\": \"A3\"},\n    {\"component_id\": 47, \"owner\": \"A9\"},\n    {\"component_id\": 48, \"owner\": \"A9\"},\n    {\"component_id\": 49, \"owner\": \"A1\"}\n  ]\n}"
+}

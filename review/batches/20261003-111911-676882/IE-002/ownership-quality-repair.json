@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "ownership-quality-repair",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 15755,
+    "candidatesTokenCount": 644,
+    "totalTokenCount": 30228,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 14663
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "thoughtsTokenCount": 13829,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"changes\": [\n    {\n      \"component_id\": 0,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 1,\n      \"owner\": \"A2\"\n    },\n    {\n      \"component_id\": 6,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 7,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 27,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 29,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 30,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 44,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 46,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 48,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 49,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 51,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 56,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 60,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 67,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 84,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 96,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 99,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 102,\n      \"owner\": \"A2\"\n    },\n    {\n      \"component_id\": 104,\n      \"owner\": \"A2\"\n    },\n    {\n      \"component_id\": 114,\n      \"owner\": \"A3\"\n    },\n    {\n      \"component_id\": 122,\n      \"owner\": \"exclude:print_mark\"\n    },\n    {\n      \"component_id\": 123,\n      \"owner\": \"A4\"\n    },\n    {\n      \"component_id\": 135,\n      \"owner\": \"exclude:print_mark\"\n    }\n  ]\n}"
+}

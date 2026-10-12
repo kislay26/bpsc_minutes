@@ -1,0 +1,28 @@
+[
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": true,
+    "issues": []
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The cutting contains an extraneous paragraph at the bottom ('accompanied by a photograph of all the three Election Commissioners and mentioned that it “has the approval of the full commission”.') which belongs to the adjacent article ('EC switches to damage control'), not the article intended to be captured."
+    ]
+  },
+  {
+    "ok": true,
+    "issues": []
+  }
+]

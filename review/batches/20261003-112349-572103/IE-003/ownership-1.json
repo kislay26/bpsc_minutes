@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "stage": "ownership-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 175376,
+    "candidatesTokenCount": 69,
+    "totalTokenCount": 178465,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2184
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 173192
+      }
+    ],
+    "thoughtsTokenCount": 3020,
+    "serviceTier": "standard"
+  },
+  "content": "{\"assignments\":[{\"component_id\":95,\"owner\":\"A1\"},{\"component_id\":103,\"owner\":\"exclude:teaser\"},{\"component_id\":111,\"owner\":\"A1\"},{\"component_id\":117,\"owner\":\"A3\"},{\"component_id\":121,\"owner\":\"A2\"}]}"
+}

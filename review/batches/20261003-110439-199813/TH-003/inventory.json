@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 1384,
+    "candidatesTokenCount": 90,
+    "totalTokenCount": 2289,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 318
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1066
+      }
+    ],
+    "thoughtsTokenCount": 815,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"Delhi to enforce PUC checks from Oct. 1, says CM Gupta\",\n    \"M.P.: 4 persons electrocuted while sleeping in temple tent\",\n    \"Six killed in rain havoc in U.P. as Adityanath seeks damage assessment within 24 hours\",\n    \"Rajasthan: BJP wins deputy mayor polls in 3 urban bodies\"\n  ]\n}"
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "ok": false,
+    "issues": [
+      "Article A1 is mixed with unrelated content 'Rabi crop' which belongs to a different article."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The article is incorrectly assembled with the headline placed in the middle of the content rather than at the beginning.",
+      "The cutting is clipped and improperly ordered, starting with text from the end of the original article instead of the beginning."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The cutting is contaminated with text from the unrelated article 'All three Commissioners meet' at the top, specifically the concluding sentence starting with 'had the “unanimous” approval of the full Commission.'",
+      "The cutting is contaminated with text from the unrelated article 'Manipur' at the bottom, including the text 'Kuki-Zo dominated hill districts.' and the subsequent paragraph regarding the UNC blockade."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Contamination: The text fragment 'will be decided separately after the assessment is completed, government officials said.' at the top left of the cutting belongs to a different, preceding article and is not part of the Maharashtra drought article."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The article is incomplete; column 1 is missing the text: 'to sign off on the official identity certificate.'",
+      "The article is incomplete; column 2 is missing the text: 'help make a video call. When we did, Shanker cried.'"
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "The cutting contains content from an unrelated article titled 'Manipur', which is contamination and should not be included in the assigned 'A6: Jaishankar at UN' cutting."
+    ]
+  },
+  {
+    "ok": false,
+    "issues": [
+      "Article is missing the introductory paragraphs, starting instead with the middle-text fragment 'remained up and down'.",
+      "Article segments are assembled in an incorrect, non-chronological reading order throughout the columns."
+    ]
+  }
+]

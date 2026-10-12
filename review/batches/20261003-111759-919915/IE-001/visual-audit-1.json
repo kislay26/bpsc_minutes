@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-1",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 8600,
+    "candidatesTokenCount": 58,
+    "totalTokenCount": 16156,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 7655
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 945
+      }
+    ],
+    "thoughtsTokenCount": 7498,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"A1: Body text is clipped and the continuation label is missing.\",\n    \"A2: Cutting is mixed with other stories (A6, A7, A8).\"\n  ]\n}"
+}

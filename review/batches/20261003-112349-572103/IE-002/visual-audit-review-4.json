@@ -1,0 +1,34 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "stage": "visual-audit-review-4",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 6567,
+    "candidatesTokenCount": 56,
+    "totalTokenCount": 8961,
+    "cachedContentTokenCount": 3960,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 4368
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2199
+      }
+    ],
+    "cacheTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2634
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1326
+      }
+    ],
+    "thoughtsTokenCount": 2338,
+    "serviceTier": "standard"
+  },
+  "content": "{\"ok\": false, \"issues\": [\"Headline 'Allthree Commissioners meet' is missing a space between 'All' and 'three'.\", \"The bottom of the crop incorrectly includes body text belonging to story A8 ('In 48 hrs, a sharp turn').\"]}"
+}

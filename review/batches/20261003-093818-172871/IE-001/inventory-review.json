@@ -1,0 +1,22 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "inventory-review",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 39183,
+    "candidatesTokenCount": 682,
+    "totalTokenCount": 39865,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 38091
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"titles\": [\n    \"Disquiet within, all three Election Commissioners meet, take first steps\",\n    \"Unmapped voters need not attend hearings, ECINet to get a review\",\n    \"In 48 hours, a sharp turn: Steps map two ECs’ concerns but key silences remain\",\n    \"Maharashtra declares drought in 75% of state amid rainfall deficit\",\n    \"Havildar from Himachal ends India’s 44-year wait for a medal in marathon\",\n    \"Marathwada worst-hit, cloud over Rabi season\",\n    \"Jaishankar hits back at Pak PM: Serial terror practitioner’s bid for immunity won't stand\",\n    \"Happening today\",\n    \"Naga leaders agree to open key Manipur highway after talks with Centre in Assam\",\n    \"Train to nowhere, Facebook reel and road home: 21-yr search for a Bihar man ends\"\n  ],\n  \"roles\": [\n    {\n      \"block_id\": 49,\n      \"role\": \"headline\",\n      \"reason\": \"This is the lead headline for the main story on the page.\"\n    },\n    {\n      \"block_id\": 103,\n      \"role\": \"headline\",\n      \"reason\": \"This serves as a headline for a secondary news brief regarding Election Commission procedures.\"\n    },\n    {\n      \"block_id\": 93,\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for an analysis piece regarding internal Election Commission tensions.\"\n    },\n    {\n      \"block_id\": 62,\n      \"role\": \"headline\",\n      \"reason\": \"This is the primary headline for the report on the drought in Maharashtra.\"\n    },\n    {\n      \"block_id\": 64,\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for the sports news story regarding Sawan Barwal.\"\n    },\n    {\n      \"block_id\": 84,\n      \"role\": \"headline\",\n      \"reason\": \"This is the headline for a secondary report related to the drought situation's impact on farming.\"\n    },\n    {\n      \"block_id\": 70,\n      \"role\": \"headline\",\n      \"reason\": \"This is the main headline for the foreign policy story regarding the UN General Assembly.\"\n    },\n    {\n      \"block_id\": 111,\n      \"role\": \"teaser\",\n      \"reason\": \"This block is a header for a short list of brief news items.\"\n    },\n    {\n      \"block_id\": 107,\n      \"role\": \"headline\",\n      \"reason\": \"This serves as the headline for a distinct news brief about the Manipur highway blockade.\"\n    },\n    {\n      \"block_id\": 63,\n      \"role\": \"headline\",\n      \"reason\": \"This is the main headline for the human interest story at the bottom of the page.\"\n    }\n  ]\n}"
+}

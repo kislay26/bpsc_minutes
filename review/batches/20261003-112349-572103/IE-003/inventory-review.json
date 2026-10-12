@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "stage": "inventory-review",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 192174,
+    "candidatesTokenCount": 233,
+    "totalTokenCount": 194081,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 191082
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1092
+      }
+    ],
+    "thoughtsTokenCount": 1674,
+    "serviceTier": "standard"
+  },
+  "content": "{\"titles\":[\"Delhi SIR deadline revised for fourth time, final electoral roll now on Dec 4\",\"Rain lashes Delhi, temperature drops\",\"YUVRAJ SINGH MANCHANDA MURDER How can a body be cremated along with belongings: Court raps Gurugram Police\",\"'The horses are gone, so is our work': Workers at Delhi Race Club look for daily-wage jobs\",\"Now open, 3rd automated testing station for vehicles\",\"Once a family pastime, Mahjong finds a new table in Delhi's social scene\"],\"roles\":{\"64\":{\"role\":\"headline\",\"reason\":\"It serves as the main headline for the lead article regarding the revision of the electoral roll deadline.\"},\"106\":{\"role\":\"headline\",\"reason\":\"It serves as the main headline for the article reporting on the court pulling up Gurugram Police over a cremation.\"},\"110\":{\"role\":\"headline\",\"reason\":\"It serves as the main headline for the news report on the new automated vehicle testing station.\"},\"131\":{\"role\":\"other\",\"reason\":\"It is a section header for the AQI tracker info box rather than an independent news story headline.\"}}}"
+}

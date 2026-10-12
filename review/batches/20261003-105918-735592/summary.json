@@ -1,0 +1,15 @@
+{
+  "status": "review_required",
+  "accuracy_verified": false,
+  "bpsc_selection_tested": false,
+  "pages": [
+    {
+      "paper": "TH",
+      "pdf_page": 1,
+      "source_sha256": "5be565f7d96fadc087bd9e2416ab2026036ad240bde3bbc6bc7b6f719f33bac4",
+      "folder": "TH-001",
+      "status": "automated_checks_passed"
+    }
+  ],
+  "requested_pages": 1
+}

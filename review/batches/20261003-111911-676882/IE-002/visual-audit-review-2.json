@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "stage": "visual-audit-review-2",
+  "finish_reason": "STOP",
+  "usage": {
+    "promptTokenCount": 5017,
+    "candidatesTokenCount": 69,
+    "totalTokenCount": 6398,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2869
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2148
+      }
+    ],
+    "thoughtsTokenCount": 1312,
+    "serviceTier": "standard"
+  },
+  "content": "{\n  \"ok\": false,\n  \"issues\": [\n    \"The article is incorrectly assembled with the headline placed in the middle of the content rather than at the beginning.\",\n    \"The cutting is clipped and improperly ordered, starting with text from the end of the original article instead of the beginning.\"\n  ]\n}"
+}

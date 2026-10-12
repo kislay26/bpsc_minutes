@@ -1,0 +1,22 @@
+[
+  {
+    "group": 1,
+    "reviews": [
+      {
+        "ok": true,
+        "issues": []
+      },
+      {
+        "ok": false,
+        "issues": [
+          "A2 contains extra text at the bottom belonging to the adjacent article 'EC switches to damage control mode'",
+          "A2 contains a non-article artifact 'TRIAL | A2' at the top"
+        ]
+      },
+      {
+        "ok": true,
+        "issues": []
+      }
+    ]
+  }
+]
