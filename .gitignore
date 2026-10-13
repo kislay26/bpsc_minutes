@@ -12,3 +12,5 @@ native-pages/
 .model-cache/
 .venv/
 
+.model-cache/
+.venv/
