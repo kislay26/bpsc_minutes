@@ -9,3 +9,6 @@ __pycache__/
 *.pdf
 *.png
 native-pages/
+.model-cache/
+.venv/
+
