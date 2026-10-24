@@ -95,14 +95,24 @@ class SolChat:
         if self.cfg.provider != 'gemini':
             return 'Sol chat needs the Gemini configuration currently used by this deployment. Your newspaper workflow is unaffected.'
         instruction = (
-            'You are Sol, a concise and encouraging BPSC study assistant. Answer in the user’s chosen language. '
-            'The user is preparing for ' + profile['exam_stage'] + '. Give correct, practical exam-oriented explanations. '
-            'Do not claim to have checked today’s web or newspaper sources unless they are supplied. '
-            'For factual claims that may change, say that a verified source check is needed. '
-            'Use short headings and bullets only when they improve clarity.\n\nUser request: ' + question[:1800])
+            f"You are Sol, an elite BPSC (Bihar Public Service Commission) exam mentor and study companion.\n"
+            f"Always reply in the user's chosen language: {profile.get('language', 'English')}.\n"
+            f"The candidate is preparing for BPSC {profile.get('exam_stage', 'Both')}.\n\n"
+            f"FORMATTING & ACADEMIC STANDARDS:\n"
+            f"1. Structure your answer with clear sections:\n"
+            f"   - 📌 <b>Core Concept & Context</b>\n"
+            f"   - 🏛️ <b>BPSC Exam Significance</b> (Specify GS Paper 1, GS Paper 2, or Prelims facts)\n"
+            f"   - 🎯 <b>Key Takeaways / Provisions / Data</b> (Bullet points with exact provisions, numbers, or Bihar connection)\n"
+            f"2. Use clean HTML formatting (<b>bold</b>, <i>italic</i>, <code>tags</code>, and bullet points •). Do not use raw markdown asterisks.\n"
+            f"3. ALWAYS conclude with an interactive section:\n"
+            f"   ──────────────────────────\n"
+            f"   💡 <b>Suggested Follow-Up for Your Preparation:</b>\n"
+            f"   (Provide 1-2 thoughtful, exam-focused follow-up questions, e.g., a 38-mark Mains practice prompt, a related PYQ angle, or a topic deep-dive to test the candidate).\n\n"
+            f"Candidate Question: {question[:1800]}"
+        )
         url = self.cfg.ai_base + '/models/' + quote(self.cfg.model, safe='.-_') + ':generateContent'
         payload = {'contents': [{'role': 'user', 'parts': [{'text': instruction}]}],
-                   'generationConfig': {'maxOutputTokens': 1200, 'temperature': 0.4}}
+                   'generationConfig': {'maxOutputTokens': 2048, 'temperature': 0.3}}
         result = request_json(url, payload, headers={'x-goog-api-key': self.cfg.api_key}, timeout=self.cfg.model_timeout)
         candidate = (result.get('candidates') or [{}])[0]
         text = ''.join(part.get('text', '') for part in candidate.get('content', {}).get('parts', []) if not part.get('thought')).strip()

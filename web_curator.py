@@ -1,12 +1,13 @@
-"""BPSC Web & Newspaper Current Affairs Curator.
+"""BPSC Category-Wise Current Affairs Curator.
 
-Fetches the latest articles from:
-- The Indian Express (Explained, India, Editorials)
-- The Hindu (National, Editorials, Business)
-- State Civils (statecivils.com) & Bihar-focused current affairs
+Sources:
+- The Indian Express (Explained, National, Editorials, Economy)
+- The Hindu (National, Editorial, Business)
+- State Civils (statecivils.com) & Bihar-focused portals
+- PIB (Press Information Bureau) & Government policy releases
 
-Curates 8-12 comprehensive BPSC Prelims & Mains stories with
-in-depth summaries, exam takeaways, and clickable source links.
+Curates news grouped into strict BPSC Syllabus Categories with
+in-depth academic summaries, exam pointers, source links, and follow-up prompts.
 """
 from __future__ import annotations
 
@@ -31,15 +32,13 @@ logger = logging.getLogger(__name__)
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
-IE_FEEDS = {
+# Feeds for National & Bihar Current Affairs
+FEEDS = {
     "The Indian Express (Explained)": "https://indianexpress.com/section/explained/feed/",
     "The Indian Express (National)": "https://indianexpress.com/section/india/feed/",
-    "The Indian Express (Editorial)": "https://indianexpress.com/section/opinion/editorials/feed/",
-}
-
-TH_FEEDS = {
+    "The Indian Express (Editorials)": "https://indianexpress.com/section/opinion/editorials/feed/",
     "The Hindu (National)": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "The Hindu (Editorial)": "https://www.thehindu.com/opinion/editorial/feeder/default.rss",
+    "The Hindu (Editorial & Opinion)": "https://www.thehindu.com/opinion/editorial/feeder/default.rss",
     "The Hindu (Business & Economy)": "https://www.thehindu.com/business/feeder/default.rss",
 }
 
@@ -110,7 +109,7 @@ def parse_rss_feed(source_name: str, url: str, max_items: int = 8) -> list[RawAr
                     source=source_name,
                     title=title,
                     link=link,
-                    summary=desc[:350] if desc else "",
+                    summary=desc[:400] if desc else "",
                 ))
     except Exception as exc:
         logger.warning("Failed to fetch RSS from %s (%s): %s", source_name, url, exc)
@@ -128,10 +127,10 @@ def fetch_state_civils(max_items: int = 8) -> list[RawArticle]:
             if link not in seen_links:
                 seen_links.add(link)
                 articles.append(RawArticle(
-                    source="State Civils (Bihar)",
+                    source="State Civils / Bihar Current Affairs",
                     title=title,
                     link=link,
-                    summary="Bihar-focused state news, cabinet decisions, and daily current affairs update.",
+                    summary="Bihar-focused state government initiatives, schemes, and exam current affairs.",
                 ))
                 if len(articles) >= max_items:
                     break
@@ -141,20 +140,10 @@ def fetch_state_civils(max_items: int = 8) -> list[RawArticle]:
 
 
 def collect_daily_feed_candidates() -> list[RawArticle]:
-    """Collects news candidates from The Indian Express, The Hindu, and State Civils."""
     candidates: list[RawArticle] = []
-
-    # Indian Express (Explained, National, Opinion)
-    for name, url in IE_FEEDS.items():
+    for name, url in FEEDS.items():
         candidates.extend(parse_rss_feed(name, url, max_items=8))
-
-    # The Hindu (National, Editorial, Business)
-    for name, url in TH_FEEDS.items():
-        candidates.extend(parse_rss_feed(name, url, max_items=8))
-
-    # State Civils (Bihar)
     candidates.extend(fetch_state_civils(max_items=8))
-
     return candidates
 
 
@@ -163,7 +152,7 @@ def curate_with_gemini(
     api_key: str,
     model: str = "gemini-2.5-flash",
 ) -> list[dict[str, Any]]:
-    """Uses Gemini to filter and format BPSC-relevant news into structured, in-depth summaries."""
+    """Uses Gemini to filter, structure, and categorize BPSC-relevant news."""
     if not articles:
         return []
 
@@ -179,30 +168,29 @@ def curate_with_gemini(
     ]
 
     prompt = f"""
-You are the Chief Academic Current Affairs Editor for the Bihar Public Service Commission (BPSC) Civil Services Examination.
+You are the Chief Academic Current Affairs Editor for BPSC (Bihar Public Service Commission) Examination.
 Review the candidate articles collected today from The Hindu, The Indian Express, and State Civils:
 
 {json.dumps(input_payload, ensure_ascii=False, indent=2)}
 
-SELECTION INSTRUCTIONS:
-1. Select 8 to 12 articles of HIGHEST ACADEMIC AND EXAM VALUE for BPSC candidates (CCE Prelims & Mains).
-2. ENSURE BALANCED COVERAGE ACROSS:
-   - Bihar Affairs: State government schemes, Bihar budget/economic survey, industrial updates, environmental issues (e.g. North Bihar floods/Kosi-Mechi).
-   - Indian Polity & Constitution: Supreme Court judgments, federal relations, parliamentary bills, election reforms.
-   - Economy & Agriculture: Inflation, RBI monetary policy, agricultural trends, trade, employment policies.
-   - Environment, Climate & Biodiversity: Protected areas, disaster management, renewable energy.
-   - Science, Tech & Health: Space (ISRO), AI policy, public healthcare initiatives.
-3. EXCLUDE:
-   - Routine party politics, election rally slogans, political rhetoric, local petty crimes, sports scores, celebrity gossip.
+INSTRUCTIONS:
+1. Select 8 to 12 articles of HIGHEST EXAM VALUE for BPSC Prelims & Mains.
+2. CATEGORIZE EVERY ARTICLE into one of these strict BPSC categories:
+   - "Bihar Special & State Affairs"
+   - "Indian Polity & Governance (GS-2)"
+   - "Economy & Agriculture (GS-2)"
+   - "Environment, Climate & Disaster Management"
+   - "Science, Technology & International Affairs"
 
-FOR EACH SELECTED ARTICLE, PROVIDE A WELL-WRITTEN, HIGH-YIELD ANALYSIS:
-- title: A formal, informative headline (e.g. "Supreme Court Lays Down Norms on Governor's Assent to State Bills")
-- source: e.g. "The Hindu", "The Indian Express (Explained)", "State Civils"
-- syllabus_tag: Exact BPSC Paper link (e.g. "GS-2: Indian Polity & Governance", "GS-2: Bihar Economy", "GS-1: National Events", "Prelims: Environment")
-- exam_type: "Prelims Fact" | "Mains Analytical" | "Both"
-- summary: A comprehensive, 2-3 sentence overview explaining what happened, the context, and key background facts.
-- exam_pointers: An array of 2-3 specific exam-oriented bullet points containing concrete data, constitutional articles, ministry names, or Bihar linkages.
-- link: EXACT original URL provided in the input
+3. FOR EACH ARTICLE, PROVIDE A WELL-WRITTEN, THOROUGH ACADEMIC BRIEF:
+   - title: Clear, professional headline.
+   - category: One of the 5 categories above.
+   - syllabus_tag: Exact paper link (e.g. "BPSC GS-2: Indian Polity", "BPSC GS-2: Bihar Economy", "BPSC Prelims: Environment").
+   - exam_stage: "Prelims Fact" | "Mains Analytical" | "Both".
+   - summary: A comprehensive, 2-3 sentence overview explaining what happened, background context, and key stakeholders.
+   - exam_pointers: Array of 2-3 specific points with exact data, constitutional articles, ministry names, or Bihar linkages.
+   - source: e.g. "The Hindu", "The Indian Express (Explained)", "State Civils".
+   - link: EXACT original link from the input.
 
 Return a JSON array of objects following the exact schema.
 """
@@ -220,14 +208,15 @@ Return a JSON array of objects following the exact schema.
                     "type": "object",
                     "properties": {
                         "title": {"type": "string"},
-                        "source": {"type": "string"},
+                        "category": {"type": "string"},
                         "syllabus_tag": {"type": "string"},
-                        "exam_type": {"type": "string"},
+                        "exam_stage": {"type": "string"},
                         "summary": {"type": "string"},
                         "exam_pointers": {"type": "array", "items": {"type": "string"}},
+                        "source": {"type": "string"},
                         "link": {"type": "string"},
                     },
-                    "required": ["title", "source", "syllabus_tag", "exam_type", "summary", "exam_pointers", "link"],
+                    "required": ["title", "category", "syllabus_tag", "exam_stage", "summary", "exam_pointers", "source", "link"],
                 },
             },
         },
@@ -242,49 +231,96 @@ Return a JSON array of objects following the exact schema.
 
 
 def format_for_telegram(curated_news: list[dict[str, Any]], edition_date: str) -> list[str]:
-    """Formats curated news into beautiful Telegram-ready HTML chunks (<= 3800 chars each)."""
+    """Formats curated news into category-wise Telegram HTML messages with follow-up prompts."""
     if not curated_news:
         return ["⚠️ <i>No high-priority BPSC current affairs found for today.</i>"]
 
-    header = (
-        f"📰 <b>BPSC Daily Current Affairs Radar — {edition_date}</b>\n"
-        f"<i>Curated from The Hindu, Indian Express & State Civils</i>\n\n"
-    )
+    # Group by category
+    categories_order = [
+        ("🌾 BIHAR SPECIAL & STATE AFFAIRS", ["Bihar Special & State Affairs", "Bihar"]),
+        ("⚖️ INDIAN POLITY & GOVERNANCE (GS-2)", ["Indian Polity & Governance (GS-2)", "Polity"]),
+        ("📈 ECONOMY & AGRICULTURE (GS-2)", ["Economy & Agriculture (GS-2)", "Economy"]),
+        ("🌿 ENVIRONMENT, CLIMATE & DISASTER MANAGEMENT", ["Environment, Climate & Disaster Management", "Environment"]),
+        ("🔬 SCIENCE, TECH & INTERNATIONAL AFFAIRS", ["Science, Technology & International Affairs", "Science", "International"]),
+    ]
+
+    grouped: dict[str, list[dict[str, Any]]] = {title: [] for title, _ in categories_order}
+    grouped["🌐 OTHER NOTABLE DEVELOPMENTS"] = []
+
+    for item in curated_news:
+        cat_str = item.get("category", "")
+        placed = False
+        for title, keywords in categories_order:
+            if any(k.lower() in cat_str.lower() for k in keywords):
+                grouped[title].append(item)
+                placed = True
+                break
+        if not placed:
+            grouped["🌐 OTHER NOTABLE DEVELOPMENTS"].append(item)
 
     chunks: list[str] = []
+    header = (
+        f"🏛️ <b>BPSC Daily Current Affairs Digest — {edition_date}</b>\n"
+        f"<i>Curated from The Hindu, The Indian Express & State Civils</i>\n\n"
+    )
     current_chunk = header
+    item_counter = 1
 
-    for idx, item in enumerate(curated_news, 1):
-        safe_title = html.escape(item.get("title", ""))
-        safe_tag = html.escape(item.get("syllabus_tag", "General Studies"))
-        safe_type = html.escape(item.get("exam_type", "Prelims & Mains"))
-        safe_summary = html.escape(item.get("summary", ""))
-        safe_source = html.escape(item.get("source", "Source"))
-        safe_link = html.escape(item.get("link", "#"))
+    for category_title, items in grouped.items():
+        if not items:
+            continue
 
-        block = f"🔹 <b>{idx}. {safe_title}</b>\n"
-        block += f"📌 <b>Tag:</b> <code>{safe_tag}</code> | <i>{safe_type}</i>\n\n"
-        block += f"📖 <b>Overview:</b>\n{safe_summary}\n\n"
-        block += f"🎯 <b>BPSC Exam Pointers:</b>\n"
-        for pt in item.get("exam_pointers", []):
-            block += f"• {html.escape(pt)}\n"
-        block += f"🔗 <b>Full Article:</b> <a href=\"{safe_link}\">Read on {safe_source} ↗</a>\n\n"
-        block += "──────────────────────────\n\n"
-
-        if len(current_chunk) + len(block) > 3600:
+        cat_header = f"━━━━━━━━━━━━━━━━━━━━\n<b>{category_title}</b>\n━━━━━━━━━━━━━━━━━━━━\n\n"
+        if len(current_chunk) + len(cat_header) > 3600:
             chunks.append(current_chunk.strip())
-            current_chunk = block
+            current_chunk = cat_header
         else:
-            current_chunk += block
+            current_chunk += cat_header
 
-    if current_chunk.strip():
+        for item in items:
+            safe_title = html.escape(item.get("title", ""))
+            safe_tag = html.escape(item.get("syllabus_tag", "General Studies"))
+            safe_stage = html.escape(item.get("exam_stage", "Prelims & Mains"))
+            safe_summary = html.escape(item.get("summary", ""))
+            safe_source = html.escape(item.get("source", "Source"))
+            safe_link = html.escape(item.get("link", "#"))
+
+            block = f"🔹 <b>{item_counter}. {safe_title}</b>\n"
+            block += f"📌 <b>Syllabus:</b> <code>{safe_tag}</code> | <i>{safe_stage}</i>\n\n"
+            block += f"📖 <b>Overview:</b>\n{safe_summary}\n\n"
+            block += f"🎯 <b>BPSC Exam Pointers:</b>\n"
+            for pt in item.get("exam_pointers", []):
+                block += f"• {html.escape(pt)}\n"
+            block += f"🔗 <b>Full Source:</b> <a href=\"{safe_link}\">Read on {safe_source} ↗</a>\n\n"
+
+            item_counter += 1
+
+            if len(current_chunk) + len(block) > 3600:
+                chunks.append(current_chunk.strip())
+                current_chunk = block
+            else:
+                current_chunk += block
+
+    # Follow-up interactive questions for the candidate
+    follow_up = (
+        "💡 <b>Follow-Up Study Options:</b>\n"
+        "• Send <b>Practice 5</b> to solve 5 BPSC MCQs on today's topics.\n"
+        "• Ask <b>\"Mains Question on [Topic]\"</b> for a 38-mark answer writing prompt.\n"
+        "• Ask any conceptual question to learn more!\n"
+    )
+
+    if len(current_chunk) + len(follow_up) > 3600:
+        chunks.append(current_chunk.strip())
+        chunks.append(follow_up)
+    else:
+        current_chunk += follow_up
         chunks.append(current_chunk.strip())
 
     return chunks
 
 
 def get_daily_brief(cfg: Config, target_date: str | None = None, force: bool = False) -> list[str]:
-    """Retrieves or builds the daily brief. Caches output in data/briefs/YYYY-MM-DD.json."""
+    """Retrieves or builds the category-wise daily brief."""
     day = target_date or date.today().isoformat()
     cache_dir = cfg.root / "briefs"
     cache_dir.mkdir(parents=True, exist_ok=True)
@@ -297,12 +333,10 @@ def get_daily_brief(cfg: Config, target_date: str | None = None, force: bool = F
         except Exception:
             pass
 
-    # Fetch live feeds from Indian Express, The Hindu, and State Civils
     candidates = collect_daily_feed_candidates()
     if not candidates:
         return [f"⚠️ <i>Could not retrieve live news feeds right now. Check internet connectivity.</i>"]
 
-    # Curate with Gemini
     model = cfg.model if cfg.provider == "gemini" else "gemini-2.5-flash"
     api_key = cfg.api_key or os.getenv("GEMINI_API_KEY", "")
 
