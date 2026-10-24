@@ -197,7 +197,7 @@ def parse_run_command(post: dict, channel: int):
     if post.get('chat', {}).get('id') != channel:
         return None
     text = post.get('text', '')
-    match = re.fullmatch(r'\s*(?:#RUN|/run(?:@\w+)?|RUN)(?:\s+(20\d{2}-\d{2}-\d{2}))?\s*', text,
+    match = re.fullmatch(r'\s*(?:#RUN|/run(?:@\w+)?|RUN|GO|/GO|#GO|START|/START|PROCESS)(?:\s+(20\d{2}-\d{2}-\d{2}))?\s*', text,
                          flags=re.IGNORECASE)
     if not match:
         return None

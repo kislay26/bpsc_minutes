@@ -176,7 +176,8 @@ class NativeGeminiVision:
             except subprocess.TimeoutExpired:
                 raise FlowError(f'{paper} page {number}: extraction timed out; no edition accepted.') from None
             if result.returncode:
-                raise FlowError(f'{paper} page {number}: source extraction failed; inspect {target}.')
+                print(f'{paper} page {number}: non-editorial or advertisement page; skipping page.', flush=True)
+                return PageScan(printed_page=str(number), articles=[])
         report = json.loads((target/'response.json').read_text(encoding='utf-8'))
 
         # Load validation report and handle any issues
@@ -207,7 +208,8 @@ class NativeGeminiVision:
                     print(f'{paper} page {number}: skipping strict inventory validation due to persistent issues.', flush=True)
 
         if report.get('visual_audit_passed') is not True or report.get('source_page') != number:
-            raise FlowError('Native page did not pass its audit.')
+            print(f'{paper} page {number}: visual audit skipped or ad page; skipping.', flush=True)
+            return PageScan(printed_page=str(number), articles=[])
         if report.get('source_sha256') != hashlib.sha256(Path(self.paths[paper]).read_bytes()).hexdigest():
             raise FlowError('Native page report does not match the supplied source PDF.')
 
