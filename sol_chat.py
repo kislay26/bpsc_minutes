@@ -7,6 +7,7 @@ from urllib.parse import quote
 
 from core import Config, FlowError, Store
 from transport import request_json
+from web_curator import get_daily_brief
 
 HOME = {'keyboard': [['Today', 'Ask Sol'], ['Practice 5', 'My Plan']],
         'resize_keyboard': True, 'is_persistent': True}
@@ -47,12 +48,18 @@ class SolChat:
             return Reply(chat_id, f"Done. I will help with {profile['exam_stage']} in {profile['language']}. What would you like to do?", HOME)
         if lower in ('ask sol', 'ask', '/ask'):
             return Reply(chat_id, 'Ask me anything about BPSC, a current-affairs topic, or a concept. For example: “Explain the Bihar budget in simple terms.”', HOME)
-        if lower in ('today', '/today'):
+        if lower in ('today', '/today', 'brief', '/brief'):
+            try:
+                chunks = get_daily_brief(self.cfg)
+                if chunks:
+                    return Reply(chat_id, chunks[0], HOME)
+            except Exception as exc:
+                pass
             jobs = self.store.status()
             latest = jobs[0] if jobs else None
             if latest:
                 return Reply(chat_id, f"Your latest saved newspaper edition is {latest['edition']} ({latest['status']}). Ask me a question, or choose Practice 5.", HOME)
-            return Reply(chat_id, 'No newspaper edition has been processed yet. You can still ask a BPSC question or start Practice 5.', HOME)
+            return Reply(chat_id, 'No live briefing could be retrieved right now. You can still ask a BPSC question or start Practice 5.', HOME)
         if lower in ('practice 5', 'practice', '/practice'):
             prompt = 'Create exactly five BPSC-style practice MCQs. Give four options, then an answer key with one-sentence explanations.'
             return Reply(chat_id, self._answer(profile, prompt), HOME)

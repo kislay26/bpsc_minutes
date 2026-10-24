@@ -11,6 +11,6 @@ __pycache__/
 native-pages/
 .model-cache/
 .venv/
+august-cascade-*.json
+*-*.json
 
-.model-cache/
-.venv/

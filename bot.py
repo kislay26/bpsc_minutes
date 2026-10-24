@@ -175,6 +175,8 @@ def main():
     local.add_argument('--date', required=True)
     local.add_argument('--th', required=True)
     local.add_argument('--ie', required=True)
+    sub.add_parser('brief', help='Fetch and print curated BPSC news brief with clickable links')
+    sub.add_parser('post-brief', help='Fetch and broadcast curated BPSC news brief to the Telegram channel')
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
     cfg = Config.from_env()
@@ -207,6 +209,20 @@ def main():
         date.fromisoformat(args.date)
         output, count = process_edition(cfg, args.date, {'TH': args.th, 'IE': args.ie})
         print(f'{output}\n{count} articles')
+    elif args.command == 'brief':
+        from web_curator import get_daily_brief
+        chunks = get_daily_brief(cfg)
+        for chunk in chunks:
+            print(chunk)
+            print('\n' + '='*50 + '\n')
+    elif args.command == 'post-brief':
+        cfg.require(ai=False)
+        from web_curator import get_daily_brief
+        telegram = Telegram(cfg.token)
+        chunks = get_daily_brief(cfg)
+        for chunk in chunks:
+            telegram.message(cfg.channel, chunk)
+        print('Posted daily brief to channel.')
 
 
 if __name__ == '__main__':

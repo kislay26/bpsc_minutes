@@ -406,8 +406,8 @@ def validate_plan(plan, candidates):
 def process_edition(cfg: Config, edition: str, paths: dict, *, vision=None):
     folder = cfg.root / edition
     folder.mkdir(parents=True, exist_ok=True)
-native_pages_dir = folder / 'native-pages'
-native_pages_dir.mkdir(parents=True, exist_ok=True)
+    native_pages_dir = folder / 'native-pages'
+    native_pages_dir.mkdir(parents=True, exist_ok=True)
     if vision is None and cfg.provider == 'gemini':
         from gemini_native import NativeGeminiVision
         ai = NativeGeminiVision(cfg, folder, paths)
