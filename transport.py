@@ -57,11 +57,19 @@ class Telegram:
             raise FlowError('This bot already has a webhook. Use a dedicated bot, or deliberately remove its old integration first.')
         return {'bot': me['username'], 'channel': chat.get('title'), 'channel_id': chat['id']}
 
-    def message(self, channel, text, reply_markup=None):
+    def message(self, channel, text, reply_markup=None, parse_mode='HTML'):
         payload = {'chat_id': channel, 'text': text[:4000]}
+        if parse_mode:
+            payload['parse_mode'] = parse_mode
         if reply_markup:
             payload['reply_markup'] = reply_markup
-        return self.call('sendMessage', payload)
+        try:
+            return self.call('sendMessage', payload)
+        except FlowError:
+            if parse_mode:
+                payload.pop('parse_mode', None)
+                return self.call('sendMessage', payload)
+            raise
 
     def download(self, file_id, path: Path):
         info = self.call('getFile', {'file_id': file_id})

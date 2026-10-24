@@ -84,7 +84,9 @@ def serve_locked(cfg):
                     try:
                         reply = sol.reply(update)
                         if reply:
-                            telegram.message(reply.chat_id, reply.text, reply.reply_markup)
+                            for idx, part in enumerate(reply.texts):
+                                markup = reply.reply_markup if idx == len(reply.texts) - 1 else None
+                                telegram.message(reply.chat_id, part, markup)
                     except FlowError as exc:
                         LOG.error('Sol chat: %s', exc)
                         chat = (update.get('message') or {}).get('chat') or {}

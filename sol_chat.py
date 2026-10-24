@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import json
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from urllib.parse import quote
 
 from core import Config, FlowError, Store
@@ -19,8 +19,15 @@ LANGUAGES = {'keyboard': [['English', 'Hindi', 'Hinglish']], 'resize_keyboard': 
 @dataclass
 class Reply:
     chat_id: int
-    text: str
+    text: str = ""
     reply_markup: dict | None = None
+    texts: list[str] = field(default_factory=list)
+
+    def __post_init__(self):
+        if not self.texts and self.text:
+            self.texts = [self.text]
+        elif self.texts and not self.text:
+            self.text = self.texts[0]
 
 
 class SolChat:
@@ -50,38 +57,39 @@ class SolChat:
             keyboard = HOME
 
         if not is_channel and lower in ('/start', 'start', 'help', '/help'):
-            return Reply(chat_id, 'Hi, I am Sol. I help you understand current affairs, practise BPSC questions, and plan revision.\n\nAre you preparing for Prelims, Mains, or both?', STAGES)
+            return Reply(chat_id, text='Hi, I am Sol. I help you understand current affairs, practise BPSC questions, and plan revision.\n\nAre you preparing for Prelims, Mains, or both?', reply_markup=STAGES)
         if not is_channel and not profile['exam_stage']:
             if text.title() not in ('Prelims', 'Mains', 'Both'):
-                return Reply(chat_id, 'Choose one option so I can personalise your study help.', STAGES)
+                return Reply(chat_id, text='Choose one option so I can personalise your study help.', reply_markup=STAGES)
             self.store.update_profile(chat_id, exam_stage=text.title())
-            return Reply(chat_id, 'Which language should I use?', LANGUAGES)
+            return Reply(chat_id, text='Which language should I use?', reply_markup=LANGUAGES)
         if not is_channel and not profile['language']:
             if text.title() not in ('English', 'Hindi', 'Hinglish'):
-                return Reply(chat_id, 'Choose English, Hindi, or Hinglish.', LANGUAGES)
+                return Reply(chat_id, text='Choose English, Hindi, or Hinglish.', reply_markup=LANGUAGES)
             profile = self.store.update_profile(chat_id, language=text.title())
-            return Reply(chat_id, f"Done. I will help with {profile['exam_stage']} in {profile['language']}. What would you like to do?", HOME)
+            return Reply(chat_id, text=f"Done. I will help with {profile['exam_stage']} in {profile['language']}. What would you like to do?", reply_markup=HOME)
         if lower in ('ask sol', 'ask', '/ask'):
-            return Reply(chat_id, 'Ask me anything about BPSC, a current-affairs topic, or a concept. For example: “Explain the Bihar budget in simple terms.”', keyboard)
+            return Reply(chat_id, text='Ask me anything about BPSC, a current-affairs topic, or a concept. For example: “Explain the Bihar budget in simple terms.”', reply_markup=keyboard)
         if lower in ('today', '/today', 'brief', '/brief'):
             try:
-                chunks = get_daily_brief(self.cfg)
+                # Force refresh to replace any old cached brief with the new 10-12 article rich format
+                chunks = get_daily_brief(self.cfg, force=True)
                 if chunks:
-                    return Reply(chat_id, chunks[0], keyboard)
+                    return Reply(chat_id, texts=chunks, reply_markup=keyboard)
             except Exception as exc:
                 pass
             jobs = self.store.status()
             latest = jobs[0] if jobs else None
             if latest:
-                return Reply(chat_id, f"Your latest saved newspaper edition is {latest['edition']} ({latest['status']}). Ask me a question, or choose Practice 5.", keyboard)
-            return Reply(chat_id, 'No live briefing could be retrieved right now. You can still ask a BPSC question or start Practice 5.', keyboard)
+                return Reply(chat_id, text=f"Your latest saved newspaper edition is {latest['edition']} ({latest['status']}). Ask me a question, or choose Practice 5.", reply_markup=keyboard)
+            return Reply(chat_id, text='No live briefing could be retrieved right now. You can still ask a BPSC question or start Practice 5.', reply_markup=keyboard)
         if lower in ('practice 5', 'practice', '/practice'):
             prompt = 'Create exactly five BPSC-style practice MCQs. Give four options, then an answer key with one-sentence explanations.'
-            return Reply(chat_id, self._answer(profile, prompt), keyboard)
+            return Reply(chat_id, text=self._answer(profile, prompt), reply_markup=keyboard)
         if lower in ('my plan', 'plan', '/plan'):
             prompt = 'Create a practical one-day BPSC study plan with three focused tasks, revision, and five practice questions. Keep it concise.'
-            return Reply(chat_id, self._answer(profile, prompt), keyboard)
-        return Reply(chat_id, self._answer(profile, text), keyboard)
+            return Reply(chat_id, text=self._answer(profile, prompt), reply_markup=keyboard)
+        return Reply(chat_id, text=self._answer(profile, text), reply_markup=keyboard)
 
     def _answer(self, profile: dict, question: str) -> str:
         if self.cfg.provider != 'gemini':
