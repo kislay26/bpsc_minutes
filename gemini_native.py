@@ -146,9 +146,21 @@ class NativeGeminiVision:
             raise FlowError('Gemini metadata failed schema validation; inspect the cached response.') from None
 
     def scan_page(self, paper, number, page):
+        """Extract and assess a single newspaper page. Returns empty PageScan on any failure."""
         target = self.folder / 'native-pages' / f'{paper}-{number:03d}'
         target.mkdir(parents=True, exist_ok=True)
         print(f'{paper} page {number}: extracting and auditing source regions', flush=True)
+        try:
+            return self._scan_page_impl(paper, number, page, target)
+        except FlowError as exc:
+            print(f'{paper} page {number}: skipping — {exc}', flush=True)
+            return PageScan(printed_page=str(number), articles=[])
+        except Exception as exc:
+            print(f'{paper} page {number}: unexpected error, skipping — {type(exc).__name__}: {exc}', flush=True)
+            return PageScan(printed_page=str(number), articles=[])
+
+    def _scan_page_impl(self, paper, number, page, target):
+        """Internal implementation; called by scan_page which wraps errors."""
         report_path = target / 'response.json'
         blocks_path = target / 'blocks.json'
         source_hash = hashlib.sha256(Path(self.paths[paper]).read_bytes()).hexdigest()
