@@ -96,18 +96,38 @@ class NativeGeminiVision:
         for label, png in images:
             payload['contents'][0]['parts'].extend([{'text': label}, {'inlineData': {
                 'mimeType': 'image/png', 'data': base64.b64encode(png).decode()}}])
-        digest = hashlib.sha256((self.cfg.model+json.dumps(payload, sort_keys=True)).encode()).hexdigest()
-        cached = self.cache / (digest+'.json')
-        if cached.is_file():
-            response = json.loads(cached.read_text(encoding='utf-8'))
-        else:
-            wait = gemini_quota.remaining(self.cache, self.cfg.api_key, self.cfg.model)
+        models_to_try = [self.cfg.model]
+        for alt in ('gemini-2.5-flash', 'gemini-2.0-flash'):
+            if alt not in models_to_try:
+                models_to_try.append(alt)
+
+        response = None
+        last_flow_error = None
+        for current_model in models_to_try:
+            cur_payload = json.loads(json.dumps(payload))
+            if current_model == 'gemini-2.5-flash':
+                cur_payload['generationConfig']['thinkingConfig'] = {'thinkingBudget': 1024}
+            elif current_model in ('gemini-3.1-flash-lite', 'gemini-3.5-flash-lite'):
+                cur_payload['generationConfig']['thinkingConfig'] = {'thinkingLevel': 'high'}
+            elif 'thinkingConfig' in cur_payload['generationConfig']:
+                del cur_payload['generationConfig']['thinkingConfig']
+
+            digest = hashlib.sha256((current_model+json.dumps(cur_payload, sort_keys=True)).encode()).hexdigest()
+            cached = self.cache / (digest+'.json')
+            if cached.is_file():
+                response = json.loads(cached.read_text(encoding='utf-8'))
+                break
+
+            wait = gemini_quota.remaining(self.cache, self.cfg.api_key, current_model)
             if wait:
-                raise FlowError(f'Gemini quota cooldown: retry after {int(wait)+1} seconds. No request sent.')
+                print(f"Model {current_model} on cooldown ({int(wait)}s). Trying fallback...", flush=True)
+                continue
+
             req = urllib.request.Request('https://generativelanguage.googleapis.com/v1beta/models/'
-                                         + self.cfg.model + ':generateContent',
-                data=json.dumps(payload).encode(), headers={'Content-Type': 'application/json',
-                                                            'x-goog-api-key': self.cfg.api_key})
+                                         + current_model + ':generateContent',
+                data=json.dumps(cur_payload).encode(), headers={'Content-Type': 'application/json',
+                                                                'x-goog-api-key': self.cfg.api_key})
+            model_success = False
             for attempt in range(3):
                 if self.calls >= self.cfg.max_calls:
                     raise FlowError('Gemini metadata request limit reached; completed replies are cached.')
@@ -116,6 +136,7 @@ class NativeGeminiVision:
                 try:
                     with urllib.request.urlopen(req, timeout=self.cfg.model_timeout) as reply:
                         response = json.load(reply)
+                    model_success = True
                     break
                 except urllib.error.HTTPError as exc:
                     try:
@@ -123,19 +144,30 @@ class NativeGeminiVision:
                     except ValueError:
                         error = {'message': 'No readable service detail.'}
                     if exc.code in (502, 503, 504) and attempt < 2:
-                        time.sleep(5*(attempt+1))
+                        time.sleep(3*(attempt+1))
                         continue
                     if exc.code == 429:
-                        gemini_quota.remember(self.cache, self.cfg.api_key, self.cfg.model, error)
+                        gemini_quota.remember(self.cache, self.cfg.api_key, current_model, error)
                     message = str(error.get('message', '')).replace(self.cfg.api_key, '[REDACTED]')
                     message = re.sub(r'AIza[\w-]+', '[REDACTED]', message)
-                    raise FlowError(f'Gemini HTTP {exc.code}: {message[:1000]}') from None
+                    last_flow_error = FlowError(f'Gemini HTTP {exc.code}: {message[:1000]}')
+                    if exc.code in (429, 503) or 'high demand' in message.lower():
+                        print(f"Model {current_model} hit {exc.code} ({message[:60]}...). Trying next model...", flush=True)
+                        break
+                    raise last_flow_error from None
                 except (urllib.error.URLError, TimeoutError):
                     if attempt < 2:
-                        time.sleep(5 * (attempt + 1))
+                        time.sleep(3 * (attempt + 1))
                         continue
-                    raise FlowError('Gemini connection failed. Completed work remains cached.') from None
-            cached.write_text(json.dumps(response, ensure_ascii=False), encoding='utf-8')
+                    last_flow_error = FlowError('Gemini connection failed. Completed work remains cached.')
+                    break
+
+            if model_success and response:
+                cached.write_text(json.dumps(response, ensure_ascii=False), encoding='utf-8')
+                break
+
+        if not response:
+            raise last_flow_error or FlowError('All available Gemini models failed or on cooldown.')
         candidate = (response.get('candidates') or [{}])[0]
         if candidate.get('finishReason') != 'STOP':
             raise FlowError('Gemini metadata response incomplete: ' + str(candidate.get('finishReason')))

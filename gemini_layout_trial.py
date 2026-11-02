@@ -176,11 +176,47 @@ def main():
                 payload['generationConfig']['thinkingConfig'] = {'thinkingLevel': level}
             elif request_model in ('gemini-3.1-flash-lite', 'gemini-3.5-flash-lite'):
                 payload['generationConfig']['thinkingConfig'] = {'thinkingLevel': 'high'}
-            digest = hashlib.sha256((request_model + json.dumps(payload, sort_keys=True)).encode()).hexdigest()
-            cached = cache / (digest + '.json')
-            print(stage + (' (cached)' if cached.exists() else ' (one API request)'), flush=True)
-            response = json.loads(cached.read_text(encoding='utf-8')) if cached.exists() else request(
-                base + 'models/' + request_model + ':generateContent', payload)
+            # Define automatic fallback models for high demand (503) or rate limits (429)
+            fallback_models = [request_model]
+            for alt in ('gemini-2.5-flash', 'gemini-2.0-flash'):
+                if alt in models and alt not in fallback_models:
+                    fallback_models.append(alt)
+
+            response = None
+            last_err = None
+            for current_model in fallback_models:
+                cur_payload = json.loads(json.dumps(payload))
+                if current_model == 'gemini-2.5-flash':
+                    cur_payload['generationConfig'].update(temperature=0, thinkingConfig={'thinkingBudget': 1024})
+                elif current_model in ('gemini-3.1-flash-lite', 'gemini-3.5-flash-lite'):
+                    cur_payload['generationConfig']['thinkingConfig'] = {'thinkingLevel': 'high'}
+                elif 'thinkingConfig' in cur_payload['generationConfig']:
+                    del cur_payload['generationConfig']['thinkingConfig']
+
+                digest = hashlib.sha256((current_model + json.dumps(cur_payload, sort_keys=True)).encode()).hexdigest()
+                cached = cache / (digest + '.json')
+                if cached.exists():
+                    print(f"{stage} [{current_model}] (cached)", flush=True)
+                    response = json.loads(cached.read_text(encoding='utf-8'))
+                    request_model = current_model
+                    break
+                
+                print(f"{stage} [{current_model}] (one API request)", flush=True)
+                try:
+                    response = request(base + 'models/' + current_model + ':generateContent', cur_payload)
+                    cached.write_text(json.dumps(response, ensure_ascii=False), encoding='utf-8')
+                    request_model = current_model
+                    break
+                except ValueError as exc:
+                    err_str = str(exc)
+                    if any(code in err_str for code in ('HTTP 503', 'HTTP 429', '503', '429', 'high demand')):
+                        print(f"Model {current_model} busy/unavailable ({err_str[:80]}...). Trying fallback...", flush=True)
+                        last_err = exc
+                        continue
+                    raise
+
+            if response is None:
+                raise last_err or ValueError(f"All model attempts failed for stage {stage}.")
             candidate = (response.get('candidates') or [{}])[0]
             content = ''.join(p.get('text', '') for p in candidate.get('content', {}).get('parts', [])
                               if not p.get('thought'))
