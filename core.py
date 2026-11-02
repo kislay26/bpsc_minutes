@@ -83,7 +83,9 @@ class Config:
                 if self.output_tokens < 1:
                     raise FlowError('GEMINI_MAX_OUTPUT_TOKENS must be positive.')
                 if self.model not in ('gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-3.8-flash',
-                                      'gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash', 'gemini-3.5-flash-lite'):
+                                      'gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash',
+                                      'gemini-3.5-flash-lite', 'gemini-2.0-flash', 'gemini-2.0-flash-lite',
+                                      'gemini-2.5-flash-lite', 'gemini-2.5-flash-preview-05-20'):
                     raise FlowError('Choose a configured Gemini model with a documented free tier.')
             if self.provider == 'ollama':
                 endpoint = urlsplit(self.ai_base)

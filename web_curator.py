@@ -53,9 +53,19 @@ FEEDS = {
     "PIB India (Official Govt Releases)": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     # Environment & Bihar floods
     "Down To Earth (Environment)": "https://www.downtoearth.org.in/rss/latest",
-    # AI & Emerging Technology
+    # ── AI & Emerging Technology (broad coverage) ────────────────────────────
+    # General AI news & analysis
     "TechCrunch AI": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "VentureBeat AI": "https://venturebeat.com/ai/feed/",
+    # LLMs, generative AI, new model releases
+    "The Decoder (LLMs & GenAI)": "https://the-decoder.com/feed/",
+    "Hugging Face Blog": "https://huggingface.co/blog/feed.xml",
+    # AI agents, autonomous systems, AI bots
+    "Import AI (Jack Clark — agents & safety)": "https://importai.substack.com/feed",
+    # Google / OpenAI / Anthropic / industry moves
+    "WIRED AI": "https://www.wired.com/feed/tag/ai/latest/rss",
+    # India-specific AI policy, NITI Aayog, Digital India
+    "Analytics India Magazine": "https://analyticsindiamag.com/feed/",
 }
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -246,7 +256,7 @@ The Hindu (National, International, Editorial, Business, Science & Tech),
 The Indian Express (Explained, National, Editorials, World),
 PIB India (official government press releases),
 Down To Earth (environment & disasters),
-TechCrunch AI, VentureBeat AI (artificial intelligence news),
+TechCrunch AI, VentureBeat AI, The Decoder, Hugging Face Blog, Import AI, WIRED AI, Analytics India Magazine (AI & technology news),
 State Civils (Bihar-focused current affairs portal),
 and Drishti IAS (UPSC/BPSC-oriented analysis).
 
@@ -258,7 +268,7 @@ BPSC EXAM CONTEXT:
 - BPSC also tests: Indian national affairs, bilateral treaties, multilateral organizations (UN, SCO, BRICS, QUAD, G20, SAARC)
 - Science & Tech: ISRO missions, Defence R&D, biotech, digital India, space policy
 - International Affairs: India's foreign policy decisions, India-China/India-Pakistan, global summits
-- AI & Emerging Tech: Government AI policy, NITI Aayog AI initiatives, generative AI regulation, AI in education/healthcare
+- AI & Emerging Tech: LLMs (GPT, Gemini, Claude, Llama, Mistral), Generative AI tools, AI Agents & autonomous bots, new model/chatbot releases, AI regulation (EU AI Act, India AI Policy, NITI Aayog), AI in education/healthcare, ISRO, Defence tech
 
 SELECTION INSTRUCTIONS:
 1. Select 12 to 16 articles of HIGHEST EXAM VALUE for BPSC Prelims & Mains.
@@ -268,7 +278,12 @@ SELECTION INSTRUCTIONS:
    - 2 International Affairs articles (India's foreign relations, multilateral summits, UN bodies)
    - 1 Economy or Agriculture article (RBI, budget, MSP, India-specific economic data)
    - 1 Environment or Disaster Management article
-   - 2 AI & Emerging Technology articles (prioritize India AI policy, ISRO, Defence tech, or global AI regulation that India is involved in)
+   - 2-3 AI & Emerging Technology articles -- MUST include a mix of:
+       * LLMs & Generative AI: new model releases (GPT, Gemini, Claude, Llama, Mistral), benchmark results, multimodal AI
+       * AI Agents & Bots: autonomous agent frameworks, agentic workflows, new AI chatbot/assistant launches
+       * AI Regulation & Policy: EU AI Act, India National AI Strategy, NITI Aayog AI reports, UN AI governance
+       * India AI & Tech: govt AI deployments, AI in agriculture/health/education, ISRO missions, Defence R&D
+       * Big Tech AI: OpenAI, Google DeepMind, Anthropic, Meta AI, Microsoft Copilot -- major announcements only
 3. CATEGORIZE EVERY ARTICLE into ONE of these strict BPSC categories:
    - "Bihar Special & State Affairs"
    - "Indian Polity & Governance (GS-2)"

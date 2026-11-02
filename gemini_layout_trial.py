@@ -85,12 +85,24 @@ def main():
         token = catalog.get('nextPageToken', '')
         if not token:
             break
-    preferred = os.environ.get('GEMINI_MODEL', 'gemini-3.1-flash-lite')
-    if preferred not in ('gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-3.8-flash', 'gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash', 'gemini-3.5-flash-lite'):
+    preferred = os.environ.get('GEMINI_MODEL', 'gemini-2.5-flash')
+    ALLOWED_MODELS = ('gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-3.8-flash',
+                      'gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash',
+                      'gemini-3.5-flash-lite', 'gemini-2.0-flash', 'gemini-2.0-flash-lite',
+                      'gemini-2.5-flash-lite', 'gemini-2.5-flash-preview-05-20')
+    if preferred not in ALLOWED_MODELS:
         raise ValueError('Use a configured trial model with a documented free tier.')
-    model = preferred if preferred in models else None
+    # Prefer configured model; fall back if it is not yet listed by the live API.
+    FALLBACK_PREFERENCE = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-3.5-flash',
+                           'gemini-3.5-flash-lite', 'gemini-2.0-flash-lite']
+    if preferred in models:
+        model = preferred
+    else:
+        model = next((m for m in FALLBACK_PREFERENCE if m in models), None)
     if model is None:
-        raise ValueError('No configured trial model is listed: ' + ', '.join(sorted(models)))
+        raise ValueError('No configured trial model found in API catalog. Available: ' + ', '.join(sorted(models)))
+    if model != preferred:
+        print(f'Configured model {preferred!r} not in API catalog; falling back to {model!r}.', flush=True)
     print('Selected model:', model, flush=True)
     cache = Path(os.environ.get('GEMINI_CACHE_DIR', str(out.parent / 'validated-http-cache')))
     cache.mkdir(parents=True, exist_ok=True)
@@ -139,7 +151,7 @@ def main():
             request_model = os.environ.get('GEMINI_OWNERSHIP_MODEL', model) if stage.startswith('ownership') else model
             if stage.startswith('visual-audit'):
                 request_model = os.environ.get('GEMINI_AUDIT_MODEL', model)
-            if request_model not in ('gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-3.8-flash', 'gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash', 'gemini-3.5-flash-lite') or request_model not in models:
+            if request_model not in ALLOWED_MODELS or request_model not in models:
                 raise ValueError('Ownership model is not an available configured model.')
             payload = {'contents': [{'role': 'user', 'parts': [
                 {'text': prompt}, {'inlineData': {'mimeType': 'image/png', 'data': image}}]}],
