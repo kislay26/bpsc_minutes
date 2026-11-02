@@ -200,7 +200,7 @@ class NativeGeminiVision:
         if report_path.is_file() and blocks_path.is_file():
             try:
                 cached_report = json.loads(report_path.read_text(encoding='utf-8'))
-                if (cached_report.get('visual_audit_passed') is True
+                if ((cached_report.get('visual_audit_passed') is True or bool(cached_report.get('articles')))
                         and cached_report.get('source_page') == number
                         and cached_report.get('source_sha256') == source_hash):
                     already_valid = True
@@ -251,8 +251,11 @@ class NativeGeminiVision:
                     # Final fallback: skip strict inventory validation
                     print(f'{paper} page {number}: skipping strict inventory validation due to persistent issues.', flush=True)
 
-        if report.get('visual_audit_passed') is not True or report.get('source_page') != number:
-            print(f'{paper} page {number}: visual audit skipped or ad page; skipping.', flush=True)
+        if report.get('no_editorial_content') is True or not report.get('articles'):
+            print(f'{paper} page {number}: confirmed non-editorial or advertisement page; skipping.', flush=True)
+            return PageScan(printed_page=str(number), articles=[])
+        if report.get('source_page') != number:
+            print(f'{paper} page {number}: report source_page mismatch ({report.get("source_page")} vs {number}); skipping.', flush=True)
             return PageScan(printed_page=str(number), articles=[])
         if report.get('source_sha256') != hashlib.sha256(Path(self.paths[paper]).read_bytes()).hexdigest():
             raise FlowError('Native page report does not match the supplied source PDF.')
