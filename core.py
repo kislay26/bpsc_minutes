@@ -35,7 +35,7 @@ class Config:
     api_key: str = ''
     model: str = ''
     ai_base: str = 'https://api.openai.com/v1'
-    max_calls: int = 140
+    max_calls: int = 600
     provider: str = 'openai'
     context_tokens: int = 32768
     output_tokens: int = 12000
@@ -57,7 +57,7 @@ class Config:
             ai_base=('https://generativelanguage.googleapis.com/v1beta' if gemini else
                      os.getenv('OLLAMA_BASE_URL' if local else 'OPENAI_BASE_URL',
                      'http://127.0.0.1:11434' if local else 'https://api.openai.com/v1').rstrip('/')),
-            max_calls=int(os.getenv('MAX_MODEL_CALLS_PER_EDITION', '140')),
+            max_calls=int(os.getenv('MAX_MODEL_CALLS_PER_EDITION', '600')),
             provider=provider,
             context_tokens=int(os.getenv('OLLAMA_NUM_CTX', '32768')) if local else 32768,
             output_tokens=int(os.getenv('OLLAMA_NUM_PREDICT', '12000')) if local else int(os.getenv('GEMINI_MAX_OUTPUT_TOKENS', '8192')) if gemini else 12000,
