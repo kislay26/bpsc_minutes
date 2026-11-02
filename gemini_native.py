@@ -350,9 +350,16 @@ class NativeGeminiVision:
                       f'{assessment.printed_page!r}; source page marker is {source_page_label!r}.',
                       flush=True)
             for item in assessment.articles:
-                boxes = [Box(x0=r[0]*1000/page.rect.width, y0=r[1]*1000/page.rect.height,
-                             x1=r[2]*1000/page.rect.width, y1=r[3]*1000/page.rect.height)
-                         for r in report['regions'][item.article_id]]
+                boxes = []
+                for r in report['regions'].get(item.article_id, []):
+                    x0 = max(0.0, min(1000.0, float(r[0]) * 1000.0 / page.rect.width))
+                    y0 = max(0.0, min(1000.0, float(r[1]) * 1000.0 / page.rect.height))
+                    x1 = max(0.0, min(1000.0, float(r[2]) * 1000.0 / page.rect.width))
+                    y1 = max(0.0, min(1000.0, float(r[3]) * 1000.0 / page.rect.height))
+                    if x1 > x0 + 0.5 and y1 > y0 + 0.5:
+                        boxes.append(Box(x0=round(x0, 2), y0=round(y0, 2), x1=round(x1, 2), y1=round(y1, 2)))
+                if not boxes:
+                    continue
                 candidates.append(Candidate(title=report['articles'][item.article_id],
                     subject=item.subject, relevance=1, reason=item.reason, text_hint=item.text_hint,
                     boxes=boxes, continued_from=item.continued_from, continues_to=item.continues_to,

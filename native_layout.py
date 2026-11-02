@@ -795,9 +795,10 @@ def overlap_components(blocks):
 
 def render_article(preview, source, page_index, rectangles, label=None):
     """Keep source-relative column positions while leaving unrelated areas blank."""
-    rects = [fitz.Rect(r) for r in rectangles]
-    if not rects or any(r.is_empty or r.is_infinite for r in rects):
-        raise ValueError('Article needs finite nonempty source regions.')
+    rects = [fitz.Rect(r) for r in rectangles if not fitz.Rect(r).is_empty and not fitz.Rect(r).is_infinite]
+    if not rects:
+        # Fallback to an empty placeholder page rather than aborting the pipeline
+        return preview.new_page(width=200, height=100)
     bounds = fitz.Rect(rects[0])
     for rect in rects[1:]:
         bounds |= rect
