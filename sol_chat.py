@@ -46,9 +46,9 @@ class SolChat:
         is_channel = (chat.get('type') == 'channel') or (chat_id == self.cfg.channel)
         lower = text.lower()
 
-        # In channel, let PDF flow handle newspaper captions (#TH, #IE) and run commands
+        # In channel, let PDF flow handle newspaper captions (#TH, #IE) and run/retry commands
         if is_channel:
-            if re.match(r'^(?:#th\b|#ie\b|run\b|#run\b|/run\b)', lower):
+            if re.match(r'^(?:#th\b|#ie\b|run\b|#run\b|/run\b|retry\b|#retry\b|/retry\b|go\b|#go\b|/go\b|start\b|/start\b|process\b)', lower):
                 return None
             profile = {'exam_stage': 'Both', 'language': 'English'}
             keyboard = None

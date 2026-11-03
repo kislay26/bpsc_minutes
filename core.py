@@ -199,7 +199,7 @@ def parse_run_command(post: dict, channel: int):
     if post.get('chat', {}).get('id') != channel:
         return None
     text = post.get('text', '')
-    match = re.fullmatch(r'\s*(?:#RUN|/run(?:@\w+)?|RUN|GO|/GO|#GO|START|/START|PROCESS)(?:\s+(20\d{2}-\d{2}-\d{2}))?\s*', text,
+    match = re.fullmatch(r'\s*(?:#RUN|/run(?:@\w+)?|RUN|GO|/GO|#GO|START|/START|PROCESS|RETRY|/retry(?:@\w+)?|#RETRY)(?:\s+(20\d{2}-\d{2}-\d{2}))?\s*', text,
                          flags=re.IGNORECASE)
     if not match:
         return None
@@ -267,7 +267,7 @@ class Store:
                 requested_edition = locals().get('requested_edition')
             if requested_edition is not None:
                 if not requested_edition:
-                    pending = db.execute("SELECT edition FROM jobs WHERE status='waiting' ORDER BY edition").fetchall()
+                    pending = db.execute("SELECT edition FROM jobs WHERE status IN ('waiting', 'failed', 'delivery_unknown') ORDER BY edition DESC").fetchall()
                     if len(pending) == 1:
                         requested_edition = pending[0][0]
                     elif not pending:
@@ -284,7 +284,7 @@ class Store:
                 elif not row or not count:
                     db.execute('INSERT INTO notices(text) VALUES(?)',
                                (f'{requested_edition}: no newspaper PDF is saved yet. Upload one first.',))
-                elif row['status'] == 'waiting':
+                elif row['status'] in ('waiting', 'failed', 'delivery_unknown'):
                     db.execute("UPDATE jobs SET status='ready',error='',output='' WHERE edition=?", (requested_edition,))
                     papers = ' and '.join('The Hindu' if item[0] == 'TH' else 'Indian Express'
                                           for item in db.execute('SELECT paper FROM uploads WHERE edition=? ORDER BY paper',
