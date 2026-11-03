@@ -80,8 +80,10 @@ class NativeGeminiVision:
     def ask(self, schema, prompt, images=()):
         if schema is Repair:
             raise FlowError('Edition crop audit failed. Native source geometry requires ownership review; arbitrary model crop coordinates were not accepted.')
+        # Large catalogs (e.g. Plan with 70+ candidates) require higher output token limits
+        token_limit = 65536 if getattr(schema, '__name__', '') == 'Plan' else max(self.cfg.output_tokens, 16384)
         payload = {'contents': [{'role': 'user', 'parts': [{'text': prompt}]}],
-                   'generationConfig': {'maxOutputTokens': self.cfg.output_tokens,
+                   'generationConfig': {'maxOutputTokens': token_limit,
                      'thinkingConfig': {'thinkingLevel': 'high'},
                      'responseMimeType': 'application/json', 'responseJsonSchema': schema.model_json_schema()}}
         if schema is PageAssessment:

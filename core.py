@@ -38,7 +38,7 @@ class Config:
     max_calls: int = 600
     provider: str = 'openai'
     context_tokens: int = 32768
-    output_tokens: int = 12000
+    output_tokens: int = 32768
     model_timeout: int = 240
 
     @classmethod
@@ -60,7 +60,7 @@ class Config:
             max_calls=int(os.getenv('MAX_MODEL_CALLS_PER_EDITION', '600')),
             provider=provider,
             context_tokens=int(os.getenv('OLLAMA_NUM_CTX', '32768')) if local else 32768,
-            output_tokens=int(os.getenv('OLLAMA_NUM_PREDICT', '12000')) if local else int(os.getenv('GEMINI_MAX_OUTPUT_TOKENS', '8192')) if gemini else 12000,
+            output_tokens=int(os.getenv('OLLAMA_NUM_PREDICT', '12000')) if local else int(os.getenv('GEMINI_MAX_OUTPUT_TOKENS', '32768')) if gemini else 12000,
             model_timeout=int(os.getenv('OLLAMA_TIMEOUT_SECONDS', '1200')) if local else 240)
 
     def require(self, *, telegram=True, ai=True):
