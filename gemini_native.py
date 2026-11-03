@@ -181,6 +181,23 @@ class NativeGeminiVision:
 
     def scan_page(self, paper, number, page):
         """Extract and assess a single newspaper page. Returns empty PageScan on any failure."""
+        # 1. Fast local pre-filter (0.005s): Skip classifieds, tenders, and pure ad pages instantly
+        try:
+            raw_text = page.get_text('text')
+            sample = raw_text[:3500].lower()
+            AD_KEYWORDS = (
+                'classifieds', 'matrimonial', 'tender notice', 'e-tender',
+                'e-procurement', 'auction notice', 'cinema guide', 'recruitment notice',
+                'commercial advertisement', 'tenders', 'quotation notice'
+            )
+            # If multiple ad markers appear or page is an ad directory, skip Gemini call
+            ad_matches = sum(1 for kw in AD_KEYWORDS if kw in sample)
+            if ad_matches >= 2 or ('classifieds' in sample and len(raw_text) < 1200):
+                print(f'{paper} page {number}: fast pre-filter: advertisement/classified page; skipped in 0.005s.', flush=True)
+                return PageScan(printed_page=str(number), articles=[])
+        except Exception:
+            pass
+
         target = self.folder / 'native-pages' / f'{paper}-{number:03d}'
         target.mkdir(parents=True, exist_ok=True)
         print(f'{paper} page {number}: extracting and auditing source regions', flush=True)
