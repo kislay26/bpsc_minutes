@@ -85,15 +85,15 @@ def main():
         token = catalog.get('nextPageToken', '')
         if not token:
             break
-    preferred = os.environ.get('GEMINI_MODEL', 'gemini-2.5-flash')
-    ALLOWED_MODELS = ('gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-3.8-flash',
+    preferred = os.environ.get('GEMINI_MODEL', 'gemini-3.8-flash')
+    ALLOWED_MODELS = ('gemini-3.1-flash-lite', 'gemini-3.8-flash', 'gemini-3.8-flash',
                       'gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash',
                       'gemini-3.5-flash-lite', 'gemini-2.0-flash', 'gemini-2.0-flash-lite',
-                      'gemini-2.5-flash-lite', 'gemini-2.5-flash-preview-05-20')
+                      'gemini-3.8-flash-lite', 'gemini-3.8-flash-preview-05-20')
     if preferred not in ALLOWED_MODELS:
         raise ValueError('Use a configured trial model with a documented free tier.')
     # Prefer configured model; fall back if it is not yet listed by the live API.
-    FALLBACK_PREFERENCE = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-3.5-flash',
+    FALLBACK_PREFERENCE = ['gemini-3.8-flash', 'gemini-2.0-flash', 'gemini-3.5-flash',
                            'gemini-3.5-flash-lite', 'gemini-2.0-flash-lite']
     if preferred in models:
         model = preferred
@@ -167,7 +167,7 @@ def main():
                 payload['contents'][0]['parts'].extend([
                     {'text': label}, {'inlineData': {'mimeType': 'image/png',
                                                    'data': base64.b64encode(png).decode()}}])
-            if request_model == 'gemini-2.5-flash':
+            if request_model == 'gemini-3.8-flash':
                 payload['generationConfig'].update(temperature=0, thinkingConfig={'thinkingBudget': 1024})
             elif stage.startswith('ownership') and os.environ.get('GEMINI_OWNERSHIP_THINKING'):
                 level = os.environ['GEMINI_OWNERSHIP_THINKING']
@@ -178,7 +178,7 @@ def main():
                 payload['generationConfig']['thinkingConfig'] = {'thinkingLevel': 'high'}
             # Define automatic fallback models for high demand (503) or rate limits (429)
             fallback_models = [request_model]
-            for alt in ('gemini-2.5-flash', 'gemini-2.0-flash'):
+            for alt in ('gemini-3.8-flash', 'gemini-2.0-flash'):
                 if alt in models and alt not in fallback_models:
                     fallback_models.append(alt)
 
@@ -186,9 +186,7 @@ def main():
             last_err = None
             for current_model in fallback_models:
                 cur_payload = json.loads(json.dumps(payload))
-                if current_model == 'gemini-2.5-flash':
-                    cur_payload['generationConfig'].update(temperature=0, thinkingConfig={'thinkingBudget': 1024})
-                elif current_model in ('gemini-3.1-flash-lite', 'gemini-3.5-flash-lite'):
+                if current_model.startswith('gemini-3.'):
                     cur_payload['generationConfig']['thinkingConfig'] = {'thinkingLevel': 'high'}
                 elif 'thinkingConfig' in cur_payload['generationConfig']:
                     del cur_payload['generationConfig']['thinkingConfig']

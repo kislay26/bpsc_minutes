@@ -232,7 +232,7 @@ def collect_daily_feed_candidates() -> list[RawArticle]:
 def curate_with_gemini(
     articles: list[RawArticle],
     api_key: str,
-    model: str = "gemini-2.5-flash",
+    model: str = "gemini-3.8-flash",
 ) -> list[dict[str, Any]]:
     """Uses Gemini to filter, structure, and categorize BPSC-relevant news."""
     if not articles:
@@ -458,7 +458,7 @@ def get_daily_brief(cfg: Config, target_date: str | None = None, force: bool = F
     if not candidates:
         return ["⚠️ <i>Could not retrieve live news feeds right now. Check internet connectivity.</i>"]
 
-    model = cfg.model if cfg.provider == "gemini" else "gemini-2.5-flash"
+    model = cfg.model if cfg.provider == "gemini" else "gemini-3.8-flash"
     api_key = cfg.api_key or os.getenv("GEMINI_API_KEY", "")
 
     curated = curate_with_gemini(candidates, api_key=api_key, model=model)

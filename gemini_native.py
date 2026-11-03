@@ -93,13 +93,15 @@ class NativeGeminiVision:
                                   ('pyq_ids', list(selector.evidence)),
                                   ('syllabus_links', selector.policy['syllabus_links'])]:
                 evidence_schema[field]['items']['enum'] = values
-        if self.cfg.model == 'gemini-2.5-flash':
-            payload['generationConfig']['thinkingConfig'] = {'thinkingBudget': 1024}
+        if self.cfg.model.startswith('gemini-3.'):
+            payload['generationConfig']['thinkingConfig'] = {'thinkingLevel': 'high'}
+        elif 'thinkingConfig' in payload['generationConfig']:
+            del payload['generationConfig']['thinkingConfig']
         for label, png in images:
             payload['contents'][0]['parts'].extend([{'text': label}, {'inlineData': {
                 'mimeType': 'image/png', 'data': base64.b64encode(png).decode()}}])
         models_to_try = [self.cfg.model]
-        for alt in ('gemini-2.5-flash', 'gemini-2.0-flash'):
+        for alt in ('gemini-3.8-flash', 'gemini-2.0-flash'):
             if alt not in models_to_try:
                 models_to_try.append(alt)
 
@@ -107,9 +109,7 @@ class NativeGeminiVision:
         last_flow_error = None
         for current_model in models_to_try:
             cur_payload = json.loads(json.dumps(payload))
-            if current_model == 'gemini-2.5-flash':
-                cur_payload['generationConfig']['thinkingConfig'] = {'thinkingBudget': 1024}
-            elif current_model in ('gemini-3.1-flash-lite', 'gemini-3.5-flash-lite'):
+            if current_model.startswith('gemini-3.'):
                 cur_payload['generationConfig']['thinkingConfig'] = {'thinkingLevel': 'high'}
             elif 'thinkingConfig' in cur_payload['generationConfig']:
                 del cur_payload['generationConfig']['thinkingConfig']
