@@ -32,7 +32,9 @@ def perform_job(cfg, store, telegram, edition, uploads, processor=process_editio
             if not path.exists():
                 telegram.download(upload['file_id'], path)
             paths[upload['paper']] = path
+        store.notice(f"⏳ {edition}: Newspaper processing started for {', '.join(paths.keys())}. Extracting articles...")
         output, count = processor(cfg, edition, paths)
+        store.notice(f"🎨 {edition}: Compilation complete ({count} articles). Sending PDF to channel...")
         if output.stat().st_size > 50_000_000:
             raise FlowError('The final PDF is over 50 MB and cannot be posted through the hosted Bot API.')
         store.set_status(edition, 'sending', output=output)

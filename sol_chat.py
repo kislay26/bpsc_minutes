@@ -83,6 +83,28 @@ class SolChat:
             if latest:
                 return Reply(chat_id, text=f"Your latest saved newspaper edition is {latest['edition']} ({latest['status']}). Ask me a question, or choose Practice 5.", reply_markup=keyboard)
             return Reply(chat_id, text='No live briefing could be retrieved right now. You can still ask a BPSC question or start Practice 5.', reply_markup=keyboard)
+        if lower in ('/logs', 'logs', '/log', 'log'):
+            try:
+                import subprocess, html
+                out = subprocess.check_output(
+                    ['journalctl', '-u', 'bpsc-bot', '-n', '25', '--no-pager'],
+                    text=True, timeout=5, stderr=subprocess.STDOUT
+                )
+                safe_out = html.escape(out[-3500:]) if out else 'No recent logs recorded.'
+                return Reply(chat_id, text=f"📋 <b>Sol Server Logs (Last 25 lines):</b>\n<pre>{safe_out}</pre>", reply_markup=keyboard)
+            except Exception as e:
+                return Reply(chat_id, text=f"❌ Could not retrieve logs: {e}", reply_markup=keyboard)
+
+        if lower in ('/status', 'status'):
+            jobs = self.store.status()
+            if not jobs:
+                return Reply(chat_id, text="ℹ️ <b>Sol Status:</b>\nIdle. No edition jobs recorded yet.", reply_markup=keyboard)
+            lines = ["📊 <b>Sol Job Queue Status:</b>"]
+            for j in jobs[:6]:
+                err = f"\n   ↳ <i>Error: {j['error']}</i>" if j.get('error') else ""
+                lines.append(f"• <b>{j['edition']}</b>: <code>{j['status']}</code> (attempts: {j.get('attempts', 0)}){err}")
+            return Reply(chat_id, text="\n".join(lines), reply_markup=keyboard)
+
         if lower in ('practice 5', 'practice', '/practice'):
             prompt = 'Create exactly five BPSC-style practice MCQs. Give four options, then an answer key with one-sentence explanations.'
             return Reply(chat_id, text=self._answer(profile, prompt), reply_markup=keyboard)
