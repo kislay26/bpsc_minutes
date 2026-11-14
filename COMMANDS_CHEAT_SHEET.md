@@ -6,8 +6,12 @@ This guide contains all the direct commands to manage, inspect, and debug the So
 
 ## 1. Connecting to the VM
 
-Always open **Google Cloud Shell** in your browser, then run:
+### Direct Browser Links
+- **[Direct Browser SSH to VM `bpsc-bot`](https://ssh.cloud.google.com/v2/ssh?project=august-cascade-457313-n3&zone=us-central1-a&instance=bpsc-bot)** *(One-click SSH terminal in your browser)*
+- **[Google Cloud Shell (Direct Link)](https://shell.cloud.google.com/?project=august-cascade-457313-n3)** *(GCP project: `august-cascade-457313-n3`)*
+- **[Compute Engine Console](https://console.cloud.google.com/compute/instances?project=august-cascade-457313-n3)**
 
+### From Cloud Shell Terminal:
 ```bash
 gcloud compute ssh bpsc-bot --zone=us-central1-a
 ```
@@ -89,3 +93,4 @@ Every page extracted is cached locally on the VM at:
 ls -lh ~/bpsc/data/
 ls -lh ~/bpsc/data/2026-10-24/
 ```
+

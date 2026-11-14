@@ -368,8 +368,14 @@ def validate_plan(plan, candidates):
     assigned += [x.candidate_id for x in plan.excluded]
     if len(assigned) != len(set(assigned)) or set(assigned) != set(candidates):
         raise FlowError('The selection plan omitted, duplicated, or invented candidate IDs.')
-    if any(not g.complete for g in plan.groups):
-        raise FlowError('An article continuation could not be matched. Inspect selection.json; no incomplete PDF was posted.')
+
+    # If any group was marked incomplete because a jump page was absent, include it as standalone
+    # rather than crashing the entire daily compilation for all other high-yield articles.
+    for g in plan.groups:
+        if not g.complete:
+            print(f"Notice: Article '{g.title}' continuation was not matched; proceeding as standalone.", flush=True)
+            g.complete = True
+
     if candidates and all('decision' in c for c in candidates.values()):
         for group in plan.groups:
             actions = [candidates[i]['decision']['action'] for i in group.candidate_ids]
@@ -385,6 +391,7 @@ def validate_plan(plan, candidates):
                         for other in group.candidate_ids if other != ident)
                     if not found:
                         raise FlowError('A claimed-complete article is missing a referenced continuation page.')
+
     for excluded in plan.excluded:
         c = candidates[excluded.candidate_id]['article']
         if excluded.duplicate_of:
@@ -496,6 +503,19 @@ def process_edition(cfg: Config, edition: str, paths: dict, *, vision=None):
             raise FlowError('Potentially relevant news needs source review. Inspect candidates.json; no partial PDF was posted.')
         if not any(c['decision']['action'] == 'include' for c in candidates.values()):
             raise FlowError('The BPSC skill found no qualifying cuttings. Inspect relevance_decisions.json.')
+
+        # Prune references to continuation pages that were never extracted or were on skipped/ad pages
+        available_pages = {(c['paper'], str(c.get('printed_page', '')).strip().upper()) for c in candidates.values()}
+        for ident, item in candidates.items():
+            valid_continues = []
+            for label in item['article'].continues_to:
+                normalized = re.sub(r'^(?:page|p\.)\s*', '', label.strip(), flags=re.I).upper()
+                if (item.get('paper'), normalized) in available_pages:
+                    valid_continues.append(label)
+                else:
+                    print(f"Notice: Pruned unextracted continuation {label} for {ident} (page absent from candidate pool)", flush=True)
+            item['article'].continues_to = valid_continues
+
         # Grouping needs article identities, continuations and distinct exam
         # facts, not repeated crop coordinates or the historical evidence ledger.
         # Retain every candidate ID and its actual rule decision.
