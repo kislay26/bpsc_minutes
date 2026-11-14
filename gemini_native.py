@@ -159,7 +159,7 @@ class NativeGeminiVision:
                     raise last_flow_error from None
                 except (urllib.error.URLError, TimeoutError):
                     if attempt < 2:
-                        time.sleep(3 * (attempt + 1))
+                        time.sleep(5)
                         continue
                     last_flow_error = FlowError('Gemini connection failed. Completed work remains cached.')
                     break

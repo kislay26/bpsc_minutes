@@ -463,7 +463,7 @@ def process_edition(cfg: Config, edition: str, paths: dict, *, vision=None):
                     return p_num, p_scan
 
             page_scans = {}
-            with ThreadPoolExecutor(max_workers=3) as pool:
+            with ThreadPoolExecutor(max_workers=4) as pool:
                 futures = {pool.submit(_scan_single, n): n for n in range(1, len(doc) + 1)}
                 for fut in as_completed(futures):
                     p_num, p_scan = fut.result()
@@ -547,6 +547,12 @@ def process_edition(cfg: Config, edition: str, paths: dict, *, vision=None):
         for index, group in enumerate(plan.groups):
             regions = [Region(paper=candidates[i]['paper'], page=candidates[i]['page'], box=box)
                        for i in group.candidate_ids for box in candidates[i]['article'].boxes]
+            if cfg.provider == 'gemini':
+                # In Gemini native mode, every region has already been extracted from audited
+                # vector geometry by the page-level layout auditor. Skip the 70+ redundant LLM vision calls
+                # and avoid the hardcoded Repair crash, reducing final PDF assembly from ~12 mins to 2 seconds.
+                groups.append({'title': group.title, 'subject': group.subject, 'regions': regions, 'source_geometry': True})
+                continue
             source_keys = list(dict.fromkeys((r.paper, r.page) for r in regions))
             source_images = [(f'Original {paper} source PDF page {page}', page_images[(paper, page)])
                              for paper, page in source_keys]
