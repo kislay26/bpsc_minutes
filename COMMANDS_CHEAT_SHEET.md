@@ -6,17 +6,18 @@ This guide contains all the direct commands to manage, inspect, and debug the So
 
 ## 1. Connecting to the VM
 
-### Direct Browser Links
-- **[Direct Browser SSH to VM `bpsc-bot`](https://ssh.cloud.google.com/v2/ssh?project=august-cascade-457313-n3&zone=us-central1-a&instance=bpsc-bot)** *(One-click SSH terminal in your browser)*
-- **[Google Cloud Shell (Direct Link)](https://shell.cloud.google.com/?project=august-cascade-457313-n3)** *(GCP project: `august-cascade-457313-n3`)*
-- **[Compute Engine Console](https://console.cloud.google.com/compute/instances?project=august-cascade-457313-n3)**
+### How to Connect (Choose One):
+1. **[Google Cloud Compute Engine Instances Console](https://console.cloud.google.com/compute/instances?project=august-cascade-457313-n3)**  
+   👉 Click the blue **`SSH`** button right next to the VM `bpsc-bot`.
+2. **[Google Cloud Shell](https://shell.cloud.google.com/?project=august-cascade-457313-n3)**  
+   👉 In Cloud Shell terminal, run:
+   ```bash
+   gcloud compute ssh bpsc-bot --zone=us-central1-a
+   ```
 
-### From Cloud Shell Terminal:
-```bash
-gcloud compute ssh bpsc-bot --zone=us-central1-a
-```
-
-*(If prompted to create an SSH key or accept defaults, type `Y` or press `Enter`).*
+> [!IMPORTANT]
+> **Check your terminal prompt first!**  
+> If you see `kislaykrishna26@bpsc-bot:~$`, you are **already connected inside the VM**. Do NOT run `gcloud compute ssh` inside the VM, as it will produce an authentication scope error. Run `cd ~/bpsc` and `journalctl -u bpsc-bot -f` directly.
 
 ---
 
